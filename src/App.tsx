@@ -219,7 +219,32 @@ export const App: React.FC = () => {
               </div>
 
               {/* Base Rate Selector with Rich Tooltips */}
-              <div className="inline-flex items-center rounded-xl bg-slate-950 p-1 border border-slate-800 text-xs">
+              <div className="inline-flex flex-wrap items-center rounded-xl bg-slate-950 p-1 border border-slate-800 text-xs">
+                <div className="relative group">
+                  <button
+                    type="button"
+                    onClick={() => updateParams({ baseRateMode: 'season' as BaseRateMode })}
+                    className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-lg font-semibold transition-colors cursor-pointer ${
+                      params.baseRateMode === 'season'
+                        ? 'bg-orange-500 text-slate-950'
+                        : 'text-slate-400 hover:text-slate-200'
+                    }`}
+                  >
+                    <span>Base Rate: Season Pool ({formatPercent(analysis.baseRateSeasonP)})</span>
+                    <HelpCircle className="w-3 h-3 opacity-75" />
+                  </button>
+                  <div className="pointer-events-none opacity-0 group-hover:opacity-100 transition-opacity duration-150 absolute left-0 top-full mt-2 w-72 z-40 rounded-xl bg-slate-900 border border-slate-700 p-3 text-[11px] text-slate-200 shadow-2xl leading-relaxed">
+                    <div className="font-bold text-orange-300 mb-1">
+                      Active Season Pool ({analysis.phallicCoachSeasons} /{' '}
+                      {analysis.totalCoachSeasons} coach-seasons)
+                    </div>
+                    Evaluates each coaching hire against the exact pool of{' '}
+                    <code className="text-orange-300">n</code> active NHL coaches in that specific
+                    season (e.g., 7/38 in 2018–19 vs. 0/29 in 1980–81), rather than assuming all
+                    322 historical coaches were available in every year.
+                  </div>
+                </div>
+
                 <div className="relative group">
                   <button
                     type="button"
@@ -230,7 +255,7 @@ export const App: React.FC = () => {
                         : 'text-slate-400 hover:text-slate-200'
                     }`}
                   >
-                    <span>Base Rate: Hiring Events ({formatPercent(analysis.baseRateStintsP)})</span>
+                    <span>Hiring Events ({formatPercent(analysis.baseRateStintsP)})</span>
                     <HelpCircle className="w-3 h-3 opacity-75" />
                   </button>
                   <div className="pointer-events-none opacity-0 group-hover:opacity-100 transition-opacity duration-150 absolute left-0 top-full mt-2 w-72 z-40 rounded-xl bg-slate-900 border border-slate-700 p-3 text-[11px] text-slate-200 shadow-2xl leading-relaxed">
@@ -238,10 +263,9 @@ export const App: React.FC = () => {
                       Hiring Events Base Rate ({analysis.phallicLeagueStints} /{' '}
                       {analysis.totalLeagueStints} hires)
                     </div>
-                    Calculates the baseline probability <code className="text-orange-300">p</code>{' '}
-                    across every coaching hire in the league. Because NHL teams frequently recycle
-                    veteran coaches (like Laviolette, DeBoer, Hitchcock, and Babcock), weighting by
-                    hiring events reflects the real-world odds of a hire.
+                    Calculates a single historical probability <code className="text-orange-300">p</code>{' '}
+                    across every coaching hire in the league since {params.sinceYear}, weighting
+                    coaches by how often NHL teams hired them.
                   </div>
                 </div>
 
@@ -264,8 +288,8 @@ export const App: React.FC = () => {
                       {analysis.totalUniqueCoaches} coaches)
                     </div>
                     Calculates the baseline probability <code className="text-orange-300">p</code>{' '}
-                    counting each individual person only once, regardless of how many different NHL
-                    teams hired them.
+                    counting each individual person only once across the entire {params.sinceYear}–2027
+                    corpus, regardless of how many teams hired them or when they coached.
                   </div>
                 </div>
               </div>

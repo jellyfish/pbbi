@@ -569,6 +569,10 @@ def main():
         coaches_list.append(d)
     stints_list = [dict(r) for r in cur.execute("SELECT * FROM coaching_stints ORDER BY franchise_id, stint_seq")]
 
+    season_coaches = {}
+    for r in cur.execute("SELECT DISTINCT season, coach_id FROM coach_seasons ORDER BY season, coach_id"):
+        season_coaches.setdefault(r["season"], []).append(r["coach_id"])
+
     bundle = {
         "generatedAt": "2026-10-17",
         "seasonThrough": "2026-27",
@@ -576,6 +580,7 @@ def main():
         "rules": rules_list,
         "coaches": coaches_list,
         "stints": stints_list,
+        "seasonCoaches": season_coaches,
     }
     out_json_path = out_json_dir / "nhlData.json"
     out_json_path.write_text(json.dumps(bundle, indent=2))

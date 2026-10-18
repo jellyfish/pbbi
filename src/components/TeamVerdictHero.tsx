@@ -210,8 +210,13 @@ export const TeamVerdictHero: React.FC<TeamVerdictHeroProps> = ({
             {teamRes.verdictTitle}
           </div>
           <div className="mt-1 text-[11px] text-slate-500">
-            League Base Rate ({params.baseRateMode === 'stints' ? 'By Stint' : 'Unique Pool'}):{' '}
-            <strong className="text-slate-300">{formatPercent(analysis.baseRateP)}</strong>
+            League Base Rate (
+            {params.baseRateMode === 'season'
+              ? 'Season Pool'
+              : params.baseRateMode === 'stints'
+              ? 'By Stint'
+              : 'Unique Pool'}
+            ): <strong className="text-slate-300">{formatPercent(analysis.baseRateP)}</strong>
           </div>
         </div>
       </div>
@@ -230,7 +235,7 @@ export const TeamVerdictHero: React.FC<TeamVerdictHeroProps> = ({
         >
           <div className="flex items-center justify-between text-xs text-slate-400 mb-1">
             <span className="font-semibold uppercase tracking-wider">
-              1. Exact Streak Odds (p<sup>{streakK}</sup>)
+              1. Exact Streak Odds ({params.baseRateMode === 'season' ? '∏ p_t' : <>p<sup>{streakK}</sup></>})
             </span>
             {params.metricMode === 'streak' && (
               <span className="text-[10px] bg-orange-500/20 text-orange-300 px-1.5 py-0.5 rounded font-bold">
@@ -245,8 +250,18 @@ export const TeamVerdictHero: React.FC<TeamVerdictHeroProps> = ({
             {streakK > 0 ? `(${formatOddsOneIn(teamRes.naiveMaxStreakProb)})` : 'No phallic hires'}
           </div>
           <p className="text-[11px] text-slate-400 mt-2 leading-relaxed">
-            Odds that <strong>specifically {streakK || 1} consecutive hires</strong> are all phallic at a{' '}
-            {formatPercent(analysis.baseRateP)} base rate. Without replacement:{' '}
+            {params.baseRateMode === 'season' ? (
+              <>
+                Product of the active league coaching pool rates across{' '}
+                <strong>those exact {streakK || 1} hire seasons</strong>.
+              </>
+            ) : (
+              <>
+                Odds that <strong>specifically {streakK || 1} consecutive hires</strong> are all
+                phallic at a {formatPercent(analysis.baseRateP)} base rate.
+              </>
+            )}{' '}
+            Without replacement:{' '}
             <span className="text-slate-300 font-mono">
               {streakK > 0 ? formatOddsOneIn(teamRes.hypergeoMaxStreakProb) : 'N/A'}
             </span>

@@ -53,30 +53,35 @@ export const StatsPrimer: React.FC<StatsPrimerProps> = ({
             <p className="text-xs text-slate-300 leading-relaxed">
               Before we can calculate the odds of a streak, we need the probability{' '}
               <code className="text-orange-300">p</code> that any single coaching hire results in a
-              phallic-named coach. Intriguingly, there are two ways to measure this:
+              phallic-named coach. There are three ways to measure this:
             </p>
             <ul className="space-y-2.5 text-xs text-slate-300">
-              <li className="p-3 rounded-lg bg-slate-900 border border-slate-800">
-                <strong className="text-white block mb-0.5">
-                  Option A: Unique Coach Pool ({analysis.phallicUniqueCoaches} /{' '}
-                  {analysis.totalUniqueCoaches} = {formatPercent(analysis.baseRateUniqueP)})
-                </strong>
-                Out of {analysis.totalUniqueCoaches} unique people who have been NHL head coaches
-                since {params.sinceYear}, {analysis.phallicUniqueCoaches} have phallic names under
-                your current dictionary. Use this if every coach in history is equally likely to be
-                picked.
-              </li>
               <li className="p-3 rounded-lg bg-slate-900 border border-orange-500/30">
                 <strong className="text-orange-300 block mb-0.5">
-                  Option B: All Hiring Events ({analysis.phallicLeagueStints} /{' '}
-                  {analysis.totalLeagueStints} = {formatPercent(analysis.baseRateStintsP)}) — Recommended
+                  Option A: Active Season Pool ({analysis.phallicCoachSeasons} /{' '}
+                  {analysis.totalCoachSeasons} = {formatPercent(analysis.baseRateSeasonP)}) — Default
                 </strong>
-                Wait—why is the hiring-event rate ~1.3x higher than the unique coach rate? Because{' '}
-                <strong>NHL GMs love recycling phallic-named coaches!</strong> Coaches like Peter
-                Laviolette (6 teams), Peter DeBoer (6 teams), Ken Hitchcock (5 teams), Mike Babcock
-                (4 teams), and Dave Tippett (4 teams) get hired over and over again. Weighting by
-                actual hiring events gives random chance a fairer, higher baseline (
-                {formatPercent(analysis.baseRateStintsP)}).
+                You couldn't hire Jay Woodcroft in 2006, and in 1980–81 zero active NHL coaches had
+                phallic names (0/29), whereas in 2018–19 seven did (7/38 = 18.4%). This mode
+                evaluates every coaching hire against the exact pool of active NHL coaches in that
+                specific season.
+              </li>
+              <li className="p-3 rounded-lg bg-slate-900 border border-slate-800">
+                <strong className="text-white block mb-0.5">
+                  Option B: All Hiring Events ({analysis.phallicLeagueStints} /{' '}
+                  {analysis.totalLeagueStints} = {formatPercent(analysis.baseRateStintsP)})
+                </strong>
+                Weights the historical pool by how often coaches were actually hired across the
+                league, accounting for the NHL's "Old Boys' Club" recycling of coaches like
+                Laviolette (6 teams), DeBoer (6 teams), Hitchcock (5 teams), and Babcock (4 teams).
+              </li>
+              <li className="p-3 rounded-lg bg-slate-900 border border-slate-800">
+                <strong className="text-white block mb-0.5">
+                  Option C: Unique Coach Pool ({analysis.phallicUniqueCoaches} /{' '}
+                  {analysis.totalUniqueCoaches} = {formatPercent(analysis.baseRateUniqueP)})
+                </strong>
+                Counts each of the {analysis.totalUniqueCoaches} unique NHL head coaches since{' '}
+                {params.sinceYear} equally once.
               </li>
             </ul>
           </div>
@@ -96,18 +101,29 @@ export const StatsPrimer: React.FC<StatsPrimerProps> = ({
             <div className="space-y-2.5 text-xs">
               <div className="p-3 rounded-lg bg-slate-900 border border-slate-800">
                 <div className="flex justify-between font-bold text-white mb-0.5">
-                  <span>1. Naive / Specific Streak Odds (p^{k})</span>
+                  <span>
+                    1. Specific Streak Odds ({params.baseRateMode === 'season' ? '∏ p_t' : `p^${k}`})
+                  </span>
                   <span className="font-mono text-orange-300">
-                    {formatPercent(Math.pow(p, k))} ({formatOddsOneIn(Math.pow(p, k))})
+                    {formatPercent(tr.naiveMaxStreakProb)} ({formatOddsOneIn(tr.naiveMaxStreakProb)})
                   </span>
                 </div>
                 <p className="text-slate-400">
-                  If you walked into 2018 and predicted that the next {k} consecutive hires would all
-                  be phallic, the probability is{' '}
-                  <code>
-                    ({(p * 100).toFixed(2)}%)^{k}
-                  </code>
-                  .
+                  {params.baseRateMode === 'season' ? (
+                    <>
+                      Multiplies the active league coaching pool rate in each of the exact {k}{' '}
+                      seasons the streak occurred.
+                    </>
+                  ) : (
+                    <>
+                      If you predicted in advance that the next {k} consecutive hires would all be
+                      phallic, the probability is{' '}
+                      <code>
+                        ({(p * 100).toFixed(2)}%)^{k}
+                      </code>
+                      .
+                    </>
+                  )}
                 </p>
               </div>
 

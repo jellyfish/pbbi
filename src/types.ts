@@ -75,9 +75,10 @@ export interface NhlDataBundle {
   rules: PhallicRule[];
   coaches: Coach[];
   stints: CoachingStint[];
+  seasonCoaches: Record<string, string[]>;
 }
 
-export type BaseRateMode = 'stints' | 'unique';
+export type BaseRateMode = 'season' | 'stints' | 'unique';
 export type MetricMode = 'streak' | 'history' | 'binomial';
 export type PresetMode = 'strict' | 'broad' | 'custom';
 export type ActiveTab = 'analysis' | 'leaderboard' | 'corpus' | 'primer';

@@ -6,7 +6,7 @@ export const DEFAULT_PARAMS: AppParams = {
   preset: 'strict',
   enabledRules: [...PRESET_RULES.strict],
   customSubstrings: [],
-  baseRateMode: 'stints',
+  baseRateMode: 'season',
   metricMode: 'history',
   includeInterim: true,
   includeRelocated: true,
@@ -52,7 +52,9 @@ export function parseUrlParams(search: string, validTeams: Set<string>, validRul
 
   const rawBase = sp.get('base') as BaseRateMode | null;
   const baseRateMode: BaseRateMode =
-    rawBase && ['stints', 'unique'].includes(rawBase) ? rawBase : DEFAULT_PARAMS.baseRateMode;
+    rawBase && ['season', 'stints', 'unique'].includes(rawBase)
+      ? rawBase
+      : DEFAULT_PARAMS.baseRateMode;
 
   const rawMetric = sp.get('metric') as MetricMode | null;
   const metricMode: MetricMode =

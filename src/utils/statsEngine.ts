@@ -113,6 +113,31 @@ export function probLongestRunAtLeastK(n: number, k: number, p: number): number 
   return Math.min(1, Math.max(0, dp[k]));
 }
 
+export function probLongestRunAtLeastKNonHomogeneous(probs: number[], k: number): number {
+  if (k <= 0) return 1;
+  if (probs.length < k) return 0;
+
+  let dp = new Float64Array(k + 1);
+  dp[0] = 1.0;
+
+  for (let step = 0; step < probs.length; step++) {
+    const p = Math.min(1, Math.max(0, probs[step]));
+    const next = new Float64Array(k + 1);
+    for (let s = 0; s < k; s++) {
+      next[0] += dp[s] * (1 - p);
+      if (s + 1 < k) {
+        next[s + 1] += dp[s] * p;
+      } else {
+        next[k] += dp[s] * p;
+      }
+    }
+    next[k] += dp[k];
+    dp = next;
+  }
+
+  return Math.min(1, Math.max(0, dp[k]));
+}
+
 /**
  * Exact one-sided Binomial tail probability P(Binomial(n, p) >= x)
  */
@@ -138,6 +163,34 @@ export function binomialTailProb(n: number, x: number, p: number): number {
   }
 
   return Math.min(1, Math.max(0, totalProb));
+}
+
+/**
+ * Exact one-sided Poisson-Binomial tail probability P(sum(Bernoulli(p_i)) >= x)
+ */
+export function poissonBinomialTailProb(probs: number[], x: number): number {
+  const n = probs.length;
+  if (x <= 0) return 1;
+  if (x > n) return 0;
+
+  let dp = new Float64Array(n + 1);
+  dp[0] = 1.0;
+
+  for (let i = 0; i < n; i++) {
+    const p = Math.min(1, Math.max(0, probs[i]));
+    const next = new Float64Array(n + 1);
+    for (let j = 0; j <= i; j++) {
+      next[j] += dp[j] * (1 - p);
+      next[j + 1] += dp[j] * p;
+    }
+    dp = next;
+  }
+
+  let tail = 0;
+  for (let j = x; j <= n; j++) {
+    tail += dp[j];
+  }
+  return Math.min(1, Math.max(0, tail));
 }
 
 /**
@@ -169,8 +222,8 @@ export interface TeamAnalysisResult {
   maxStreakCoaches: EvaluatedStint[];
   currentStreakCoaches: EvaluatedStint[];
   // Probabilities
-  naiveMaxStreakProb: number; // p^maxStreak
-  naiveCurrentStreakProb: number; // p^currentStreak
+  naiveMaxStreakProb: number; // p^maxStreak (or product of p_s in season mode)
+  naiveCurrentStreakProb: number;
   hypergeoMaxStreakProb: number; // without replacement
   markovHistoryMaxStreakProb: number; // P(MaxRun >= maxStreak in N hires)
   leagueWideLookElsewhereProb: number; // P(At least 1 of 32 teams has MaxRun >= maxStreak)
@@ -187,8 +240,11 @@ export interface TeamAnalysisResult {
 
 export interface FullLeagueAnalysis {
   baseRateP: number;
+  baseRateSeasonP: number;
   baseRateUniqueP: number;
   baseRateStintsP: number;
+  totalCoachSeasons: number;
+  phallicCoachSeasons: number;
   totalUniqueCoaches: number;
   phallicUniqueCoaches: number;
   totalLeagueStints: number;
@@ -288,7 +344,27 @@ export function runFullAnalysis(data: NhlDataBundle, params: AppParams): FullLea
     coachMap.set(c.coach_id, evaluateCoach(c, data.rules, enabledRuleIds, params.customSubstrings));
   }
 
-  // 2. Group raw stints by franchise
+  // 2. Compute per-season active pool rates from data.seasonCoaches
+  const seasonRateMap = new Map<string, number>();
+  let totalCoachSeasons = 0;
+  let phallicCoachSeasons = 0;
+
+  if (data.seasonCoaches) {
+    for (const [season, cids] of Object.entries(data.seasonCoaches)) {
+      const startYr = Number(season.slice(0, 4));
+      const endYr = startYr + 1;
+      const tot = cids.length;
+      const ph = cids.filter((cid) => coachMap.get(cid)?.isPhallic).length;
+      const pSeason = tot > 0 ? ph / tot : 0;
+      seasonRateMap.set(season, pSeason);
+      if (endYr >= params.sinceYear) {
+        totalCoachSeasons += tot;
+        phallicCoachSeasons += ph;
+      }
+    }
+  }
+
+  // 3. Group raw stints by franchise
   const stintsByFranchise = new Map<string, CoachingStint[]>();
   for (const f of data.franchises) {
     stintsByFranchise.set(f.franchise_id, []);
@@ -298,7 +374,7 @@ export function runFullAnalysis(data: NhlDataBundle, params: AppParams): FullLea
     if (arr) arr.push(st);
   }
 
-  // 3. First pass: filter stints for all franchises to compute league-wide base rates
+  // 4. First pass: filter stints for all franchises to compute league-wide base rates
   let totalLeagueStints = 0;
   let phallicLeagueStints = 0;
   const activeCoachIdsInWindow = new Set<string>();
@@ -319,18 +395,31 @@ export function runFullAnalysis(data: NhlDataBundle, params: AppParams): FullLea
 
   const baseRateUniqueP = totalUniqueCoaches > 0 ? phallicUniqueCoaches / totalUniqueCoaches : 0;
   const baseRateStintsP = totalLeagueStints > 0 ? phallicLeagueStints / totalLeagueStints : 0;
-  const baseRateP = params.baseRateMode === 'unique' ? baseRateUniqueP : baseRateStintsP;
+  const baseRateSeasonP = totalCoachSeasons > 0 ? phallicCoachSeasons / totalCoachSeasons : baseRateStintsP;
+  const baseRateP =
+    params.baseRateMode === 'season'
+      ? baseRateSeasonP
+      : params.baseRateMode === 'unique'
+      ? baseRateUniqueP
+      : baseRateStintsP;
 
-  // Precompute all franchise hire counts for Look-Elsewhere correction
-  const franchiseHireCounts: number[] = [];
+  // Precompute all active franchise stint sequences for Look-Elsewhere correction
+  const activeFranchiseStintProbs: number[][] = [];
   for (const f of data.franchises) {
     if (!f.is_active && f.franchise_id !== params.team) continue;
     const raw = stintsByFranchise.get(f.franchise_id) || [];
     const stints = filterAndMergeStintsForFranchise(raw, params, coachMap);
-    if (stints.length > 0) franchiseHireCounts.push(stints.length);
+    if (stints.length > 0) {
+      const probs = stints.map((st) =>
+        params.baseRateMode === 'season'
+          ? seasonRateMap.get(st.start_season) ?? baseRateSeasonP
+          : baseRateP
+      );
+      activeFranchiseStintProbs.push(probs);
+    }
   }
 
-  // 4. Compute full metrics for each franchise
+  // 5. Compute full metrics for each franchise
   const teamResults: TeamAnalysisResult[] = [];
 
   for (const f of data.franchises) {
@@ -340,8 +429,19 @@ export function runFullAnalysis(data: NhlDataBundle, params: AppParams): FullLea
     const totalHires = stints.length;
     const phallicHires = stints.filter((s) => s.isPhallic).length;
     const phallicProportion = totalHires > 0 ? phallicHires / totalHires : 0;
-    const expectedPhallicHires = totalHires * baseRateP;
-    const overIndexRatio = baseRateP > 0 ? phallicProportion / baseRateP : 0;
+
+    const stintProbs = stints.map((st) =>
+      params.baseRateMode === 'season'
+        ? seasonRateMap.get(st.start_season) ?? baseRateSeasonP
+        : baseRateP
+    );
+
+    const expectedPhallicHires =
+      params.baseRateMode === 'season'
+        ? stintProbs.reduce((acc, val) => acc + val, 0)
+        : totalHires * baseRateP;
+    const effectiveTeamBaseP = totalHires > 0 ? expectedPhallicHires / totalHires : baseRateP;
+    const overIndexRatio = effectiveTeamBaseP > 0 ? phallicProportion / effectiveTeamBaseP : 0;
 
     // Streaks
     let maxStreak = 0;
@@ -366,26 +466,60 @@ export function runFullAnalysis(data: NhlDataBundle, params: AppParams): FullLea
       currentStreak > 0 ? stints.slice(stints.length - currentStreak) : [];
 
     // Probabilities
-    const naiveMaxStreakProb = maxStreak > 0 ? Math.pow(baseRateP, maxStreak) : 1;
-    const naiveCurrentStreakProb = currentStreak > 0 ? Math.pow(baseRateP, currentStreak) : 1;
+    let naiveMaxStreakProb = 1;
+    if (maxStreak > 0) {
+      if (params.baseRateMode === 'season') {
+        naiveMaxStreakProb = maxStreakCoaches.reduce(
+          (prod, st) => prod * (seasonRateMap.get(st.start_season) ?? baseRateSeasonP),
+          1
+        );
+      } else {
+        naiveMaxStreakProb = Math.pow(baseRateP, maxStreak);
+      }
+    }
+
+    let naiveCurrentStreakProb = 1;
+    if (currentStreak > 0) {
+      if (params.baseRateMode === 'season') {
+        naiveCurrentStreakProb = currentStreakCoaches.reduce(
+          (prod, st) => prod * (seasonRateMap.get(st.start_season) ?? baseRateSeasonP),
+          1
+        );
+      } else {
+        naiveCurrentStreakProb = Math.pow(baseRateP, currentStreak);
+      }
+    }
+
     const hypergeoMaxStreakProb =
       maxStreak > 0
         ? hypergeometricStreakProb(totalUniqueCoaches, phallicUniqueCoaches, maxStreak)
         : 1;
     const markovHistoryMaxStreakProb =
-      maxStreak > 0 ? probLongestRunAtLeastK(totalHires, maxStreak, baseRateP) : 1;
+      maxStreak > 0
+        ? params.baseRateMode === 'season'
+          ? probLongestRunAtLeastKNonHomogeneous(stintProbs, maxStreak)
+          : probLongestRunAtLeastK(totalHires, maxStreak, baseRateP)
+        : 1;
 
     // League-wide probability that AT LEAST ONE of the active NHL franchises would hit maxStreak
     let probNoTeamHitsStreak = 1.0;
     if (maxStreak > 0) {
-      for (const nHires of franchiseHireCounts) {
-        const pTeam = probLongestRunAtLeastK(nHires, maxStreak, baseRateP);
+      for (const fProbs of activeFranchiseStintProbs) {
+        const pTeam =
+          params.baseRateMode === 'season'
+            ? probLongestRunAtLeastKNonHomogeneous(fProbs, maxStreak)
+            : probLongestRunAtLeastK(fProbs.length, maxStreak, baseRateP);
         probNoTeamHitsStreak *= 1 - pTeam;
       }
     }
     const leagueWideLookElsewhereProb = maxStreak > 0 ? 1 - probNoTeamHitsStreak : 1;
 
-    const binomialProb = phallicHires > 0 ? binomialTailProb(totalHires, phallicHires, baseRateP) : 1;
+    const binomialProb =
+      phallicHires > 0
+        ? params.baseRateMode === 'season'
+          ? poissonBinomialTailProb(stintProbs, phallicHires)
+          : binomialTailProb(totalHires, phallicHires, baseRateP)
+        : 1;
 
     let selectedMetricProb = markovHistoryMaxStreakProb;
     if (params.metricMode === 'streak') {
@@ -395,7 +529,6 @@ export function runFullAnalysis(data: NhlDataBundle, params: AppParams): FullLea
     }
 
     // Composite Phallic Obsession Score (0-100)
-    // Combines surprise (-log10(p)) of longest streak in team history + binomial proportion + active streak bonus
     let obsessionScore = 0;
     if (phallicHires > 0 && baseRateP > 0) {
       const runSurprise = Math.min(4.5, -Math.log10(Math.max(1e-6, markovHistoryMaxStreakProb))); // 0..4.5
@@ -426,7 +559,7 @@ export function runFullAnalysis(data: NhlDataBundle, params: AppParams): FullLea
     } else if (markovHistoryMaxStreakProb < 0.08 || binomialProb < 0.08 || maxStreak >= 3) {
       verdictAnswer = 'PROBABLY — SUSPICIOUSLY FIXATED';
       verdictTitle = 'Suspiciously High Phallic Affinity';
-      verdictSubtitle = `Hired ${phallicHires} phallic coaches (${(phallicProportion * 100).toFixed(1)}%, ${overIndexRatio.toFixed(1)}x league rate) with a ${maxStreak}-coach streak.`;
+      verdictSubtitle = `Hired ${phallicHires} phallic coaches (${(phallicProportion * 100).toFixed(1)}%, ${overIndexRatio.toFixed(1)}x expected rate) with a ${maxStreak}-coach streak.`;
       verdictBadgeColor = 'orange';
     } else if (overIndexRatio >= 1.25 || maxStreak >= 2 || currentStreak >= 1) {
       verdictAnswer = 'MAYBE — PHALLIC-CURIOUS';
@@ -484,8 +617,11 @@ export function runFullAnalysis(data: NhlDataBundle, params: AppParams): FullLea
 
   return {
     baseRateP,
+    baseRateSeasonP,
     baseRateUniqueP,
     baseRateStintsP,
+    totalCoachSeasons,
+    phallicCoachSeasons,
     totalUniqueCoaches,
     phallicUniqueCoaches,
     totalLeagueStints,

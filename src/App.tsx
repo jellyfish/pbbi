@@ -563,9 +563,20 @@ export const App: React.FC = () => {
             Data sourced from Hockey-Reference &amp; NHL Records API (1970–2027) • Stored locally in{' '}
             <code className="text-slate-400">data/nhl_coaches.db</code> (SQLite)
           </div>
-          <div>
-            Every filter and dictionary rule is persisted in the URL query string for instant
-            sharing.
+          <div className="flex flex-wrap items-center gap-3">
+            <span>
+              Every filter and dictionary rule is persisted in the URL query string for instant
+              sharing.
+            </span>
+            <span className="text-slate-700">•</span>
+            <a
+              href="https://github.com/jellyfish/pbbi"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-orange-400 hover:text-orange-300 font-semibold underline underline-offset-4 transition-colors"
+            >
+              GitHub Repo
+            </a>
           </div>
         </div>
       </footer>

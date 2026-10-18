@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+.vite/
+
+# Raw scraped HTML/JSON cache (SQLite DB and src/data/nhlData.json remain tracked)
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS & Editor files
+.DS_Store
+*.log
+.env
+.env.*

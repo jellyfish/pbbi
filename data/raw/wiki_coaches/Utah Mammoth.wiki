@@ -1,0 +1,328 @@
+{{Short description|National Hockey League team in Salt Lake City, Utah}}
+{{redirect|Utah Hockey Club|others|ice hockey in Utah}}
+{{Use American English|date=February 2026}}
+{{Use mdy dates|date=January 2025}}
+{{Infobox NHL team
+| team_name = Utah Mammoth
+| current = 2026–27 Utah Mammoth season
+| bg_color = background:#FFFFFF !important; border-top:#010101 5px solid !important; border-bottom:#7AB2E0 5px solid !important;
+| text_color = #000000
+| logo_image = UtahMammoth.svg
+| logo_image_size = 
+| conference = [[Western Conference (NHL)|Western]]
+| division = [[Central Division (NHL)|Central]]
+| founded = 2024{{efn-ua|The team was technically formed in 2024; in terms of the team's history, it was not considered a relocation of the Arizona Coyotes. Utah only received the existing personnel and picks, similar to the aftermath of the [[Cleveland Browns relocation controversy]].<ref>{{cite press release|title=Board Approves Establishment of New Franchise in Utah, Future Reactivation of Arizona Franchise|url=https://www.nhl.com/news/board-approves-establishment-of-new-franchise-in-utah-2024 |website=National Hockey League |date=April 18, 2024|access-date=November 17, 2024}}</ref><ref>{{cite web|title=UTA Records - Utah Hockey Club - Season-by-Season Record|url=https://records.nhl.com/uta/franchises/utah-hockey-club/season-by-season-record |website=National Hockey League |access-date=November 17, 2024}}</ref>}}
+| history = <!--Do not add anything in regards to the Jets/Coyotes franchise as Utah is a separate expansion team.-->'''Utah Hockey Club'''<br />[[2024–25 NHL season|2024–2025]]<br />'''Utah Mammoth'''<br />[[2025–26 NHL season|2025]]–present
+| arena = [[Delta Center]]
+| city = [[Salt Lake City]], Utah
+| uniform_image = WCC-Uniform-UTA.png
+| uniform_image_size = 240px
+| team_colors = Rock black, mountain blue, salt white<!-- Please DO NOT change the color names or HTML color codes in this field. They are OFFICIAL, per https://assets.nhle.com/logos/nhl/svg/UTA_dark.svg. Also, please DO NOT remove the URL references from this field or change the wiki-code formatting for the URL references in this field. Thank you. --><ref name="UtahMammothAnnouncement">{{cite press release|title=Utah's NHL Franchise Officially Named the Utah Mammoth|url=https://www.nhl.com/utah/news/utah-s-nhl-franchise-officially-named-the-utah-mammoth-release-5-7-25|publisher=NHL Enterprises|website=NHL.com|date=May 7, 2025|access-date=May 8, 2025}}</ref><ref name="UtahMammothUnveiled">{{cite news|last=Cotsonika|first=Nicholas J.|title=Utah Mammoth unveiled as permanent brand identity after 4 rounds of surveys, fan vote|url=https://www.nhl.com/news/mammoth-unveiled-as-utah-nickname|publisher=NHL Enterprises|website=NHL.com|date=May 7, 2025|access-date=May 8, 2025}}</ref><br />{{color box|#010101}} {{color box|#7AB2E0}} {{color box|#FFFFFF}}
+| media_affiliates = [[KUPX-TV]]<br />[[KZNS (AM)|KZNS]]
+| owner = [[Ryan Smith (businessman)|Ryan Smith]]
+| general_manager = [[Bill Armstrong (ice hockey, born 1970)|Bill Armstrong]]
+| head_coach = [[André Tourigny|Andre Tourigny]]
+| captain = [[Clayton Keller]]
+| minor_league_affiliates = [[Tucson Roadrunners]] ([[American Hockey League|AHL]])
+| stanley_cups = '''0'''
+| conf_titles = '''0'''
+| presidents'_trophies = '''0'''
+| division_titles = '''0'''
+| website = {{URL|nhl.com/utah}}
+}}
+The '''Utah Mammoth''' are a professional [[ice hockey]] team based in [[Salt Lake City]]. The Mammoth compete in the [[National Hockey League]] (NHL) as a member of the [[Central Division (NHL)|Central Division]] in the [[Western Conference (NHL)|Western Conference]]. The franchise joined the league as an [[expansion team]] for the [[2024–25 NHL season|2024–25 season]]. The team plays its home games at the [[Delta Center]], an arena they share with the [[Utah Jazz]] of the [[National Basketball Association]] (NBA).
+
+The team was created on April 18, 2024, with the NHL Board of Governors granting an expansion franchise to Jazz owner [[Ryan Smith (businessman)|Ryan Smith]]. In lieu of an [[expansion draft]] to stock the new team, Smith acquired the hockey assets (players, coaching staff, and draft picks) of the [[Arizona Coyotes]], which suspended hockey operations at the same time.<ref name="BOG announcement">{{cite news|author=NHL Public Relations|title=NHL BOG approves establishment of new franchise in Utah|url=https://www.nhl.com/news/nhl-bog-approves-establishment-of-new-franchise-in-utah|publisher=NHL Enterprises, L.P.|website=NHL.com|date=April 18, 2024|access-date=April 18, 2024}}</ref> The team played its inaugural season in 2024–25 with the temporary name '''Utah Hockey Club''' while a permanent name could be determined.<ref name="DetwilerNHL">{{cite news|last=Detwiler|first=Christopher|title=Utah releases 20 finalists for team name, unveils fan vote|url=https://www.nhl.com/news/utah-fan-vote-on-team-name|publisher=NHL Enterprises, L.P.|website=NHL.com|date=May 8, 2024|access-date=May 20, 2024}}</ref><ref name="UtahNHLNameESPN">{{cite news|title=Utah offers 20 team name ideas, including Frost, Hive, Venom|url=https://www.espn.com/nhl/story/_/id/40111549/utah-offers-20-team-name-ideas-including-frost-hive-venom|publisher=ESPN Internet Ventures, LLC|website=ESPN.com|date=May 8, 2024|access-date=May 9, 2024}}</ref> The team's name, colors, and jerseys for their inaugural season were revealed on June 13, 2024.<ref name="UtahNHLTeamID">{{cite news|title=This Is Utah's Team|url=https://www.nhl.com/utah/news/this-is-utah-s-team|publisher=NHL Enterprises, L.P.|website=NHL.com/Utah|date=June 13, 2024|access-date=June 14, 2024}}</ref> After playing a full season under the temporary name, a fan vote led to the permanent naming of Utah Mammoth, which was revealed on May 7, 2025.<ref name="UtahNHLTeamID" /><ref name="UtahMammothUnveiled" /><ref>{{cite press release|title=Utah's NHL Franchise Officially Named the Utah Mammoth|url=https://media.nhl.com/public/news/18954|publisher=NHL Enterprises|website=Media.NHL.com|date=May 7, 2025|access-date=May 25, 2025|url-status=live}}</ref>
+
+==History==
+
+===Background and establishment===
+
+====History of ice hockey in Salt Lake City====
+{{further|Ice hockey in Utah}}
+{{multiple image
+| direction = vertical
+| align = left
+| image1 = Salt Palace, Salt Lake City UT, July 1990.jpg
+| alt1 = Exterior of a large cylindrical building, with the logo of the Salt Lake Golden Eagles visible on its front
+| image2 = The E Center (387048493).jpg
+| alt2 = Interior of a ice hockey stadium, with a person dressed as the Utah Grizzlies' mascot riding atop a zamboni on the rink
+| footer = Professional minor-league ice hockey has been played in Salt Lake City since 1969, primarily at the former [[Salt Palace (arena)|Salt Palace]] (above) and [[Maverik Center]] (below).
+}}
+Prior to the arrival of the NHL, Salt Lake City's ice hockey history involved multiple minor-league franchises. The first team to call the area home, the [[Salt Lake Golden Eagles]], played 25 seasons across the [[Western Hockey League (1952–1974)|Western Hockey League]] (WHL), [[Central Hockey League (1963–84)|Central Hockey League]] (CHL), and [[International Hockey League (1945–2001)|International Hockey League]] (IHL) from 1969 to 1994. Playing out of the [[Salt Palace (arena)|Salt Palace]] for their first 22 seasons and the then-new [[Delta Center]] for their final three, the Golden Eagles won three [[Adams Cup (ice hockey)|Adams Cup]] championships in the CHL and two [[Turner Cup]] championships in the IHL, before ultimately being sold and relocating to [[Auburn Hills, Michigan]], as the [[Detroit Vipers]] after the [[1993–94 IHL season]].
+
+After just one season out of ice hockey, Salt Lake City received another IHL franchise in 1995, as the reigning Turner Cup champion [[Utah Grizzlies (1995–2005)|Denver Grizzlies]], having been replaced by the newly relocated [[Colorado Avalanche]] of the NHL, relocated to the Delta Center for the [[1995–96 AHL season|1995–96 season]] as the Utah Grizzlies. The Grizzlies spent two seasons in Salt Lake City proper, including a second consecutive Turner Cup championship in 1996; notably, the Cup-clinching game 4 of the Turner Cup Finals saw an attendance of 17,381, at the time the largest single-game attendance in minor-league ice hockey history.<ref>{{cite web|last=Turner|first=Tim|date=June 9, 1996|title=ORLANDO OUSTED IN OT|url=https://www.orlandosentinel.com/news/os-xpm-1996-06-09-9606090196-story.html|website=[[Orlando Sentinel]]}}</ref> The Grizzlies later moved to the newly constructed [[Maverik Center|E Center]] (since renamed the Maverik Center) in the suburb of [[West Valley City, Utah|West Valley City]] for the [[1997–98 AHL season|1997–98 IHL season]], and joined the [[American Hockey League]] (AHL) in [[2001–02 AHL season|2001]] alongside five other surviving IHL franchises upon the latter's collapse. However, the Grizzlies voluntarily suspended operations for the [[2005–06 AHL season|2005–06 season]], before being sold to [[Dan Gilbert]], the owner of the NBA's [[Cleveland Cavaliers]], and relocating to [[Cleveland]], as the [[Cleveland Monsters|Lake Erie Monsters]] (later Cleveland Monsters) for the [[2007–08 AHL season|2007–08 season]].
+
+The AHL iteration of the Grizzlies were subsequently replaced by a relocated [[ECHL]] franchise [[Utah Grizzlies|of the same name]]; the franchise had most recently played in [[Lexington, Kentucky]], as the [[Lexington Men O' War]] but had become dormant after the [[2002–03 ECHL season]]. The new Grizzlies began play out of the E Center in [[2005–06 ECHL season|2005]], immediately after their AHL predecessor had gone dormant, and played 21 seasons in the ECHL. However, the franchise was comparatively unsuccessful; although they missed the playoffs only five times, they won just one division championship and no conference championships, only reaching the conference finals twice. In September 2025, over a year after the Mammoth's arrival, the Grizzlies were sold to an ownership group based in [[Trenton, New Jersey]], where they relocated as the [[Trenton Ironhawks]] following the [[2025–26 ECHL season|2025–26 season]].<ref>{{cite web |last=Fraser |first=Belle |url=https://www.sltrib.com/sports/utah-hockey-club/2025/09/08/utah-grizzlies-set-relocate/ |title=The Utah Grizzlies have their new home. Here's everything you need to know |work=[[The Salt Lake Tribune]] |date=September 8, 2025 |access-date=October 27, 2025}}</ref>
+
+Delta Center previously hosted multiple [[Los Angeles Kings]] preseason games as part of the NHL's [[Frozen Fury]] series.<ref>{{cite news|title=LA Kings to Play Frozen Fury Preseason Game in Salt Lake City|url=https://www.nhl.com/kings/news/la-kings-to-play-frozen-fury-preseason-game-in-salt-lake-city-325331344|publisher=NHL Enterprises, L.P.|website=LAKings.com|date=June 15, 2021|access-date=October 1, 2021}}</ref><ref>{{cite web|url=https://kslsports.com/493868/frozen-fury-vivint-arena-nhl-preseason-la-kings-vegas-golden-knights/|title=Salt Lake City Shows Out For Frozen Fury NHL Game|date=October 6, 2021}}</ref> However, the arena was not considered well suited to host ice hockey permanently, owing to poor sightlines and broadcasting capabilities.<ref>{{cite web |last=Larsen |first=Andy |url=https://www.sltrib.com/sports/2023/10/06/nhls-only-utahn-trevor-lewis/ |title=The NHL's only Utahn thinks the state is ready for hockey's best. Is a major league team ready for Salt Lake? |website=The Salt Lake Tribune |date=October 6, 2023 |access-date=March 29, 2024}}</ref> Maverik Center and [[Peaks Ice Arena]] in the suburb of [[Provo, Utah|Provo]], hosted the [[Ice hockey at the 2002 Winter Olympics|ice hockey tournaments]] at the [[2002 Winter Olympics]] in Salt Lake City, which featured NHL players. Salt Lake City is also the host city for the [[2034 Winter Olympics]].<ref>{{cite web |last=Hill |first=Victoria |date=November 29, 2023 |title=Olympic Committee recommends Salt Lake City as preferred host for 2034 Winter Games |url=https://kutv.com/sports/olympics/winter-olympic-committee-recommends-salt-lake-city-as-host-for-2034-winter-games-utah-sports-snow-athletes-committee |access-date=December 10, 2023 |website=KUTV}}</ref>
+
+====Establishment of the team====
+{{further|Arizona Coyotes}}
+[[File:Delta Center with Arena Station.jpg|thumb|[[Delta Center]], where the Mammoth play their home games]]
+Salt Lake City initially emerged as a potential NHL destination in June 2023, with rumors regarding the [[Arizona Coyotes]]' potential relocation spreading after the failure of the [[New Tempe Arena]] referendum.<ref>{{cite web |last=Cluff |first=Jeremy |url=https://www.azcentral.com/story/sports/nhl/coyotes/2023/06/06/arizona-coyotes-nhl-relocation-speculation-salt-lake-city-utah/70295512007/ |title=Arizona Coyotes to Salt Lake City? Relocation speculation swirls around NHL team in Utah |website=The Arizona Republic |date=June 6, 2023 |access-date=March 29, 2024}}</ref> Six months later, in January 2024, [[Ryan Smith (businessman)|Ryan Smith]], owner of the NBA's [[Utah Jazz]] and co-owner of [[Major League Soccer]]'s [[Real Salt Lake]], petitioned the NHL to begin the process of expansion to [[Salt Lake City]]. Discussions to bring an expansion team to the city were revealed to have been underway since early 2022,<ref>{{cite web |last1=Fox |first1=Derick |title=Utah sports mogul Ryan Smith submits bid to bring NHL to Salt Lake City |url=https://www.abc4.com/sports/utah-ryan-smith-submits-bid-to-bring-nhl-to-salt-lake-city/ |website=ABC4 |date=January 24, 2024 |access-date=January 27, 2024 |archive-date=June 19, 2024 |archive-url=https://web.archive.org/web/20240619100248/https://www.abc4.com/sports/utah-ryan-smith-submits-bid-to-bring-nhl-to-salt-lake-city/ |url-status=dead}}</ref> with the [[Utah State Senate]] passing tax legislation in February 2024 to support a new ice hockey-capable downtown arena proposed by Smith; the only condition asked by the Senate was that any potential team be branded "Utah" to honor the state in general, as opposed to any branding using Salt Lake City.<ref>{{cite web |last=Romboy |first=Dennis |url=https://www.deseret.com/2024/02/27/salt-lake-city-raise-sales-tax-build-nhl-arena/ |title=Utah Senate passes bill for potential downtown hockey arena |website=Deseret News |date=February 27, 2024 |access-date=March 29, 2024}}</ref>
+
+On April 13, 2024, it was reported that, with the NHL's permission, the Coyotes were making efforts to relocate to Salt Lake City following concerns about an indefinite timeframe on a new arena and the effects of continued play at the 4,600-seat [[Mullett Arena]].<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/39966564/coyotes-bid-arizona-farewell-bittersweet-win-oilers|title=Coyotes bid Arizona farewell with bittersweet win over Oilers|date=April 17, 2024|access-date=April 18, 2024|website=ESPN.com |url-status=live |archive-url=https://web.archive.org/web/20240418113538/https://www.espn.com/nhl/story/_/id/39966564/coyotes-bid-arizona-farewell-bittersweet-win-oilers |archive-date=April 18, 2024}}</ref> The deal became official on April 18 after the NHL Board of Governors granted an expansion franchise to Utah using the Coyotes' hockey assets.<ref name="Cotsonika" /> Under the terms of the agreement, the Coyotes franchise was essentially split in half. The Coyotes franchise was officially considered "inactive", with Utah regarded as an [[expansion team]] rather than a successor to the Coyotes, in a similar situation to the [[Cleveland Browns relocation controversy|Cleveland Browns and Baltimore Ravens]] of the [[National Football League]].<ref>{{cite web |last=Wyshynski |first=Greg |author1-link=Greg Wyshynski |url=https://www.espn.com/nhl/story/_/id/39940303/nhl-arizona-coyotes-move-utah-new-name-schedule-players-coaches |title=Everything we know about the Arizona Coyotes moving to Utah – How is the transaction going to work? |website=ESPN.com |date=April 15, 2024 |access-date=April 15, 2024}}</ref>
+
+While the deal was reported in the media as a $1.2 billion "sale" of the Coyotes,<ref>{{cite web |last1=Friedman |first1=Elliotte |title=NHL, Arizona Coyotes preparing for possible relocation to Utah |url=https://www.sportsnet.ca/nhl/nhl-arizona-coyotes-preparing-for-possible-relocation-to-utah/ |website=Sportsnet.ca |access-date=April 13, 2024 |date=April 10, 2024}}</ref><ref>{{cite web |title=Report: NHL, Coyotes make progress on framework for Utah relocation |url=https://www.sportsnet.ca/nhl/report-nhl-preparing-two-scenarios-for-coyotes-future-including-utah-move/ |website=Sportsnet.ca |access-date=April 13, 2024 |date=April 10, 2024}}</ref> it was in reality two separate transactions in which $1&nbsp;billion was paid by the NHL to [[Alex Meruelo]] for the Coyotes franchise, while Smith paid a $1.2&nbsp;billion expansion fee to the NHL's other owners. The $200&nbsp;million difference was thus in effect a ''[[de facto]]'' relocation fee to be shared equally by the other 31 NHL clubs.<ref>{{cite news |last=Boudway |first=Ira |date=April 18, 2024 |title=Billionaire Ryan Smith Gets His NHL Team, Moving Arizona Coyotes to Utah |url=https://www.bloomberg.com/news/articles/2024-04-18/arizona-coyotes-moving-to-salt-lake-city-for-2024-season-approved-by-owners |access-date=April 19, 2024 |work=Bloomberg.com}}</ref> According to Smith, the team sold more than 11,000 season-ticket deposits in the four hours after going on sale, with 6,000 sold in the first two hours.<ref>{{cite web |last=Gould |first=Mike |url=https://www.dailyfaceoff.com/news/ryan-smith-says-utah-nhl-team-has-already-sold-more-than-6000-season-ticket-deposits |title=Ryan Smith says Utah NHL team has already sold more than 11,000 season ticket deposits |website=Daily Faceoff |date=April 18, 2024 |access-date=April 19, 2024}}</ref> 
+
+The team was formally introduced at the Delta Center on April 26, with over 12,000 fans attending a welcome celebration featuring players and coaches.<ref>{{cite news|last=Cotsonika|first=Nicholas J.|title=Players receive warm welcome from 12,400 fans in Utah|url=https://www.nhl.com/news/utah-nhl-team-welcomed-by-fans-at-delta-center|publisher=NHL Enterprises, L.P.|website=NHL.com|date=April 25, 2024|access-date=April 26, 2024}}</ref><ref>{{cite web |last=Romboy |first=Dennis |url=https://www.deseret.com/sports/2024/04/24/utah-nhl-hockey-name-players-ryan-smith/ |title='My best day in the NHL so far': Salt Lake shows up for new hockey club |website=Deseret News |date=April 24, 2024 |access-date=April 26, 2024}}</ref> On May 6, the Smith Entertainment Group announced that a practice facility would be built for the team in the nearby suburb of [[Sandy, Utah]],<ref>{{cite web |last=Miller |first=Ryan |url=https://www.ksl.com/article/51003048/utah-nhl-clubs-training-facility-will-be-built-in-sandy/ |title=Utah NHL club's training facility will be built in Sandy |website=KSL.com |date=May 6, 2024 |access-date=May 7, 2024}}</ref> which had its groundbreaking ceremony on August 12.<ref>{{cite web |last=Carlson |first=Brian |url=https://ksltv.com/670238/seg-breaks-ground-on-utah-hockey-club-training-facility/ |title=Ground broken on new Utah Hockey Club training facility |website=KSL Sports |date=August 12, 2024 |access-date=August 13, 2024}}</ref> On June 13, the NHL announced that the sale of the franchise had officially been completed and that the team would be known as "Utah Hockey Club" for their inaugural season.<ref name="sale-complete">{{cite press release|title=Smith Entertainment Group Officially Acquires NHL Franchise|url=https://www.nhl.com/utah/news/smith-entertainment-group-officially-acquires-nhl-franchise|publisher=NHL Enterprises, L.P.|website=NHL.com/Utah|date=June 13, 2024|access-date=June 14, 2024}}</ref><ref>{{cite press release|title=Utah Hockey Club officially joins NHL, unveils uniforms, logos|url=https://www.nhl.com/news/utah-hockey-club-joins-nhl-unveils-uniforms-logos|publisher=NHL Enterprises, L.P.|website=NHL.com|date=June 13, 2024|access-date=June 14, 2024}}</ref>
+
+===Inaugural season and early years (2024–present)===
+{{See also|2024–25 Utah Hockey Club season}}
+[[File:NHL-Utah-STL-DesMoines2024.jpg|thumb|250px|[[Jack McBain]], [[Logan Cooley]], and [[Dylan Guenther]] line up for a faceoff during Utah's first preseason game in September 2024.]]
+On June 17, Utah made their first official player signing, with former Coyotes third-round pick Noel Nordh signing his three-year, entry-level contract.<ref>{{cite web |url=https://www.nhl.com/news/utah-hockey-club-signs-first-player-since-becoming-nhl-team |title=Nordh becomes 1st player to sign with Utah Hockey Club |website=NHL.com |date=June 17, 2024 |access-date=June 17, 2024}}</ref> This was followed just under two weeks later by [[2024 NHL entry draft|their first NHL entry draft]], where they selected [[Kelowna Rockets]] forward [[Tij Iginla]] as their first-ever draft pick at 6th overall.<ref>{{cite web |last=Shilton |first=Kristen |url=https://www.espn.com/nhl/story/_/id/40454747/utah-hockey-club-takes-tij-iginla-no-6-overall-nhl-draft |title=Utah Hockey Club takes Tij Iginla No. 6 overall in NHL draft |website=ESPN.com |date=June 28, 2024 |access-date=September 24, 2024}}</ref>
+
+Utah played their first preseason game on September 22, 2024, defeating the [[St. Louis Blues]] 5–3 in a neutral-site matchup played at [[Wells Fargo Arena (Des Moines, Iowa)|Wells Fargo Arena]] in [[Des Moines]], [[Iowa]].<ref>{{cite web |last=Tavss |first=Jeff |url=https://www.fox13now.com/sports/utah-hockey-club/utah-hockey-club-scores-first-ever-win-with-5-3-preseason-victory-over-blues |title=Utah Hockey Club scores first-ever win with 5-3 preseason victory over Blues |publisher=Fox 13 Utah |date=September 22, 2024 |access-date=September 24, 2024}}</ref> On September 23, Utah played their first home preseason game at the Delta Center, defeating the [[Los Angeles Kings]] 3–2.<ref>{{cite web |last=Miller |first=Ryan |url=https://www.ksl.com/article/51137130/utah-hockey-club-has-a-near-perfect-debut-at-delta-center |title=Utah Hockey Club has a near-perfect debut at Delta Center |publisher=KSL | date=September 23, 2024 |access-date=September 24, 2024}}</ref>
+
+On October 4, Utah named forward [[Clayton Keller]] as its first [[Captain (ice hockey)|captain]] in franchise history.<ref name="KellerCaptain">{{cite web |title=Keller named 1st captain in Utah history |url=https://www.nhl.com/news/clayton-keller-named-1st-captain-in-utah-history |access-date=October 4, 2024 |website=NHL.com |date=October 4, 2024}}</ref> On October 8, the team defeated the [[Chicago Blackhawks]] 5–2 in its first regular season contest, with [[Dylan Guenther]] scoring the first goal.<ref>{{cite web |last=Walker |first=Sean |url=https://www.ksl.com/article/51151319/dylan-guenther-scores-twice-as-utah-hockey-club-holds-off-chicago-for-franchises-1st-win |title=Dylan Guenther scores twice as Utah Hockey Club holds off Chicago for franchise's 1st win |website=KSL.com |date=October 8, 2024 |access-date=October 9, 2024}}</ref> The team's first season ended with a record of 38–31–13, placing them sixth in the [[Central Division (NHL)|Central Division]], but ultimately out of playoff contention.{{Citation needed|date=October 2025}}
+
+In a more successful second season, Utah clinched the first wild card spot in the [[2026 Stanley Cup playoffs]], earning their first playoff berth in franchise history.<ref>{{cite web |last=Bogart |first=Catherine |title=Utah Clinches First Wild Card Spot With Win over Winnipeg |url=https://www.nhl.com/utah/news/utah-clinches-first-wild-card-spot-with-win-over-winnipeg-game-story-4-14-26 |access-date=April 16, 2026 |website=NHL.com |date=April 15, 2026}}</ref> During that season, Utah became the first team in NHL history to play the full 82-game season without any shootouts since that form of tiebreaker was adopted in 2005.<ref>{{cite web |title=Utah becomes 1st NHL team to ever do this — and here's why that's unfortunate |url=https://www.deseret.com/sports/2026/04/16/utah-mammoth-lose-5-3-to-st-louis-blues/ |access-date=April 28, 2026 |website=Deseret News |date=April 17, 2026}}</ref>
+
+==Team identity==
+
+===Name===
+{{multiple image
+| align = left
+| total_width = 320
+| image1 = NHL Utah Logo.jpeg
+| alt1 = Utah NHL announcement logo
+| image2 = Utah Hockey Club Inaugural Season Logo.png
+| alt2 = Utah Hockey Club inaugural season logo
+| footer = At left, the logo used for the announcement of the team; at right, the commemorative logo used for the franchise's inaugural season.
+}}
+The team was initially introduced without a name, though Smith confirmed on April 18, 2024, that the franchise would use the "Utah" state moniker, rather than Salt Lake City.<ref>{{cite news|last=Cotsonika|first=Nicholas J.|title=New NHL team will be called 'Utah Something'|url=https://www.nhl.com/news/new-nhl-team-will-be-called-utah-something|publisher=NHL Enterprises, L.P.|website=NHL.com|date=April 18, 2024|access-date=April 26, 2024}}</ref><ref name="Cotsonika">{{cite news|last1=Cotsonika|first1=Nicholas J.|title='Utah's ready for a team,' new owner says|url=https://www.nhl.com/news/utah-is-ready-for-an-nhl-hockey-team-jazz-owner-ryan-smith-says|publisher=NHL Enterprises, L.P.|website=NHL.com|date=April 18, 2024|access-date=May 20, 2024}}</ref> After emphasizing not wanting to "rush" the naming process, Smith announced on April 22 that the team identity would be chosen via an eight-name bracket, voted on by fans using the Smith-founded [[Qualtrics]] platform.<ref name="Bracket">{{cite web |last=Miller |first=Ryan |url=https://www.ksl.com/article/50988039/ryan-smith-says-nhl-team-name-will-be-chosen-by-fan-bracket |title=Ryan Smith says NHL team name will be chosen by fan bracket |website=[[KSL-TV|KSL News]] |date=April 22, 2024 |access-date=April 26, 2024}}</ref> In the days surrounding the team's founding, a law firm filed trademarks for a multitude of names on behalf of an anonymously owned LLC; these included Utah Hockey Club (Utah HC), Blizzard, Fury, Venom, Yetis, Outlaws, Ice, and Mammoth.<ref name="Bracket" /><ref>{{cite web |last=Holt |first=Chandler |url=https://kslsports.com/515803/two-new-trademark-applications-utah-nhl-team-name/ |title=Two New Trademark Applications Submitted For Utah NHL Team Name |website=KSL Sports |date=April 24, 2024 |access-date=April 26, 2024}}</ref>
+
+[[File:McBain, Vejmelka, and Sergachev - December 2024.jpg|thumb|[[Jack McBain]], [[Karel Vejmelka]], and [[Mikhail Sergachev]] wearing the team's inaugural road uniforms in December 2024.]]
+On May 8, the Smith Entertainment Group confirmed the team would play their first season simply named "Utah", without an official logo, mascot, or team colors, and with "Utah" written across the jerseys.<ref>{{cite web |last1=Miller |first1=Ryan |title=Ryan Smith says Utah NHL team name voting is down to 4 |url=https://www.ksl.com/article/51027489/ryan-smith-says-utah-nhl-team-name-voting-is-down-to-4 |website=KSL.com |access-date=May 10, 2025 |date=May 29, 2024}}</ref> At the same time, SEG released a Qualtrics poll featuring the 20 name finalists. The options included Black Diamonds, Blast, Blizzard, Canyons, Caribou, Freeze, Frost, Fury, Glaciers, Utah HC (Hockey Club), Hive, Ice, Mammoth, Mountaineers, Outlaws, Powder, Squall, Swarm, Venom, and Yeti.<ref name="DetwilerNHL" /><ref name="UtahNHLNameESPN" /> On May 29, Smith confirmed on ''[[The Pat McAfee Show]]'' that the club had narrowed the list down to four names, specifically mentioning the Mammoth and the Yeti.<ref>{{cite web |last=Lazary |first=Spencer |url=https://thehockeynews.com/nhl/utah/latest-news/utahs-owner-reveals-potential-team-names |title=Utah's Owner Reveals Potential Team Names |website=The Hockey News |date=May 29, 2024 |access-date=June 3, 2024}}</ref> On June 6, however, the six finalists were revealed to be Blizzard, Utah HC, Mammoth, Outlaws, Venom, and Yeti, and a second round of polling began.<ref>{{cite web |last=Shilton |first=Kristen |url=https://www.espn.com/nhl/story/_/id/40291797/new-utah-team-announces-6-finalists-name |title=New Utah team announces 6 finalists for name |website=ESPN.com |date=June 6, 2024 |access-date=June 6, 2024}}</ref>
+
+On June 13, it was announced that the team would be known as the "Utah Hockey Club" for the [[2024–25 NHL season|2024–25 season]].<ref name="sale-complete" /><ref name="UtahNHLTeamID" /> In January 2025, it was revealed that the "Utah Yetis" and singular "Utah Yeti" brands were refused by the [[United States Patent and Trademark Office|U.S. Patent and Trademark Office]] due to its similarity to the company name [[Yeti Holdings]]. Prior to the rejection, it had been widely expected, even among Utah players, that the "Yeti" name would be chosen.<ref>{{cite web|url=https://www.espn.com/nhl/story/_/id/43537901/trademark-office-rejects-utah-yetis-team-name|title='Utah Yetis' refused by trademark office as NHL team name|website=ESPN.com|last=Wyshynski|first=Greg|date=January 24, 2024|access-date=January 24, 2024}}</ref> On January 29, the team announced that fans attending their following four home games in late January and early February could vote for a permanent identity for the club, with the final three options being the existing Utah Hockey Club, Utah Mammoth, and Utah Wasatch. While the Wasatch name was not one of the six finalists, it was intended to honor the idea of a mythical snow creature similar to the yeti, with a "Utah-centric" approach inspired by the [[Wasatch Mountains]].<ref>{{cite news |last1=Wyshynski |first1=Greg |title=Utah pivots from 'Yeti,' to hold vote for 3 finalists |url=https://www.espn.com/nhl/story/_/id/43615454/utah-hockey-club-hold-arena-fan-vote-pick-permanent-name-yeti-rejected-patent-office |access-date=January 29, 2025 |work=ESPN.com |date=January 29, 2025}}</ref> One day later, on January 30, the team announced that "Wasatch" was being removed from the survey, being replaced by previously announced finalist "Utah Outlaws".<ref>{{cite web |title=Utah adds Outlaws as choice to fan vote for permanent nickname|url=https://www.nhl.com/news/utah-hockey-club-to-have-fans-vote-on-permanent-nickname-final-three-choices |website=NHL.com |access-date=January 30, 2025 |date=January 30, 2025}}</ref> On April 30, speculation arose that "Mammoth" was the selected name following leaks online that showed the team changing its [[YouTube]] handle to @UtahMammoth.<ref>{{cite web |last=Wyshynski |first=Greg |url=https://www.espn.com/nhl/story/_/id/44935255/utah-hockey-club-confirm-mammoth-name-apparent-leak |title=Utah Hockey Club won't confirm 'Mammoth' name after apparent leak |date=April 30, 2025 |website=ESPN.com |access-date=May 7, 2025}}</ref> These speculations were confirmed on May 7, when the team officially revealed their permanent name as the Utah Mammoth. A new logo and uniforms were also revealed, retaining the same color scheme.<ref name="UtahMammothUnveiled" />
+
+===Logo, colors, and uniforms===
+{{multiple image
+| align = right
+| total_width = 320
+| image1 = Utah Hockey Club 2024-25 Logo.svg
+| alt1 = Utah Hockey Club logo
+| image2 = WCC-Uniform-UTA-24-25.png
+| alt2 = Utah Hockey Club inaugural season uniforms
+| footer = The temporary logo and uniforms used for the franchise's inaugural season as the Utah Hockey Club.
+}}
+On June 13, 2024, the same day that the temporary name was revealed, the team also released their logos, colors, and jerseys for the inaugural season; the primary logo depicts a roundel with a "Utah" wordmark in the center, ringed with "Hockey Club" and colored with mountain blue, rock black, and salt white. The secondary logo features a "Utah Hockey Club" wordmark over an outline of Utah itself.<ref name="sale-complete" /><ref name="UtahNHLTeamID" /> The home uniforms consisted of a black base with a diagonal "UTAH" wordmark across the front, their "Inaugural Season" patch on both shoulders, with blue and white striping, with the road uniforms using a white base with black and blue striping.<ref name="Uniforms">{{cite web |url=https://www.nhl.com/news/utah-hockey-club-joins-nhl-unveils-uniforms-logos |title=Utah Hockey Club officially joins NHL, unveils uniforms, logos |website=NHL.com |date=June 13, 2024 |access-date=June 13, 2024}}</ref><ref>{{cite magazine |last=Horwat |first=Nick |date=September 4, 2024 |title=Look: Utah Gives First Look at On-Ice Jerseys |url=https://www.si.com/onsi/breakaway/news-feed-page/utah-hockey-club-gives-first-look-on-ice-jerseys |access-date=September 4, 2024 |magazine=Sports Illustrated}}</ref>
+
+On May 7, 2025, on the day the permanent "Mammoth" name was unveiled, a new logo and uniform set were unveiled to accompany the name change. Using the same blue, black, and white color scheme, the logo features a "Mountain [[Mammoth]]" with the top of the mammoth's head showing a depiction of mountain peaks, a nod to Utah's [[Wasatch Mountains]]. One of the mountains also forms an outline resembling the borders of the state of Utah.<ref name="UtahMammothAnnouncement" /> For the home uniforms, the "UTAH" wordmark was replaced with the new primary logo. The road uniforms retained the diagonal "UTAH" wordmark, but all text on both uniforms were updated to the new "Mammoth Sans" font. The inaugural season shoulder patches were replaced on the home uniforms by a Utah state outline alternate logo, while the primary mammoth logo replaced them on the road jersey.<ref>{{cite web |last=Wyshynski |first=Greg |url=https://www.espn.com/nhl/story/_/id/45036623/utah-picks-mammoth-mascot-end-yearlong-search |title=Utah picks Mammoth as mascot to end yearlong search |website=ESPN.com |date=May 7, 2025 |access-date=May 7, 2025}}</ref>
+
+===Mascots===
+On October 7, 2024, the team announced that [[Jazz Bear]], the mascot of the [[Utah Jazz]], would also serve as the team's mascot during their inaugural season.<ref>{{cite web |last1=Urban |first1=Andrea |title=Jazz Bear turns into 'Hockey Bear' for Utah's inaugural NHL season |url=https://www.fox13now.com/sports/utah-hockey-club/jazz-bear-turns-into-hockey-bear-for-utahs-inaugural-nhl-season |website=Fox 13 News |date=October 7, 2024 |access-date=October 8, 2024}}</ref>
+
+On October 15, 2025, the team unveiled their permanent mascot, a blue [[woolly mammoth]] named Tusky, before the team's first home game under the Mammoth name.<ref>{{cite web |last1=Cotsonika |first1=Nicholas J. |title=Mammoth mascot Tusky emerges from block of ice before home opener |url=https://www.nhl.com/news/utah-mammoth-unveil-mascot-tusky-before-home-opener |access-date=October 16, 2025 |website=NHL.com |date=October 15, 2025}}</ref>
+
+===Nicknames===
+During the inaugural season, the team's fanbase started referring to themselves as the "Clubbers", a play on the team's temporary "Hockey Club" moniker. The fans still use the name as an ode to their inaugural season.<ref>{{cite web |last1=Fraser |first1=Belle |title=Utah Hockey Club says goodbye to Delta Center fans for now |url=https://www.sltrib.com/sports/utah-hockey-club/2025/04/11/utah-hockey-club-plays-last-game/ |website=The Salt Lake Tribune |access-date=April 16, 2025 |date=April 11, 2025}}</ref>
+
+==Team information==
+
+===Broadcasting===
+
+====Television====
+On April 18, 2024, shortly after the establishment of the team, it was announced that the team had reached an agreement with the [[Scripps Sports]] to broadcast Utah NHL games on their [[Provo, Utah|Provo]]-based station [[KUPX-TV]];<ref>{{cite web |last=Tavss |first=Jeff |date=April 18, 2024 |title=Utah NHL games to air free on Utah 16 |url=https://www.fox13now.com/sports/nhl-in-slc/utah-nhl-games-to-air-free-on-utah-16 |access-date=April 19, 2024 |website=Fox 13}}</ref> KUPX had previously served as the Coyotes' affiliate in the market, and also broadcasts [[Vegas Golden Knights]] games.<ref>{{cite news |last=Urban |first=Andrea |date=August 27, 2023 |title=Stanley Cup champions stop in Ogden on 'road trip' |url=https://www.fox13now.com/sports/stanley-cup-champions-stop-in-ogden-on-road-trip |access-date=September 5, 2023 |work=KSTU}}</ref> The telecasts are produced by Smith Entertainment Group's SEG Media division. The team also launched a subscription streaming service known as UtahHC+ (now Mammoth+), which carries the games and other video content related to the team. The service is an expansion of SEG's partnership with [[Kiswe (company)|Kiswe]] for the Utah Jazz's Jazz+ service introduced the previous season; for this season, both services introduced a joint platform known as SEG+.<ref>{{cite web |date=September 20, 2024 |title=SEG Media Launches New DTC Streaming Service for Utah Hockey Club in Partnership With Kiswe |url=https://www.sportsvideo.org/2024/09/20/seg-media-launches-new-dtc-streaming-service-for-utah-hockey-club-in-partnership-with-kiswe/ |access-date=September 20, 2024 |website=Sports Video Group}}</ref><ref>{{cite web |last=Brugger |first=Megan |title=Smith Entertainment Group launches new UtahHC+, SEG+ streaming platforms |url=https://kutv.com/news/local/utahhc-seg-smith-entertainment-group-launches-new-streaming-platforms |access-date=October 9, 2024 |website=KUTV |date=September 20, 2024}}</ref>
+
+On September 4, Utah announced that former Coyotes play-by-play announcer [[Matt McConnell]] had been hired for the same position, with [[NHL on ESPN|ESPN]] analyst [[Dominic Moore]] and [[Seattle Kraken]] color analyst [[Nick Olczyk]] serving as TV analysts.<ref>{{cite web |date=September 4, 2024 |title=SEG Media Reveals Utah Hockey Club Television Broadcast Team |url=https://www.nhl.com/utah/news/seg-media-reveals-utah-hockey-club-television-broadcast-team |access-date=September 4, 2024 |website=NHL.com}}</ref>
+
+====Radio====
+On September 20, 2024, the team announced an agreement with [[Bonneville International]] to broadcast games on [[KZNS (AM)|KZNS]], branded as the KSL Sports Zone, with Mike Folta serving as the play-by-play announcer. Radio broadcasts are additionally simulcast on the KSL Sports app and website.<ref>{{cite web |last=Bagley |first=Cole |url=https://kslsports.com/526137/bill-armstrong-is-proud-to-call-ksl-sports-zone-official-radio-partner-of-uhc/ |title=Bill Armstrong Is Proud To Call KSL Sports Zone Official Radio Home Of Utah Hockey Club |website=KSL Sports |date=September 20, 2024 |access-date=September 20, 2024}}</ref>
+
+===Minor league affiliates===
+With the transfer of assets from the Coyotes, Utah inherited the [[Tucson Roadrunners]] as their [[American Hockey League]] (AHL) affiliate.<ref>{{cite web |last=Jones |first=Josh |url=https://cronkitenews.azpbs.org/2024/04/23/arizona-coyotes-leaving-relocation-roadrunners-tucson-hockey-nhl/ |title=With Arizona Coyotes leaving, relocation talk clouds Roadrunners' future in Tucson |publisher=[[KAET|Cronkite News]] |date=April 23, 2024 |access-date=August 1, 2024}}</ref><ref>{{cite web |last=Kelley |first=James |url=https://tucson.com/sports/professional/tucson/tucson-roadrunners-utah-hockey-club-ahl-roster-2024-2025/article_dff958fa-3b0b-11ef-894a-5bba4577b3e8.html |title=NHL's Utah Hockey Club restocks Tucson Roadrunners' AHL roster with mix of new, familiar faces |publisher=[[Arizona Daily Star]] |website=Tucson.com |date=July 5, 2024 |access-date=August 1, 2024}}</ref> On July 31, 2024, Utah announced a one-year affiliation agreement with the [[Allen Americans]] of the [[ECHL]] for the 2024–25 season.<ref>{{cite web |url=https://www.nhl.com/utah/news/utah-hockey-club-announce-echl-affiliation-agreement-with-allen-americans |title=Utah Hockey Club Announce ECHL Affiliation Agreement with Allen Americans |website=NHL.com |date=July 31, 2024 |access-date=August 1, 2024}}</ref> For the 2025–26 season, the Mammoth operated without an ECHL affiliate.<ref>{{cite news|url=https://www.deseret.com/sports/2025/09/06/utah-mammoth-echl-affiliation-2025-26/|date=September 6, 2025|title=Utah won't have an ECHL affiliate this season — but they're not worried. Here's how it'll work|newspaper=Desert News|first=Brogan|last=Houston}}</ref>
+
+==Season-by-season record==
+{{main|List of Utah Mammoth seasons}}
+This is a list of the seasons completed by the Mammoth.<ref>{{cite web |title=Utah Hockey Club – Season-by-Season Records |url=https://records.nhl.com/uta/overview/season-by-season-record |website=records.nhl.com |access-date=April 21, 2025}}</ref><!--change to "partial list of the last five seasons completed by the Mammoth." once they have completed six seasons in 2030. For the full season-by-season history, see [[List of Utah Mammoth seasons]].-->
+
+'''''Key:''' GP = Games played, W = Wins, L = Losses, OTL = Overtime Losses, Pts = Points, GF = Goals for, GA = Goals against''
+{| class="wikitable"
+|-
+! Season !! GP !! W !! L !! OTL !! Pts !! GF !! GA !! Finish !! Playoffs
+|-
+| [[2024–25 NHL season|2024–25]] || 82 || 38 || 31 || 13 || 89 || 241 || 251 || 6th, Central || Did not qualify
+|-
+| [[2025–26 NHL season|2025–26]] || 82 || 43 || 33 || 6 || 92 || 268 || 240 || 4th, Central || Lost in first round, 2–4 ([[Vegas Golden Knights|Golden Knights]])
+|}
+
+==Players and personnel==
+{{see also|List of Utah Mammoth players}}
+
+===Current roster===
+{{Utah Hockey Club roster}}
+
+===Owners===
+The team is owned by Smith Entertainment Group, which is controlled by businessman [[Ryan Smith (businessman)|Ryan Smith]] and his wife Ashley Smith.<ref>{{cite web |last1=Novy-Williams |first1=Eben |last2=Soshnick |first2=Scott |date=April 18, 2024 |title=In Unique $1.2 Billion Coyotes Deal, Buyer Never Met Seller |url=https://www.sportico.com/business/team-sales/2024/ryan-smith-nhl-owner-coyotes-1234776017/ |access-date=April 18, 2024 |website=Sportico.com}}</ref>
+
+===Team captains===
+* [[Clayton Keller]], 2024–present<ref name="KellerCaptain" />
+
+===General managers===
+* [[Bill Armstrong (ice hockey, born 1970)|Bill Armstrong]], 2024–present
+
+===Head coaches===
+* [[André Tourigny|Andre Tourigny]], 2024–present
+
+===First-round draft picks===
+{{see also|List of Utah Mammoth draft picks}}
+* [[2024 NHL entry draft|2024]]: [[Tij Iginla]] (6th overall), [[Cole Beaudoin]] (24th overall)
+* [[2025 NHL entry draft|2025]]: [[Caleb Desnoyers]] (4th overall)
+* [[2026 NHL entry draft|2026]]: [[Ethan Belchetz]] (17th overall)
+
+==Franchise records==
+[[File:Clayton Keller - February 2025.jpg|thumb|right|[[Clayton Keller]], the franchise's first captain, leads Utah in assists and points.]]
+
+===Scoring leaders===
+These are the top-ten point-scorers in franchise history.<ref>{{cite web|title=Regular Season – All Skaters – Career for Franchise – Career Points – NHL.com – Stats|url=https://www.nhl.com/stats/skaters?reportType=allTime&seasonFrom=19171918&seasonTo=20242025&gameType=2&playerPlayedFor=franchise.40&sort=points,goals,assists&page=0&pageSize=50|publisher=[[National Hockey League]]|access-date=April 21, 2025}}</ref> Figures are updated after each completed NHL regular season.
+* {{color box|#CCFFCC|*|border=darkgray}} – current Mammoth player
+'''''Note:''' Pos = Position; GP = Games Played; G = Goals; A = Assists; Pts = Points; P/G = Points per game''
+<!--PLEASE DO NOT UPDATE STATISTICS MID-SEASON, AS IT CREATES MORE PROBLEMS THAN IT SOLVES, AND WIKIPEDIA'S PURPOSE IS NOT TO PROVIDE UP-TO-THE-MINUTE STATISTICS. PLEASE SAVE THE UPDATING OF STATISTICS UNTIL THE END OF THE REGULAR SEASON AND/OR PLAYOFFS.-->
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable" style="text-align:center;"
+|+ style="background:#FFFFFF; border-top:#010101 5px solid; border-bottom:#7AB2E0 5px solid;"|Points
+|-
+! style="text-align:left;"|Player || Pos || GP || G || A || Pts || P/G
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Clayton Keller]]* || RW || 163 || 56 || 122 || '''178''' || 1.09
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Nick Schmaltz]]* || C || 164 || 53 || 84 || '''137''' || .83
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Dylan Guenther]]* || RW || 149 || 67 || 66 || '''133''' || .84
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Mikhail Sergachev]]* || D || 155 || 25 || 87 || '''112''' || .72
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Logan Cooley]]* || C || 129 || 49 || 59 || '''108''' || .89
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Barrett Hayton]]* || C || 149 || 30 || 41 || '''71''' || .48
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Lawson Crouse]]* || LW || 162 || 36 || 26 || '''62''' || .38
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Jack McBain]]* || C || 157 || 22 || 30 || '''52''' || .33
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Michael Carcone]]* || LW || 132 || 23 || 27 || '''50''' || .38
+|- style="background:#cfc;"
+| style="text-align:left;"|[[John Marino]]* || D || 115 || 5 || 45 || '''50''' || .43
+|}
+{{col-break}}
+{| class="wikitable"
+|+ style="background:#FFFFFF; border-top:#010101 5px solid; border-bottom:#7AB2E0 5px solid;"|Goals
+|-
+! style="text-align:left;"|Player !! Pos !! G
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Dylan Guenther]]* || RW || 67
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Clayton Keller]]* || RW || 56
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Nick Schmaltz]]* || C || 53
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Logan Cooley]]* || C || 49
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Lawson Crouse]]* || LW || 36
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Barrett Hayton]]* || C || 30
+|-
+| style="text-align:left;"|[[JJ Peterka]] || RW || 25
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Mikhail Sergachev]]* || D || 25
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Michael Carcone]]* || LW || 23
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Jack McBain]]* || C || 22
+|}
+{{col-break}}
+{| class="wikitable"
+|+ style="background:#FFFFFF; border-top:#010101 5px solid; border-bottom:#7AB2E0 5px solid;"|Assists
+|-
+! style="text-align:left;"|Player !! Pos !! A
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Clayton Keller]]* || RW || 122
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Mikhail Sergachev]]* || D || 87
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Nick Schmaltz]]* || C || 84
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Dylan Guenther]]* || RW || 66
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Logan Cooley]]* || C || 59
+|- style="background:#cfc;"
+| style="text-align:left;"|[[John Marino]]* || D || 45
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Barrett Hayton]]* || C || 41
+|-
+| style="text-align:left;"|[[Ian Cole]] || D || 36
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Jack McBain]]* || C || 30
+|-
+| style="text-align:left;"|[[Sean Durzi]] || D || 29
+|}
+{{col-end}}
+
+===Goaltending leaders===
+These are the top-ten goaltenders in franchise history by wins.<ref>{{cite web|title=Regular Season – Goalie – Goalie Career for Franchise – Career Wins – NHL.com – Stats|url=https://www.nhl.com/stats/goalies?reportType=allTime&seasonFrom=19171918&seasonTo=20252026&gameType=2&playerPlayedFor=franchise.40&sort=wins,savePct&page=0&pageSize=50|website=National Hockey League|access-date=April 26, 2025|archive-date=June 17, 2013|archive-url=https://web.archive.org/web/20130617084552/http://www.nhl.com/ice/careerstats.htm?gameType=2&team=PIT&position=G&country=&active=&viewName=careerLeadersForFranchiseGoalies|url-status=live}}</ref> Figures are updated after each completed NHL regular season.
+* {{Color box|#CCFFCC|*|border=darkgray}} – current Mammoth player
+<!--PLEASE DO NOT UPDATE STATISTICS MID-SEASON, AS IT CREATES MORE PROBLEMS THAN IT SOLVES, AND WIKIPEDIA'S PURPOSE IS NOT TO PROVIDE UP-TO-THE-MINUTE STATISTICS. PLEASE SAVE THE UPDATING OF STATISTICS UNTIL THE END OF THE REGULAR SEASON AND/OR PLAYOFFS.-->
+'''''Note''''': ''GP = Games played; W = Wins; L = Losses; T/O = Ties/Overtime losses; GA = Goal against; GAA = Goals against average; SA = Shots against; SV% = Save percentage; SO = Shutouts''
+{| class="wikitable" style="text-align:center;"
+|+ style="background:#FFFFFF; border-top:#010101 5px solid; border-bottom:#7AB2E0 5px solid;"|Goaltenders
+|-
+! Player !! GP !! W !! L !! T/O !! GA !! GAA !! SA !! SV% !! SO
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Karel Vejmelka]]* || 122 || '''64''' || 42 || 11 || 314 || 2.67 || 3,135 || .900 || 3
+|-
+| style="text-align:left;"|[[Connor Ingram]] || 22 || '''9''' || 8 || 4 || 66 || 3.27 || 558 || .882 || 0
+|-
+| style="text-align:left;"|[[Vítek Vaněček]] || 22 || '''5''' || 13 || 3 || 59 || 2.93 || 506 || .883 || 1
+|- style="background:#cfc;"
+| style="text-align:left;"|[[Jaxson Stauber]]* || 6 || '''2''' || 1 || 1 || 17 || 3.26 || 158 || .892 || 1
+|-
+| style="text-align:left;"|[[Matt Villalta]] || 1 || '''1''' || 0 || 0 || 3 || 3.00 || 31 || .903 || 0
+|}
+
+===Team records===
+* Most goals in a season – [[Dylan Guenther]], 40 (2025–26)
+* Most assists in a season – [[Clayton Keller]], 62 (2025–26)
+* Most points in a season – Clayton Keller, 90 (2024–25)
+* Most points in a season, defenceman – [[Mikhail Sergachev]], 59 (2025–26)
+* Most points in a season, rookie – [[Josh Doan]], 19 (2024–25)
+* Most penalty minutes in a season – [[Michael Kesselring]], 89 (2024–25)
+* Best [[Plus-minus (sports)|+/–]] in a season – [[John Marino]], +42 (2025–26)
+* Most wins in a season – [[Karel Vejmelka]], 38 (2025–26)
+* Most shutouts in a season – Karel Vejmelka, 2 (2025–26)
+* Lowest goals against average in a season (min. 30 games played) – Karel Vejmelka, 2.58 (2024–25)
+* Best save percentage in a season (min. 30 games played) – Karel Vejmelka, .904 (2024–25)
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite news |last=Lazerus |first=Mark |title=Inside Utah Hockey Club's unprecedented five-month scramble to NHL opening night |url=https://www.nytimes.com/athletic/5818599/2024/10/08/utah-hockey-club-scramble-inaugural-season/ |access-date=October 16, 2024 |work=The Athletic |date=October 8, 2024 |url-access=subscription |ref=none}}
+
+==External links==
+{{Commons category}}
+* {{Official website}}
+
+{{Utah Mammoth}}
+{{Navboxes|titlestyle=background:#FFFFFF; border-top:#010101 5px solid; border-bottom:#7AB2E0 5px solid;|list1=
+{{NHL}}
+{{Utah Sports}}
+{{Salt Lake City}}
+}}
+{{Portal bar|Utah|Ice hockey}}
+{{Authority control}}
+
+[[Category:Utah Mammoth| ]]
+[[Category:2024 establishments in Utah]]
+[[Category:Central Division (NHL)]]
+[[Category:Ice hockey clubs established in 2024]]
+[[Category:Ice hockey teams in Utah]]
+[[Category:National Hockey League teams]]
+[[Category:Professional sports teams in Utah]]
+[[Category:Sports in Salt Lake City]]

@@ -1,0 +1,247 @@
+{{Short description|none}}
+
+The [[Hartford Whalers]] were an ice hockey team who played in both the National Hockey League (NHL) and the World Hockey Association (WHA). This is a list of the head coaches they had during their existence. The franchise moved to [[Raleigh, North Carolina]] in 1997 and became the [[Carolina Hurricanes]]
+
+==Key==
+{| class="wikitable"
+|'''#'''
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins
+|-
+|'''L'''
+|Losses
+|-
+|'''T'''
+|Ties
+|-
+|'''Pts'''
+|Points
+|-
+|style="background-color:#ddffdd"|'''*'''
+| Spent entire NHL coaching career with the Whalers
+|-
+|}
+
+==WHA coaches==
+{| class="wikitable"
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term
+! colspan="5" | Regular season
+! colspan="3" | Playoffs
+! rowspan="2" | Results
+|-
+! GC
+! W
+! L
+! T
+! Pts
+! GC
+! W
+! L
+|-
+|align=center| 1  || [[Jack Kelley (ice hockey)|Jack Kelley]] || 1972-1973 || 78 || 46  || 30  || 2  || 94 || 15 || 12 || 3 || [[Avco World Trophy]] (1972)
+|-
+|align=center| 2  || [[Ron Ryan]] || 1973-1975 || 151 || 83 || 59 || 9 || 175||  7 || 3 || 4 || [[Howard Baldwin Trophy]] (1973)<br>Replaced near end of season
+|-
+|align=center| – || Jack Kelley  || 1975|| 38|| 17||18||3 ||37|| 6|| 2 || 4 || Replaced midway through season
+|-
+|align=center| 3  || [[Don Blackburn]]  || 1975-76|| 35 || 14 || 18 || 3 || 31 || - || - || - || Replaced midway through season
+|-
+|align=center| 4 || [[Harry Neale]] || 1976-1978 || 173 || 84 || 77 || 12 || 180 || 36 || 19 || 17 || Lost 1978 Avco Cup to Winnipeg
+|-
+|align=center| 5  || [[Bill Dineen]] || 1978-1979  || 71 || 33 || 29 || 9 || 75 || - || - || - || Replaced near end of season
+|-
+|align=center| -  || Don Blackburn || 1979 || 9 || 4 || 5 || 0 || 8 || 10 || 5 || 5 || Last coach for WHA Whalers
+|}
+
+==NHL coaches==
+{| class="wikitable"
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term
+! colspan="5" | Regular season
+! colspan="3" | Playoffs
+|-
+! GC
+! W
+! L
+! T
+! Pts
+! GC
+! W
+! L
+|-
+|align=center|1
+|[[Don Blackburn]]
+|1979-1981
+|140
+|42
+|63
+|35
+|119
+|3
+|0
+|3
+|-
+|align=center|2
+| [[Larry Pleau]]
+|1981-1982
+|100
+|27
+|53
+|20
+|74
+|—
+|—
+|—
+|-
+|align=center|3
+|[[Larry Kish]]
+|1982-1983
+|49
+|12
+|32
+|5
+|29
+| —
+| —
+| —
+|-
+|align=center|4
+|[[John Cunniff]]
+| 1983
+|13
+|3
+|9
+|1
+|7
+|—
+|—
+|—
+|-
+|align=center|5
+|[[Larry Pleau]]
+| 1983
+|18
+|4
+|13
+|1
+|9
+|—
+|—
+|—
+|-
+|align=center|6
+|[[Jack Evans (ice hockey)|Jack Evans]]
+|1983-1988
+|374
+|163
+|174
+|37
+|363
+|16
+|8
+|8
+|-
+|align=center|7
+|[[Larry Pleau]]
+|1988-1989
+|106
+|50
+|51
+|5
+|105
+|10
+|2
+|8
+|-
+|align=center|8
+|[[Rick Ley]]
+| 1989-1991
+|160
+|69
+|71
+|20
+|158
+|13
+| 5
+| 8
+|-
+|align=center|9
+|[[Jim Roberts (ice hockey, born 1940)|Jim Roberts]]
+|1991-1992
+|80
+|26
+|41
+|13
+|65
+|7
+| 3
+| 4
+|-
+|align=center|10
+|[[Paul Holmgren]]
+|1992-1993
+|101
+|30
+|63
+|8
+|68
+| —
+| —
+| —
+|-
+|align=center|11
+|[[Pierre McGuire]]
+|1993-1994
+|67
+|23
+|37
+|7
+|53
+| —
+| —
+| —
+|-
+|align=center|12
+|[[Paul Holmgren]]
+|1994-1995
+|60
+|24
+|30
+|6
+|54
+|—
+|—
+|—
+|-
+|align=center|13
+|[[Paul Maurice]]
+| 1995-1997
+|152
+|61
+|72
+|19
+|141
+|—
+|—
+|—
+|}
+
+==See also==
+*[[List of NHL head coaches]]
+*[[List of Carolina Hurricanes head coaches]]
+
+{{Hartford Whalers}}
+{{NHLHeadCoach}}
+
+[[Category:Hartford Whalers coaches| ]]
+[[Category:National Hockey League coaches by team|Hartford Whalers head coaches]]
+[[Category:Lists of ice hockey coaches|Hartford Whalers head coaches]]
+[[Category:Hartford Whalers lists|Head coaches]]

@@ -1,0 +1,523 @@
+{{Short description|None}}
+{{Use mdy dates|date=May 2025}}
+[[File:RickTocchet2024Feb16.jpg|right|thumb|175px|[[Rick Tocchet]] is the current head coach of the Flyers.]]
+The [[Philadelphia Flyers]] are a professional [[ice hockey]] team based in [[Philadelphia]]. They are members of the [[Metropolitan Division]] of the [[National Hockey League]]'s (NHL) [[Eastern Conference (NHL)|Eastern Conference]].<ref>{{cite web |url=https://www.nhl.com/info/teams/ |title=Teams – NHL.com |website=National Hockey League |access-date=January 11, 2017}}</ref> The Flyers were founded in 1967 as one of six [[1967 NHL Expansion|expansion teams]], increasing the size of the NHL at that time to 12 teams.<ref>{{cite web|url=https://www.nhl.com/flyers/news/winter-classic-facts-to-astound-and-amaze/c-511067 |archive-url=https://web.archive.org/web/20170113133406/https://www.nhl.com/flyers/news/winter-classic-facts-to-astound-and-amaze/c-511067 |url-status=dead |archive-date=January 13, 2017 |title=Winter Classic Facts to Astound and Amaze |website=Philadelphia Flyers |date=December 25, 2009 |access-date=January 11, 2017}}</ref>
+
+Since the [[Professional sports league organization|franchise]] was established, the team has had 25 [[Coach (ice hockey)|head coaches]],<ref name="Tocchet" /> including [[Fred Shero]], who coached the Flyers to two [[Stanley Cup]]s in 1974 and 1975, and was the inaugural winner of the [[Jack Adams Award]] in [[1973–74 NHL season|1973–74]].<ref name="Adams">{{cite web|url=http://www.nhl.com/trophies/adams.html|title=Jack Adams Award|publisher=[[NHL]]|access-date=2011-01-14|url-status=dead|archive-url=https://web.archive.org/web/20080706102444/http://www.nhl.com/trophies/adams.html|archive-date=2008-07-06}}</ref> Three other Flyers coaches have won the Adams Award – [[Pat Quinn (ice hockey)|Pat Quinn]] in [[1979–80 NHL season|1979–80]], [[Mike Keenan]] in [[1984–85 NHL season|1984–85]], and [[Bill Barber]] in [[2000–01 NHL season|2000–01]].<ref name="Adams" /> The Flyers current head coach is [[Rick Tocchet]].<ref name="Tocchet" />
+
+==Key==
+{|class="wikitable" style="font-size:90%;"
+|+Key of terms and definitions
+|-
+!scope="col" |Term
+!scope="col" |Definition
+|-
+!scope="row" |No.
+|Number of coaches{{efn|A running total of the number of coaches of the Flyers. Thus any coach who has two or more separate terms as head coach is only counted once.}}
+|-
+!scope="row" |GC
+|Games coached
+|-
+!scope="row" |W
+|Wins
+|-
+!scope="row" |L
+|Losses
+|-
+!scope="row" |T
+|Ties
+|-
+!scope="row" |OT
+|[[Overtime (ice hockey)|Overtime/shootout]] losses
+|-
+!scope="row" |Pts
+|[[Point (ice hockey)|Points]]
+|-
+!scope="row" |Pts%
+|[[Points percentage]]
+|-
+!scope="row" |Win%
+|[[Winning percentage]]
+|-
+!scope="row" style="background:#ddffdd"|{{Hash-tag}}
+|Spent entire NHL head coaching career with the Flyers
+|-
+!scope="row" style="background:#FFE6BD"|{{dagger}}
+|Elected to the [[Hockey Hall of Fame]] in the [[List of members of the Hockey Hall of Fame#Builders|Builder]] category
+|-
+!scope="row" style="background:#D0E7FF"|{{double dagger}}
+|Spent entire NHL head coaching career with the Flyers<br>and also elected to the Hockey Hall of Fame in the [[List of members of the Hockey Hall of Fame#Builders|Builder]] category
+|}
+
+==Coaches==
+''Note: Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+<!--PLEASE DO NOT UPDATE STATISTICS MID-SEASON, AS IT CREATES MORE PROBLEMS THAN IT SOLVES, AND WIKIPEDIA'S PURPOSE IS NOT TO PROVIDE UP-TO-THE-MINUTE STATISTICS. PLEASE SAVE THE UPDATING OF STATISTICS UNTIL THE END OF THE REGULAR SEASON AND/OR PLAYOFFS.-->
+{| class="wikitable plainrowheaders" style="text-align:center;"
+|+Head coaches of the Philadelphia Flyers
+|-
+!scope="col" rowspan="2"| No.
+!scope="col" rowspan="2"| Name
+!scope="col" rowspan="2"|Tenure
+!scope=colgroup colspan=7 | Regular season
+!scope=colgroup colspan=4 | Playoffs
+!scope="col" rowspan="2"|Refs
+|-
+!scope="col" |GC
+!scope="col" |W
+!scope="col" |L
+!scope="col" |T
+!scope="col" |OT
+!scope="col" |Pts
+!scope="col" |Pts%
+!scope="col" |GC
+!scope="col" |W
+!scope="col" |L
+!scope="col" |Win%
+|-
+!scope="row" |1
+|style="background:#D0E7FF" align="left"|{{sortname|Keith|Allen|dab=ice hockey}}{{double dagger}}
+| align="left"|June 6, 1966 – May 19, 1969
+|150
+|51
+|67
+|32
+|—
+|134
+|.447
+|11
+|3
+|8
+|.273
+|<ref>{{cite news|title=Allen To Coach Philadelphia Club |url=https://www.newspapers.com/newspage/67075572/ |newspaper=[[Brandon Sun]] |date=June 7, 1966 |page=6 |via = [[Newspapers.com]] |access-date = December 20, 2014 }}</ref><ref name="AllenStasiuk">{{cite news |url=http://archives.chicagotribune.com/1969/05/20/page/51/article/philadelphia-flyers-name-stasiuk-coach |title=PHILADELPHIA FLYERS NAME STASIUK COACH |newspaper=[[Chicago Tribune]] |date=May 20, 1969 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/allenke01c.html |title=Keith Allen |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |2
+| align="left"|{{sortname|Vic|Stasiuk}}
+| align="left"|May 19, 1969 – May 27, 1971
+|154
+|45
+|68
+|41
+|—
+|131
+|.425
+|4
+|0
+|4
+|.000
+|<ref name="AllenStasiuk" /><ref>{{cite news |url=http://archives.chicagotribune.com/1971/05/28/page/52/article/flyers-fire-coach-vic-stasiuk |title=Flyers Fire Coach Vic Stasiuk |newspaper=[[Chicago Tribune]] |date=May 28, 1971 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/stasivi01c.html |title=Vic Stasiuk |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |3
+|style="background:#FFE6BD" align="left"|{{sortname|Fred|Shero}}{{dagger}}
+| align="left"|June 2, 1971 – May 22, 1978
+|554
+|308
+|151
+|95
+|—
+|711
+|.642
+|83
+|48
+|35
+|.578
+|<ref>{{cite web |url=https://news.google.com/newspapers?nid=1917&dat=19710603&id=_2ctAAAAIBAJ&sjid=yYkFAAAAIBAJ&pg=3856,781409 |title=NHL Flyers Name Shero New Coach |publisher=[[The Daily Gazette|The Schenectady Gazette]] |work=[[Associated Press|AP]] |date=June 3, 1971 |access-date=December 8, 2014}}</ref><ref>{{cite news |url=http://articles.philly.com/1990-11-25/news/25926319_1_flyers-president-jay-snider-flyers-coach-flyers-organization |archive-url=https://web.archive.org/web/20130916105429/http://articles.philly.com/1990-11-25/news/25926319_1_flyers-president-jay-snider-flyers-coach-flyers-organization |url-status=dead |archive-date=September 16, 2013 |title=Fred Shero, Ex-flyers Coach, Dead |newspaper=[[The Philadelphia Inquirer]] |first=Joe |last=Juliano |date=November 25, 1990 |access-date=December 8, 2014 |quote="''he announced his resignation on May 22, 1978''"}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/sherofr01c.html |title=Fred Shero |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|- 
+!scope="row" |4
+| align="left"|{{sortname|Bob|McCammon}}
+| align="left"|July 6, 1978 – January 30, 1979
+|50
+|22
+|17
+|11
+|—
+|55
+|.550
+|—
+|—
+|—
+|—
+|<ref>{{cite web |url=https://news.google.com/newspapers?nid=1298&dat=19780707&id=eAFOAAAAIBAJ&sjid=E4wDAAAAIBAJ&pg=4191,835514 |title=Flyers hire McCammon |publisher=[[The Free Lance–Star]] |work=[[Associated Press|AP]] |date=July 7, 1978 |access-date=December 8, 2014}}</ref><ref name="McCammonQuinn">{{cite news |url=https://news.google.com/newspapers?id=zAIOAAAAIBAJ&sjid=MG0DAAAAIBAJ&pg=4562,4027525 |title=Flyers Ax Coach McCammon, Name Quinn as Replacement |newspaper=[[Pittsburgh Post-Gazette]] |date=January 31, 1979 |access-date=December 8, 2014}}</ref><ref name="McCammon">{{cite web |url=https://www.hockey-reference.com/coaches/mccambo99c.html |title=Bob McCammon |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |5
+|style="background:#FFE6BD" align="left"|{{sortname|Pat|Quinn|dab=ice hockey}}{{dagger}}
+| align="left"|January 30, 1979 – March 19, 1982
+|262
+|141
+|73
+|48
+|—
+|330
+|.630
+|39
+|22
+|17
+|.564
+|<ref name="McCammonQuinn" /><ref name="QuinnMcCammon">{{cite web |url=https://news.google.com/newspapers?id=puYNAAAAIBAJ&sjid=lG0DAAAAIBAJ&pg=1825,4823734 |title=Flyers unload Quinn, call back McCammon |publisher=[[Pittsburgh Post-Gazette]] |work=[[Associated Press|AP]] |date=March 20, 1982 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/quinnpa01c.html |title=Pat Quinn |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|- 
+!scope="row" style="font-size: 95%"|–
+| align="left"|{{sortname|Bob|McCammon}}
+| align="left"|March 19, 1982 – April 25, 1984
+|168
+|97
+|51
+|20
+|—
+|214
+|.637
+|10
+|1
+|9
+|.100
+|<ref name="McCammon" /><ref name="QuinnMcCammon" /><ref>{{cite news|url=https://www.nytimes.com/1984/04/25/sports/sports-people-2-coaches-out.html |title=SPORTS PEOPLE; 2 Coaches Out |newspaper=[[The New York Times]] |date=April 25, 1984 |access-date=December 8, 2014}}</ref>
+|-
+!scope="row" |6
+| align="left"|{{sortname|Mike|Keenan}}
+| align="left"|May 24, 1984 – May 11, 1988
+|320
+|190
+|102
+|28
+|—
+|408
+|.638
+|57
+|32
+|25
+|.561
+|<ref>{{cite news |url=https://www.mcall.com/1984/05/25/flyers-name-mike-keenan-as-head-coach/ |title=Flyers Name Mike Keenan As Head Coach |newspaper=[[The Morning Call]] |first=Dan |last=Shope |date=May 25, 1984 |access-date=December 8, 2014}}</ref><ref>{{cite news |url=http://articles.philly.com/1988-05-12/sports/26260076_1_flyers-center-ron-sutter-flyers-gm-paul-holmgren |archive-url=https://web.archive.org/web/20141220091039/http://articles.philly.com/1988-05-12/sports/26260076_1_flyers-center-ron-sutter-flyers-gm-paul-holmgren |url-status=dead |archive-date=December 20, 2014 |title='Toughest Decision' Dumps Flyer Coach |newspaper=[[Philadelphia Daily News]] |first=Bill |last=Fleischman |date=May 12, 1988 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/keenami99c.html |title=Mike Keenan |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|- 
+!scope="row" |7
+| align="left"|{{sortname|Paul|Holmgren}}
+| align="left"|June 1, 1988 – December 4, 1991
+|264
+|107
+|126
+|31
+|—
+|245
+|.464
+|19
+|10
+|9
+|.526
+|<ref>{{cite news |url=https://www.nytimes.com/1988/06/02/sports/sports-people-2-nhl-coaches-hired.html |title=SPORTS PEOPLE; 2 N.H.L. Coaches Hired |newspaper=[[The New York Times]] |date=June 2, 1988 |access-date=December 8, 2014}}</ref><ref name="HolmgrenDineen">{{cite news |url=http://articles.philly.com/1991-12-05/sports/25811571_1_bill-dineen-russ-farwell-paul-holmgren |archive-url=https://web.archive.org/web/20141220090944/http://articles.philly.com/1991-12-05/sports/25811571_1_bill-dineen-russ-farwell-paul-holmgren |url-status=dead |archive-date=December 20, 2014 |title=Flyers Pull Plug On Holmgren Dineen Named As Successor |newspaper=[[The Philadelphia Inquirer]] |first=Gary |last=Miles |date=December 5, 1991 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/holmgpa01c.html |title=Paul Holmgren |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |8
+|style="background:#ddffdd" align="left"|{{sortname|Bill|Dineen}}{{Hash-tag}}
+| align="left"|December 4, 1991 – May 24, 1993
+|140
+|60
+|60
+|20
+|—
+|140
+|.500
+|—
+|—
+|—
+|—
+|<ref name="HolmgrenDineen" /><ref name="DineenSimpson">{{cite news |url=http://articles.philly.com/1993-05-25/sports/25962711_1_bill-dineen-terry-simpson-russ-farwell |archive-url=https://web.archive.org/web/20141220091047/http://articles.philly.com/1993-05-25/sports/25962711_1_bill-dineen-terry-simpson-russ-farwell |url-status=dead |archive-date=December 20, 2014 |title=Flyers Pass Torch To Simpson |newspaper=[[The Philadelphia Inquirer]] |first=Gary |last=Miles |date=May 25, 1993 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/dineebi01c.html |title=Bill Dineen |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|- 
+!scope="row" |9
+| align="left"|{{sortname|Terry|Simpson}}
+| align="left"|May 24, 1993 – May 20, 1994
+|84
+|35
+|39
+|10
+|—
+|80
+|.476
+|—
+|—
+|—
+|—
+|<ref name="DineenSimpson" /><ref>{{cite news |url=http://articles.philly.com/1994-05-21/sports/25829995_1_russ-farwell-terry-simpson-brind-amour-and-mikael-renberg |archive-url=https://web.archive.org/web/20141220091030/http://articles.philly.com/1994-05-21/sports/25829995_1_russ-farwell-terry-simpson-brind-amour-and-mikael-renberg |url-status=dead |archive-date=December 20, 2014 |title=Players Claim Share Of Blame In Flyers' Firing Of Simpson |newspaper=[[The Philadelphia Inquirer]] |first=Gary |last=Miles |date=May 21, 1994 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/simpste99c.html |title=Terry Simpson |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |10
+| align="left"|{{sortname|Terry|Murray}}
+| align="left"|June 23, 1994 – June 13, 1997
+|212
+|118
+|64
+|30
+|—
+|266
+|.627
+|46
+|28
+|18
+|.609
+|<ref>{{cite news |url=http://articles.philly.com/1994-06-24/sports/25834055_1_bill-dineen-terry-murray-terry-simpson |archive-url=https://web.archive.org/web/20141220091042/http://articles.philly.com/1994-06-24/sports/25834055_1_bill-dineen-terry-murray-terry-simpson |url-status=dead |archive-date=December 20, 2014 |title=Murray Named Coach Of Flyers |newspaper=[[The Philadelphia Inquirer]] |first=Gary |last=Miles |date=June 24, 1994 |access-date=December 8, 2014}}</ref><ref>{{cite news |url=http://articles.philly.com/1997-06-14/sports/25525655_1_flyers-president-terry-murray-flyers-teammate |archive-url=https://archive.today/20141208070109/http://articles.philly.com/1997-06-14/sports/25525655_1_flyers-president-terry-murray-flyers-teammate |url-status=dead |archive-date=December 8, 2014 |title=Where There's Choke There's Fire |newspaper=[[Philadelphia Daily News]] |first=Les |last=Bowen |date=June 14, 1997 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/murrate01c.html |title=Terry Murray |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |11
+|style="background:#ddffdd" align="left"|{{sortname|Wayne|Cashman}}{{Hash-tag}}
+| align="left"|July 7, 1997 – March 9, 1998
+|61
+|32
+|20
+|9
+|—
+|73
+|.598
+|—
+|—
+|—
+|—
+|<ref>{{cite news |url=http://articles.philly.com/1997-07-08/sports/25547773_1_wayne-cashman-terry-murray-keith-acton |archive-url=https://web.archive.org/web/20141220090951/http://articles.philly.com/1997-07-08/sports/25547773_1_wayne-cashman-terry-murray-keith-acton |url-status=dead |archive-date=December 20, 2014 |title=Wayne Manner |newspaper=[[Philadelphia Daily News]] |first=Edward |last=Moran |date=July 8, 1997 |access-date=December 8, 2014}}</ref><ref name="CashmanNeilson">{{cite news |url=http://articles.philly.com/1998-03-10/sports/25743450_1_wayne-cashman-nhl-assistant-stanley-cup |archive-url=https://web.archive.org/web/20141220091037/http://articles.philly.com/1998-03-10/sports/25743450_1_wayne-cashman-nhl-assistant-stanley-cup |url-status=dead |archive-date=December 20, 2014 |title=All The Right Moves? All Sides Endorse Flyers' Changes |newspaper=[[The Philadelphia Inquirer]] |first=Tim |last=Panaccio |date=March 10, 1998 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/cashmwa01c.html |title=Wayne Cashman |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |12
+|style="background:#FFE6BD" align="left"|{{sortname|Roger|Neilson}}{{dagger}}
+| align="left"|March 9, 1998 – June 8, 2000{{efn|Neilson went on medical leave on February 20, 2000<ref name="NeilsonRamsay" /> and initially planned on returning at the end of the first round of the playoffs, but his doctors advised the Flyers that he lacked the strength to perform his duties as head coach. After interim coach Craig Ramsay led the Flyers to the Eastern Conference Finals, the Flyers named Ramsay head coach.<ref name="NeilsonRamsay" /> The games Ramsay coached in place of Neilson are officially counted on Neilson's coaching totals.<ref name="Neilson" />}}
+|185
+|92
+|57
+|33
+|3
+|220
+|.595
+|29
+|14
+|15
+|.483
+|<ref name="CashmanNeilson" /><ref name="NeilsonRamsay">{{cite news |url=http://articles.philly.com/2000-06-09/sports/25601835_1_delmore-and-mark-eaton-eric-lindros-simon-gagne |archive-url=https://archive.today/20141208070023/http://articles.philly.com/2000-06-09/sports/25601835_1_delmore-and-mark-eaton-eric-lindros-simon-gagne |url-status=dead |archive-date=December 8, 2014 |title=Flyers Give Ramsay Reward |newspaper=[[The Philadelphia Inquirer]] |first=Tim |last=Panaccio |date=June 9, 2000 |access-date=December 8, 2014}}</ref><ref name="Neilson">{{cite web |url=https://www.hockey-reference.com/coaches/neilsro99c.html |title=Roger Neilson |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|- 
+!scope="row" |13
+| align="left"|{{sortname|Craig|Ramsay}}
+| align="left"|June 8, 2000 – December 10, 2000
+|28
+|12
+|12
+|4
+|0
+|28
+|.500
+|—
+|—
+|—
+|—
+|<ref name="NeilsonRamsay" /><ref name="RamsayBarber">{{cite news |url=http://articles.philly.com/2000-12-11/sports/25580742_1_emotion-and-direction-bill-barber-flyers-assistant |archive-url=https://web.archive.org/web/20110217050119/http://articles.philly.com/2000-12-11/sports/25580742_1_emotion-and-direction-bill-barber-flyers-assistant |url-status=dead |archive-date=February 17, 2011 |title=Clarke Dumps Ramsay |newspaper=[[The Philadelphia Inquirer]] |first=Tim |last=Panaccio |date=December 11, 2000 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/ramsacr01c.html |title=Craig Ramsay |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |14
+|style="background:#ddffdd" align="left"|{{sortname|Bill|Barber}}{{Hash-tag}}
+| align="left"|December 10, 2000 – April 30, 2002
+|136
+|73
+|40
+|17
+|6
+|169
+|.621
+|11
+|3
+|8
+|.273
+|<ref name="RamsayBarber" /><ref>{{cite news |url=http://articles.philly.com/2002-05-01/sports/25347416_1_ed-snider-jack-adams-award-flyers-coach |archive-url=https://archive.today/20141208070016/http://articles.philly.com/2002-05-01/sports/25347416_1_ed-snider-jack-adams-award-flyers-coach |url-status=dead |archive-date=December 8, 2014 |title=Ax Falls On Barber |newspaper=[[The Philadelphia Inquirer]] |first=Tim |last=Panaccio |date=May 1, 2002 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/barbebi01c.html |title=Bill Barber |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|- 
+!scope="row" |15
+|style="background:#FFE6BD" align="left"|{{sortname|Ken|Hitchcock}}{{dagger}}
+| align="left"|May 14, 2002 – October 22, 2006
+|254
+|131
+|73
+|28
+|22
+|312
+|.614
+|37
+|19
+|18
+|.514
+|<ref>{{cite news |url=http://articles.philly.com/2002-05-15/sports/25346469_1_flyers-general-manager-coach-in-flyers-history-ken-hitchcock |archive-url=https://web.archive.org/web/20140303195400/http://articles.philly.com/2002-05-15/sports/25346469_1_flyers-general-manager-coach-in-flyers-history-ken-hitchcock |url-status=dead |archive-date=March 3, 2014 |title=Flyers Try New Direction |newspaper=[[The Philadelphia Inquirer]] |first=Tim |last=Panaccio |date=May 15, 2002 |access-date=December 8, 2014}}</ref><ref name="HitchcockStevens">{{Cite web |url=https://www.espn.com/nhl/news/story?id=2634817 |title=Flyers GM Clarke resigns; coach Hitchcock fired |publisher=[[ESPN.com]] |date=October 24, 2006 |access-date=December 8, 2014}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/hitchke99c.html |title=Ken Hitchcock |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|- 
+!scope="row" |16
+| align="left"|{{sortname|John|Stevens|dab=ice hockey}}
+| align="left"|October 22, 2006 – December 4, 2009
+|263
+|120
+|109
+|—
+|34
+|274
+|.521
+|23
+|11
+|12
+|.478
+|<ref name="HitchcockStevens" /><ref name="StevensLaviolette">{{cite web |title=Flyers Name Peter Laviolette Head Coach |url=http://flyers.nhl.com/club/news.htm?id=508687 |website=Philadelphia Flyers |access-date=May 19, 2025 |archive-url=https://web.archive.org/web/20091208113801/http://flyers.nhl.com/club/news.htm?id=508687 |archive-date=December 8, 2009 |date=December 4, 2009}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/stevejo01c.html |title=John Stevens |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|- 
+!scope="row" |17
+| align="left"|{{sortname|Peter|Laviolette}}
+| align="left"|December 4, 2009 – October 7, 2013
+|272
+|145
+|98
+|—
+|29
+|319
+|.586
+|45
+|23
+|22
+|.511
+|<ref name="StevensLaviolette" /><ref name="Berube">{{cite web|url=http://flyers.nhl.com/club/news.htm?id=685799 |archive-url=https://web.archive.org/web/20131010054041/http://flyers.nhl.com/club/news.htm?id=685799 |url-status=dead |archive-date=October 10, 2013 |title=CRAIG BERUBE NAMED FLYERS HEAD COACH |website=Philadelphia Flyers |date=October 7, 2013 |access-date=October 7, 2013}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/laviope01c.html |title=Peter Laviolette |access-date=May 29, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |18
+| align="left"|{{sortname|Craig|Berube}}
+| align="left"|October 7, 2013 – April 17, 2015
+|161
+|75
+|58
+|—
+|28
+|178
+|.553
+|7
+|3
+|4
+|.429
+|<ref name="Berube" /><ref name="Berubefired">{{cite web |url=http://flyers.nhl.com/club/news.htm?id=763801 |archive-url=https://web.archive.org/web/20150418005129/http://flyers.nhl.com/club/news.htm?id=763801 |url-status=dead |archive-date=April 18, 2015 |title=Craig Berube relieved of duties as Flyers head coach |website=[[Philadelphia Flyers]] |date=April 17, 2015 |access-date=April 17, 2015}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/berubcr01c.html |title=Craig Berube |access-date=October 8, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |19
+| align="left"|{{sortname|Dave|Hakstol}}
+| align="left"|May 18, 2015 – December 17, 2018
+|277
+|134
+|101
+|—
+|42
+|310
+|.560
+|12
+|4
+|8
+|.333
+|<ref name="Hakstol">{{cite web|url=http://flyers.nhl.com/club/news.htm?id=768020 |archive-url=https://web.archive.org/web/20150519101336/http://flyers.nhl.com/club/news.htm?id=768020 |url-status=dead |archive-date=May 19, 2015 |title=Dave Hakstol Named Head Coach |website=Philadelphia Flyers |date=May 18, 2015 |access-date=May 18, 2015}}</ref><ref name="Hakstolfired">{{cite web|url=https://www.nhl.com/flyers/news/flyers-relieve-dave-hakstol-of-head-coaching-duties--philadelphia-flyers/c-303020846 |archive-url=https://web.archive.org/web/20181218010618/https://www.nhl.com/flyers/news/flyers-relieve-dave-hakstol-of-head-coaching-duties--philadelphia-flyers/c-303020846 |url-status=dead |archive-date=December 18, 2018 |title=Flyers Relieve Dave Hakstol of Head Coaching Duties |website=Philadelphia Flyers |date=December 17, 2018 |access-date=December 17, 2018}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/hakstda99c.html |title=Dave Hakstol |access-date=December 17, 2018|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |20
+| align="left"|{{sortname|Scott|Gordon|dab=ice hockey}} (interim)
+| align="left"|December 17, 2018 – April 15, 2019
+|51
+|25
+|22
+|—
+|4
+|54
+|.529
+|—
+|—
+|—
+|—
+|<ref name="Hakstolfired" /><ref>{{cite web |url=https://www.hockey-reference.com/coaches/gordosc01c.html |title=Scott Gordon |access-date=December 17, 2018|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |21
+| align="left"|{{sortname|Alain|Vigneault}}
+| align="left"|April 15, 2019 – December 6, 2021
+|147
+|74
+|54
+|—
+|19
+|167
+|.568
+|16
+|10
+|6
+|.625
+|<ref name="Vigneault">{{cite web |url=https://www.nhl.com/flyers/news/flyers-name-alain-vigneault-head-coach--philadelphia-flyers/c-306782494 |archive-url=https://web.archive.org/web/20190415194035/https://www.nhl.com/flyers/news/flyers-name-alain-vigneault-head-coach--philadelphia-flyers/c-306782494 |url-status=dead |archive-date=April 15, 2019 |title=Flyers name Alain Vigneault head coach |work=Philadelphia Flyers |date=April 15, 2019 |access-date=April 15, 2019}}</ref><ref name="Yeo">{{cite web |url=https://www.nhl.com/flyers/news/flyers-relieve-alain-vigneault-michel-therrien-of-duties-328699196 |title=Flyers relieve Alain Vigneault, Michel Therrien of duties |work=Philadelphia Flyers |date=December 6, 2021 |access-date=December 6, 2021}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/vigneal01c.html |title=Alain Vigneault |access-date=April 15, 2019|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |22
+| align="left"|{{sortname|Mike|Yeo}} (interim)
+| align="left"|December 6, 2021 – May 3, 2022
+|60
+|17
+|36
+|—
+|7
+|41
+|.342
+|—
+|—
+|—
+|—
+| <ref name="Yeo" /><ref>{{cite web |url=https://www.hockey-reference.com/coaches/yeomi99c.html |title=Mike Yeo |access-date=December 6, 2021 |publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref><ref>{{cite web |title=Yeo fired as coach of Flyers, was 17-36-7 after replacing Vigneault |url=https://www.nhl.com/news/mike-yeo-fired-by-philadelphia-333700988 |website=NHL.com |access-date=May 3, 2022 |date=May 3, 2022}}</ref>
+|-
+!scope="row" |23
+| align="left"|{{sortname|John|Tortorella}}
+| align="left"|June 17, 2022 – March 27, 2025
+|237
+|97
+|107
+|—
+|33
+|227
+|.479
+|—
+|—
+|—
+|—
+| <ref name="Tortorella">{{cite web |title=Flyers Name John Tortorella Head Coach |url=https://www.nhl.com/flyers/news/stanley-cup-champion-20-year-nhl-veteran-named-23rd-head-coach-in-team-334638228 |website=NHL.com |access-date=June 17, 2022 |date=June 17, 2022}}</ref><ref name="Shaw">{{cite web |title=Tortorella fired as Flyers coach, replaced by Shaw |url=https://www.nhl.com/news/philadelphia-flyers-relieve-john-tortorella-of-his-duties-as-head-coach |website=NHL.com |access-date=March 27, 2025 |date=March 27, 2025}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/tortojo99c.html |title=John Tortorella |access-date=June 17, 2022 |publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |24
+| align="left"|[[Brad Shaw]] (interim)
+| align="left"|March 27, 2025 – May 14, 2025
+|9
+|5
+|3
+|—
+|1
+|11
+|.611
+|—
+|—
+|—
+|—
+|<ref name="Shaw" /><ref>{{cite web |url=https://www.hockey-reference.com/coaches/shawbr01c.html |title=Brad Shaw Coaching Record |access-date=March 27, 2025 |publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+!scope="row" |25
+| align="left"|[[Rick Tocchet]]
+| align="left"|May 14, 2025 – present
+|82
+|43
+|27
+|—
+|12
+|98
+|.598
+|10
+|4
+|6
+|.400
+|<ref name="Tocchet">{{cite web |title=Flyers Name Rick Tocchet Head Coach |url=https://www.nhl.com/flyers/news/flyers-name-rick-tocchet-head-coach-x5489 |website=Philadelphia Flyers |access-date=May 14, 2025 |date=May 14, 2025}}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/tocchri01c.html |title=Rick Tocchet Coaching Record |access-date=May 14, 2025 |publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|}
+<gallery>
+File:Fred Shero.jpg|Fred Shero, shown here during his playing days with the [[New York Rangers]], led the Flyers to back-to-back Stanley Cup championships and was the inaugural winner of the [[Jack Adams Award]].<ref name="Adams" />
+File:Pat Quinn 2012.jpg|Pat Quinn won the Jack Adams Award during the Flyers record breaking 1979–80 season.
+File:Paul_Holmgren.jpg|Paul Holmgren served four seasons as Flyers head coach.
+File:Peter Laviolette 2012-04-07.JPG|Peter Laviolette's five seasons as Flyers coach is second only to Fred Shero.
+File:Craig Berube 2011-12-29.JPG|Craig Berube served two seasons as Flyers head coach.
+File:Dave Hakstol 2015.jpg|[[Dave Hakstol]] served four seasons as Flyers head coach.
+</gallery>
+
+==See also==
+*[[List of National Hockey League head coaches|List of NHL head coaches]]
+
+==Notes==
+{{notelist}}
+
+==References==
+'''General'''
+{{refbegin}}
+* {{cite web|url=https://www.hockey-reference.com/teams/PHI/coaches.html|title=Philadelphia Flyers Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|access-date=May 29, 2013}}
+* {{cite web |title=PHI Records |url=https://records.nhl.com/phi/franchises/philadelphia-flyers/history |website=records.nhl.com |access-date=May 11, 2023}}
+{{refend}}
+'''Specific'''
+{{reflist|2}}
+
+{{Philadelphia Flyers}}
+{{NHLHeadCoach}}
+
+[[Category:Philadelphia Flyers coaches| ]]
+[[Category:Philadelphia Flyers lists|head coaches]]
+[[Category:National Hockey League coaches by team|Philadelphia Flyers head coaches]]
+[[Category:Lists of ice hockey coaches|Philadelphia Flyers head coaches]]

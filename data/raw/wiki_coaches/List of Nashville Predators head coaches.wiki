@@ -1,0 +1,102 @@
+{{Short description|none}}
+{{Use mdy dates|date=January 2020}}
+[[File:WTN EVula 058.jpg|thumb|The Predators have played their home games at the [[Bridgestone Arena]] (formerly the Sommet Center) since their inaugural season.]]
+The [[Nashville Predators]] are an American professional [[ice hockey]] team based in [[Nashville, Tennessee]]. They play in the [[Central Division (NHL)|Central Division]] of the [[Western Conference (NHL)|Western Conference]] in the [[National Hockey League]] (NHL).<ref>{{cite web|url=http://www.nhl.com/ice/teams.htm|archive-url=https://web.archive.org/web/20090311030113/http://www.nhl.com/ice/teams.htm|url-status=dead|archive-date=March 11, 2009|title=Teams|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=December 22, 2008}}</ref> The team joined the NHL in 1998 as an [[expansion team]]. The Predators have played their home games at the [[Bridgestone Arena]] since their inaugural season.<ref>{{cite web|url=http://predators.nhl.com/team/app/?service=page&page=NHLPage&bcid=tea_his_Timeline|title=10th Anniversary - History: Franchise Timeline|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=December 23, 2008|url-status=dead|archiveurl=https://web.archive.org/web/20080904163832/http://predators.nhl.com/team/app/?service=page&page=NHLPage&bcid=tea_his_Timeline|archivedate=September 4, 2008}}</ref> The Predators are owned by Predators Holdings LLC, [[Barry Trotz]] is their [[general manager]].<ref>{{cite web|url=http://predators.nhl.com/team/app/?service=page&page=NHLPage&bcid=tea_stafflist|title=Team - Front Office|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=December 23, 2008|url-status=dead|archiveurl=https://web.archive.org/web/20081219180432/http://predators.nhl.com/team/app/?service=page&page=NHLPage&bcid=tea_stafflist|archivedate=December 19, 2008}}</ref><ref>{{cite web|url=http://predators.nhl.com/team/app?service=page&page=TeamPlayers&type=roster |title=Team - Roster |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |accessdate=December 23, 2008 |url-status=dead |archiveurl=https://web.archive.org/web/20090303190243/http://predators.nhl.com/team/app?service=page&page=TeamPlayers&type=roster |archivedate=March 3, 2009}}</ref>
+
+Until the end of the 2013–14 season, the Predators franchise had only had one [[head coach]], [[Barry Trotz]]. Trotz was then replaced by [[Peter Laviolette]] on May 6, 2014.<ref>{{cite web|url=http://www.cbc.ca/sports/hockey/nhl/peter-laviolette-named-head-coach-of-predators-1.2633698|title=Peter Laviolette named head coach of Predators|publisher=CBC Sports|work=cbc.ca|accessdate=July 18, 2017}}</ref> Laviolette helped the Predators capture their first [[Clarence S. Campbell Bowl]] as well as making the team's first Stanley Cup Finals appearance.<ref>{{cite web|url=http://nhl.nbcsports.com/2017/05/22/predators-eliminate-ducks-reach-first-stanley-cup-final-in-franchise-history/|title=Predators eliminate Ducks, reach first Stanley Cup Final in franchise history|publisher=NBC Sports|work=nbcsports.com|accessdate=July 18, 2017}}</ref>  [[John Hynes (ice hockey)|John Hynes]] replaced Laviolette during the [[2019–20 NHL season|2019–20 season]];<ref>{{cite web |title=Predators Name John Hynes Head Coach |url=https://www.nhl.com/predators/news/nashville-predators-name-john-hynes-head-coach-313572802 |website=NHL.com |access-date=January 7, 2020 |date=January 7, 2020}}</ref> after three and a half seasons, he was fired on May 30, 2023.<ref>{{cite web |title=Predators Relieve John Hynes of Coaching Duties, Effective Immediately |url=https://www.nhl.com/predators/news/nashville-predators-relieve-john-hynes-of-head-coaching-duties-effecti-344656716 |website=NHL.com |access-date=June 1, 2023 |date=May 30, 2023}}</ref> The following day, former Predator [[Andrew Brunette]] was named head coach.<ref>{{cite web |title=Predators Name Andrew Brunette Head Coach |url=https://www.nhl.com/predators/news/nashville-predators-name-andrew-brunette-head-coach-344661764 |website=NHL.com |access-date=June 1, 2023 |date=May 31, 2023}}</ref>
+
+==Key==
+{| class="wikitable"
+|-
+| '''#'''
+| Number of coaches{{efn|A running total of the number of coaches of the Predators. Thus, any coach who has two or more separate terms as head coach is only counted once.}}
+|-
+| '''GC'''
+| Games coached
+|-
+| '''W'''
+| Wins = 2 points
+|-
+| '''L'''
+| Losses = 0 points
+|-
+| '''T'''
+| Ties = 1 point
+|-
+| '''OT'''
+| [[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point{{efn|Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|title=Official Rules|publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |accessdate=December 23, 2008|format=PDF |url-status=dead |archiveurl=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|archivedate=May 11, 2008}}</ref>}}
+|-
+| '''Pts'''
+| [[Point (ice hockey)|Points]]
+|-
+| '''Win %'''
+| [[Winning percentage]]
+|-
+| style="background-color:#ddffdd;"|*
+| Spent entire NHL head coaching career with the Predators
+|-
+|}
+
+==Coaches==
+''Note: Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+{| class="wikitable" style="text-align:center;"
+! rowspan="2"|#
+! rowspan="2"|Name
+! rowspan="2"|Term{{efn|name=eachyear|Each year is linked to an article about that particular NHL season.}}
+! colspan="6"|Regular season
+! colspan="4"|Playoffs
+! rowspan="2"|Achievements
+! rowspan="2"|Reference
+|-
+! GC !! W !! L !! OT !! Pts !! Win % !! GC !! W !! L !! Win %
+|-
+| 1
+| style="text-align:left;"|[[Barry Trotz]]
+| [[1998–99 NHL season|1998]]–[[2013–14 NHL season|2014]]
+| 1,196 || 557 || 479 || 160 || 1,274 || {{winpct|557|479|160}}
+| 50 || 19 || 31 || {{winpct|19|31}}
+|
+| <ref>{{cite web |title=Barry Trotz NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/trotzba99c.html |website=Hockey-Reference.com |accessdate=December 23, 2008}}</ref>
+|-
+| 2
+| style="text-align:left;"|[[Peter Laviolette]]
+| [[2014–15 NHL season|2014]]–[[2019–20 NHL season|2020]]
+| 451 || 248 || 143 || 60 || 556 || {{winpct|248|143|60}}
+| 61 || 32 || 29 || {{winpct|32|29}}
+| [[Presidents' Trophy]] ([[2017–18 NHL season|2017–18]])
+| <ref>{{cite web |title=Peter Laviolette NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/laviope01c.html |website=Hockey-Reference.com |accessdate=May 6, 2014}}</ref>
+|-
+| 3
+| style="text-align:left;"|[[John Hynes (ice hockey)|John Hynes]]
+| [[2019–20 NHL season|2020]]–[[2022–23 NHL season|2023]]
+| 248 || 134 || 96 || 18 || 286 || {{winpct|134|96|18}}
+| 14 || 3 || 11 || {{winpct|3|11}}
+| 
+| <ref>{{cite web |title=John Hynes NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/hynesjo01c.html |website=Hockey-Reference.com |accessdate=January 7, 2020}}</ref>
+|-
+| 4
+| style="text-align:left;"|[[Andrew Brunette]]
+| [[2023–24 NHL season|2023]]–present
+| 246 || 115 || 108 || 23 || 253 || {{winpct|115|108|23}}
+| 6 || 2 || 4 || {{winpct|2|4}}
+|
+| <ref>{{cite web |title=Andrew Brunette NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/brunean01c.html |website=Hockey-Reference.com |accessdate=May 31, 2023}}</ref>
+|}
+<!-- DO NOT UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE CURRENT SEASON -->
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* {{cite web|url=https://www.hockey-reference.com/teams/NSH/coaches.html|title=Nashville Predators Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=January 7, 2020}}
+
+{{Nashville Predators}}
+{{NHLHeadCoach}}
+
+[[Category:Nashville Predators coaches| ]]
+[[Category:National Hockey League coaches by team|Nashville Predators head coaches]]
+[[Category:Lists of ice hockey coaches|Nashville Predators head coaches]]
+[[Category:Nashville Predators lists|Head coaches]]

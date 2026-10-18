@@ -1,0 +1,580 @@
+{{Short description|None}}
+{{Featured list}}
+{{Use mdy dates|date=May 2025}}
+[[File:Staplescenter.jpg|thumb|right|The Kings have played their home games at the Staples Center since 1999.]]
+The [[Los Angeles Kings]] are an American professional [[ice hockey]] team based in [[Los Angeles]]. They play in the [[Pacific Division (NHL)|Pacific Division]] of the [[Western Conference (NHL)|Western Conference]] in the [[National Hockey League]] (NHL).<ref>{{cite web|url=http://www.nhl.com/ice/teams.htm|title=Teams|publisher=NHL Enterprises, L.P.|work=NHL.com|access-date=2009-02-21|archive-date=2009-03-11|archive-url=https://web.archive.org/web/20090311030113/http://www.nhl.com/ice/teams.htm|url-status=dead}}</ref> The team joined the [[1967 NHL expansion|NHL in 1967]] as an [[expansion team]] with five other teams, and won their first [[Stanley Cup]] in [[2012 Stanley Cup Final|2012]]. Having first played at [[The Forum (Inglewood, California)|The Forum]], the Kings have played their home games at the [[Crypto.com Arena]] since 1999.<ref name="history">{{cite web|url=http://kings.nhl.com/team/app/?service=page&page=NHLPage&bcid=4183|archive-url=https://archive.today/20110809150317/http://kings.nhl.com/team/app/?service=page&page=NHLPage&bcid=4183|url-status=dead|archive-date=August 9, 2011|title=The History of the Los Angeles Kings|publisher=NHL Enterprises, L.P.|work=NHL.com|access-date=2009-02-21}}</ref> The Kings are owned by [[Philip Anschutz]] and [[Edward P. Roski]], [[Ken Holland]] is their [[general manager]], [[Peter Laviolette]] is their head coach, and [[Anže Kopitar|Anze Kopitar]] was the most recent team [[Captain (ice hockey)|captain]].<ref>{{cite web|url=http://kings.nhl.com/team/app/?service=page&page=NHLPage&bcid=4186|title=Team - Staff Directory|publisher=NHL Enterprises, L.P.|work=NHL.com|access-date=2009-02-21|url-status=dead|archive-url=https://web.archive.org/web/20090302003417/http://kings.nhl.com/team/app/?service=page&page=NHLPage&bcid=4186|archive-date=2009-03-02}}</ref><ref>{{cite web|url=http://kings.nhl.com/team/app?service=page&page=TeamPlayers&type=roster|archive-url=https://archive.today/20101104093957/http://kings.nhl.com/team/app?service=page&page=TeamPlayers&type=roster|url-status=dead|archive-date=2010-11-04|title=Kings Roster|publisher=NHL Enterprises, L.P.|work=NHL.com|access-date=2009-02-21}}</ref>
+
+There have been 32&nbsp;[[head coach]]es for the Kings. The franchise's first head coach was [[Red Kelly]], who coached for two seasons. [[Andy Murray]] is the franchise's all-time leader for the most regular-season games coached (480), the most regular-season game wins (215), and the most regular-season [[Point (ice hockey)|points]] (519); [[Darryl Sutter]] is the franchise's all-time leader for the most playoff games coached (64) and playoff game wins (41), and the highest playoff [[winning percentage]] (.641), which is one of only two over .500 out of the Kings' head coaches. [[Rogatien Vachon]], who coached the Kings for three non-consecutive stints, is the Kings' all-time leader for the least regular-season games coached, with 10. Sutter is the only coach to have won a [[Stanley Cup]] with the Kings, in 2012 and [[2014 Stanley Cup Final|2014]].<ref name="history"/> [[Bob Pulford]] is the only head coach to have been awarded the [[Jack Adams Award]] with the Kings, having won it in the [[1974–75 NHL season|1974–75 season]].<ref name="adams"/> [[Larry Regan]] and [[Don Perry]] have spent their entire NHL head coaching careers with the Kings. [[Roger Neilson]], who coached the Kings for 28 games, is the only Kings head coach to have been elected to the [[Hockey Hall of Fame]] as a [[List of members of the Hockey Hall of Fame#Builders|builder]].<ref>{{cite web|url=http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMembersByYear.jsp?type=Builder|title=Hockey Hall of Fame inductees - Builders by Induction Year|publisher=[[Hockey Hall of Fame]]|access-date=2009-02-21|url-status=dead|archive-url=https://web.archive.org/web/20090528120538/http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMembersByYear.jsp?type=Builder|archive-date=2009-05-28}}</ref>
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{efn|A running total of the number of coaches of the Kings. Thus, any coach who has two or more separate terms as head coach is only counted once.}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''T'''
+|Ties = 1 point
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point{{efn|Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|archive-url=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|url-status=dead|archive-date=2008-05-11|title=Official Rules|publisher=NHL Enterprises, L.P.|work=NHL.com|access-date=2009-02-20}}</ref>}}
+|-
+|'''PTS'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|style="background-color:#ddffdd"|*
+| Spent entire NHL coaching career with the Kings
+|-
+|style="background-color:#FFE6BD"|†
+| Elected to the [[Hockey Hall of Fame]] as a [[List of members of the Hockey Hall of Fame#Builders|builder]]
+|-
+|}
+
+==Coaches==
+[[File:Larry Robinson.jpg|thumb|upright|Larry Robinson (shown wearing a [[Montreal Canadiens]] jersey) coached the Kings for four seasons.]]
+[[File:Marccrawford 2006nhlawards.jpg|thumb|upright|Marc Crawford was the head coach of the Kings from 2006 to 2008.]]
+''Note: Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+<!-- DON'T UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE SEASON -->
+{| class="wikitable"
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term{{efn|Each year is linked to an article about that particular NHL season.}}
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+! rowspan="2" | Achievements
+! rowspan="2" | Reference
+|-
+! GC
+! W
+! L
+! T/OT
+! PTS
+! Win%
+! GC
+! W
+! L
+! Win%
+|-
+|-
+|align=center|1
+|[[Red Kelly]]
+|[[1967–68 NHL season|1967]]–[[1968–69 NHL season|1969]]
+|150
+|55
+|75
+|20
+|130
+|.433
+|18
+|7
+|11
+|.389
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/kellyre01c.html|title=Red Kelly Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-08-30|archive-url=https://web.archive.org/web/20080830010233/http://www.hockey-reference.com/coaches/kellyre01c.html|url-status=live}}</ref>
+|-
+|align=center|2
+|[[Hal Laycoe]]
+|[[1969–70 NHL season|1969]]
+|24
+|5
+|18
+|1
+|11
+|.229
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/laycoha01c.html|title=Hal Laycoe Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-12-03|archive-url=https://web.archive.org/web/20081203200556/http://www.hockey-reference.com/coaches/laycoha01c.html|url-status=live}}</ref>
+|-
+|align=center|3
+|[[Johnny Wilson (ice hockey)|Johnny Wilson]]
+|[[1969–70 NHL season|1969–1970]]
+|52
+|9
+|34
+|9
+|27
+|.260	
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/wilsojo01c.html|title=Johnny Wilson Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2017-07-04|archive-url=https://web.archive.org/web/20170704194735/http://www.hockey-reference.com/coaches/wilsojo01c.html|url-status=live}}</ref>
+|-
+|align=center|4
+|style="background-color:#ddffdd"|[[Larry Regan]]*
+|[[1970–71 NHL season|1970]]–[[1971–72 NHL season|1971]]
+|88
+|27
+|47
+|14
+|68
+|.386
+|—
+|—
+|—
+|— 	
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/reganla01c.html|title=Larry Regan Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-12-03|archive-url=https://web.archive.org/web/20081203194205/http://www.hockey-reference.com/coaches/reganla01c.html|url-status=live}}</ref>
+|-
+|align=center|5
+|[[Fred Glover (ice hockey)|Fred Glover]]
+|[[1971–72 NHL season|1971–1972]]
+|68
+|18
+|42
+|8
+|44
+|.324 	
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/glovefr01c.html|title=Fred Glover Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2019-04-21|archive-url=https://web.archive.org/web/20190421095540/https://www.hockey-reference.com/coaches/glovefr01c.html|url-status=live}}</ref>
+|-
+|align=center|6
+|[[Bob Pulford]]*
+|[[1972–73 NHL season|1972]]–[[1976–77 NHL season|1977]]
+|396
+|178
+|150
+|68
+|424
+|.535
+|26
+|11
+|15
+|.423
+|1974–75 [[Jack Adams Award]] winner<ref name="adams">{{cite web|url=http://www.nhl.com/trophies/adams.html|archive-url=https://web.archive.org/web/20080706102444/http://www.nhl.com/trophies/adams.html|url-status=dead|archive-date=2008-07-06|title=Jack Adams Award|publisher=NHL Enterprises, L.P.|work=[[National Hockey League|NHL]]|access-date=2008-12-21}}</ref>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/pulfobo01c.html|title=Bob Pulford Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2011-07-25|archive-url=https://web.archive.org/web/20110725210951/http://www.hockey-reference.com/coaches/pulfobo01c.html|url-status=live}}</ref>
+|-
+|align=center|7
+|[[Ron Stewart]]
+|[[1977–78 NHL season|1977–1978]]
+|80
+|31
+|34
+|15
+|77
+|.481
+|2
+|0
+|2
+|.000
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/stewaro01c.html|title=Ron Stewart Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-12-03|archive-url=https://web.archive.org/web/20081203192612/http://www.hockey-reference.com/coaches/stewaro01c.html|url-status=live}}</ref>
+|-
+|align=center|8
+|[[Bob Berry (ice hockey)|Bob Berry]]
+|[[1978–79 NHL season|1978]]–[[1980–81 NHL season|1981]]
+|240
+|107
+|94
+|39
+|253
+|.527
+|10
+|2
+|8
+|.200
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/berrybo01c.html|title=Bob Berry Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-07-20|archive-url=https://web.archive.org/web/20080720065756/http://www.hockey-reference.com/coaches/berrybo01c.html|url-status=live}}</ref>
+|-
+|align=center|9
+|[[Parker MacDonald]]
+|[[1981–82 NHL season|1981–1982]]
+|42
+|13
+|24
+|5
+|31
+|.369
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/macdopa01c.html|title=Parker MacDonald Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-12-03|archive-url=https://web.archive.org/web/20081203194914/http://www.hockey-reference.com/coaches/macdopa01c.html|url-status=live}}</ref>
+|-
+|align=center|10
+|style="background-color:#ddffdd"|[[Don Perry]]*
+|[[1981–82 NHL season|1982]]–[[1983–84 NHL season|1984]]
+|168
+|52
+|85
+|31
+|135
+|.402
+|10
+|4
+|6
+|.400
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/perrydo99c.html|title=Don Perry Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-12-03|archive-url=https://web.archive.org/web/20081203212606/http://www.hockey-reference.com/coaches/perrydo99c.html|url-status=live}}</ref>
+|-
+|align=center|11
+|[[Rogatien Vachon]]
+|[[1983–84 NHL season|1984]]
+|2
+|1
+|0
+|1
+|3
+|.750
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="vachon">{{cite web|url=https://www.hockey-reference.com/coaches/vachoro01c.html|title=Rogie Vachon Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-08-30|archive-url=https://web.archive.org/web/20080830045729/http://www.hockey-reference.com/coaches/vachoro01c.html|url-status=live}}</ref>
+|-
+|align=center|12
+|style="background-color:#FFE6BD"|[[Roger Neilson]]†
+|[[1983–84 NHL season|1984]]
+|28
+|8
+|17
+|3
+|19
+|.339
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/neilsro99c.html|title=Roger Neilson Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-08-30|archive-url=https://web.archive.org/web/20080830072015/http://www.hockey-reference.com/coaches/neilsro99c.html|url-status=live}}</ref>
+|-
+|align=center|13
+|[[Pat Quinn (ice hockey)|Pat Quinn]]
+|[[1984–85 NHL season|1984]]–[[1986–87 NHL season|1987]]
+|202
+|75
+|101
+|26
+|176
+|.436
+|3
+|0
+|3
+|.000
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/quinnpa01c.html|title=Pat Quinn Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-08-27|archive-url=https://web.archive.org/web/20080827230636/http://www.hockey-reference.com/coaches/quinnpa01c.html|url-status=live}}</ref>
+|-
+|align=center|14
+|[[Mike Murphy (ice hockey b. 1950)|Mike Murphy]]
+|[[1986–87 NHL season|1987]]–[[1987–88 NHL season|1987]]
+|65
+|20
+|37
+|8
+|48
+|.369
+|5
+|1
+|4
+|.200
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/murphmi01c.html|title=Mike Murphy Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-10-16|archive-url=https://web.archive.org/web/20081016001425/http://www.hockey-reference.com/coaches/murphmi01c.html|url-status=live}}</ref>
+|-
+|align=center|15
+|Rogatien Vachon
+|[[1987–88 NHL season|1987]]
+|1
+|0
+|1
+|0
+|0
+|.000
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="vachon"/>
+|-
+|align=center|16
+|[[Robbie Ftorek]]
+|[[1987–88 NHL season|1987]]–[[1988–89 NHL season|1989]]
+|132
+|65
+|56
+|11
+|141
+|.534
+|16
+|5
+|11
+|.313
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/ftorero01c.html|title=Robbie Ftorek Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-12-03|archive-url=https://web.archive.org/web/20081203200739/http://www.hockey-reference.com/coaches/ftorero01c.html|url-status=live}}</ref>
+|-
+|align=center|17
+|[[Tom Webster (ice hockey)|Tom Webster]]
+|[[1989–90 NHL season|1989]]–[[1991–92 NHL season|1992]]
+|240
+|115
+|94
+|31
+|261
+|.544
+|28
+|12
+|16
+|.429
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/webstto01c.html|title=Tom Webster Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-08-28|archive-url=https://web.archive.org/web/20080828203620/http://www.hockey-reference.com/coaches/webstto01c.html|url-status=live}}</ref>
+|-
+|align=center|18
+|[[Barry Melrose]]
+|[[1992–93 NHL season|1992]]–[[1994–95 NHL season|1995]]
+|209
+|79
+|101
+|29
+|187
+|.447
+|24
+|13
+|11
+|.542
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/melroba01c.html|title=Barry Melrose Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-12-03|archive-url=https://web.archive.org/web/20081203205921/http://www.hockey-reference.com/coaches/melroba01c.html|url-status=live}}</ref>
+|-
+|align=center|19
+|Rogatien Vachon
+|[[1994–95 NHL season|1995]]
+|7
+|3
+|2
+|2
+|8
+|.571
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="vachon"/>
+|-
+|align=center|20
+|[[Larry Robinson]]
+|[[1995–96 NHL season|1995]]–[[1998–99 NHL season|1999]]
+|328
+|122
+|161
+|45
+|289
+|.441
+|4
+|0
+|4
+|.000
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/robinla01c.html|title=Larry Robinson Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-10-11|archive-url=https://web.archive.org/web/20081011092538/http://www.hockey-reference.com/coaches/robinla01c.html|url-status=live}}</ref>
+|-
+|align=center|21
+|[[Andy Murray (ice hockey)|Andy Murray]]
+|[[1999–2000 NHL season|1999]]–[[2005–06 NHL season|2006]]
+|480
+|215
+|176
+|89
+|519
+|.541
+|24
+|10
+|14
+|.417
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/murraan99c.html|title=Andy Murray Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-10-06|archive-url=https://web.archive.org/web/20081006165724/http://www.hockey-reference.com/coaches/murraan99c.html|url-status=live}}</ref>
+|-
+|align=center|22
+|[[John Torchetti]]
+|[[2005–06 NHL season|2006]]
+|12
+|5
+|7
+|10
+|0
+|.417
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/torchjo99c.html|title=John Torchetti Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-10-10|archive-url=https://web.archive.org/web/20081010230919/http://www.hockey-reference.com/coaches/torchjo99c.html|url-status=live}}</ref>
+|-
+|align=center|23
+|[[Marc Crawford]]
+|[[2006–07 NHL season|2006]]–[[2007–08 NHL season|2008]]
+|164
+|59
+|84
+|21
+|139
+|.424
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/crawfma01c.html|title=Marc Crawford Coaching Record|access-date=2009-02-20|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2019-07-08|archive-url=https://web.archive.org/web/20190708113212/https://www.hockey-reference.com/coaches/crawfma01c.html|url-status=live}}</ref>
+|-
+|align=center|24
+|[[Terry Murray]]
+|[[2008–09 NHL season|2008]]–[[2011–12 NHL season|2011]]
+|275
+|139
+|106
+|30
+|308
+|.560
+|12
+|4
+|8
+|.333
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/murrate01c.html|title=Terry Murray Coaching Record|access-date=2011-12-12|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-09-07|archive-url=https://web.archive.org/web/20080907175522/http://www.hockey-reference.com/coaches/murrate01c.html|url-status=live}}</ref>
+|-
+|align=center|25
+|[[John Stevens (ice hockey)|John Stevens]]
+|[[2011–12 NHL season|2011]]
+|4
+|2
+|2
+|0
+|4
+|.500
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="stevens">{{cite web|url=https://www.hockey-reference.com/coaches/stevejo01c.html|title=John Stevens Coaching Record|access-date=2012-06-06|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2012-05-25|archive-url=https://web.archive.org/web/20120525060921/http://www.hockey-reference.com/coaches/stevejo01c.html|url-status=live}}</ref>
+|-
+|align=center|26
+|[[Darryl Sutter]]
+|[[2011–12 NHL season|2011]]–[[2016–17 NHL season|2017]]
+|425
+|225
+|147
+|45
+|417
+|.592
+|64
+|42
+|27
+|.641
+|2012, 2014 [[Stanley Cup]]<ref name="history"/>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/sutteda01c.html|title=Darryl Sutter Coaching Record|access-date=2012-06-06|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2017-09-12|archive-url=https://web.archive.org/web/20170912061554/https://www.hockey-reference.com/coaches/sutteda01c.html|url-status=live}}</ref>
+|-
+|align=center|27
+|John Stevens
+|[[2017–18 NHL season|2017]]–[[2018–19 NHL season|2018]]
+|95
+|49
+|37
+|9
+|107
+|.563
+|4
+|0
+|4
+|.000
+|
+|align=center|<ref name="stevens"/>
+|-
+|align=center|28
+|[[Willie Desjardins]]
+|[[2018–19 NHL season|2018–2019]]
+|69
+|27
+|34
+|8
+|62
+|.449
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{Cite web|url=https://www.hockey-reference.com/coaches/desjawi99c.html|title=Willie Desjardins NHL & WHA Hockey Coaching Record|website=Hockey-Reference.com|access-date=2019-04-07|archive-date=2019-04-07|archive-url=https://web.archive.org/web/20190407195454/https://www.hockey-reference.com/coaches/desjawi99c.html|url-status=live}}</ref>
+|-
+|align=center|29
+|[[Todd McLellan]]
+|[[2019–20 NHL season|2019]]–[[2023–24 NHL season|2024]]
+|338
+|164
+|130
+|44
+|372
+|.550
+|13
+|5
+|8
+|38.46
+|
+|align=center|<ref>{{Cite web|url=https://www.hockey-reference.com/coaches/mclelto01c.html|title=Todd McLellan NHL & WHA Hockey Coaching Record|website=Hockey-Reference.com|access-date=2024-02-02|archive-date=2017-11-21|archive-url=https://web.archive.org/web/20171121230929/https://www.hockey-reference.com/coaches/mclelto01c.html|url-status=live}}</ref>
+|-
+|align=center|30
+|[[Jim Hiller]]
+|[[2023–24 NHL season|2024]]–[[2025–26 NHL season|2026]]
+| 175 || 93 || 58 || 24 || 210 || {{Winning percentage|93|58|24}}
+|11
+|3
+|8
+|.273
+|
+|align=center|<ref>{{Cite web|url=https://www.hockey-reference.com/coaches/hilleji01c.html |title=Jim Hiller NHL & WHA Hockey Coaching Record|website=Hockey-Reference.com|access-date=2025-03-01|archive-date=2026-03-01|archive-url=https://web.archive.org/web/20260301174504/https://www.hockey-reference.com/coaches/hilleji01c.html|url-status=live}}</ref>
+|-
+|align=center|31
+|[[D. J. Smith (ice hockey)|D. J. Smith]]
+|[[2025–26 NHL season|2026]]
+| 23 || 11 || 6 || 6 || 28 || {{Winning percentage|11|6|6}}
+| 4 || 0 || 4 || {{Winning percentage|0|4}}
+| 
+|align=center|<ref>{{Cite web|url=https://www.hockey-reference.com/coaches/smithdj01c.html |title=D. J. Smith NHL & WHA Hockey Coaching Record|website=Hockey-Reference.com|access-date=2025-03-01}}</ref>
+
+|-
+|align=center|32
+|[[Peter Laviolette]]
+|[[2026–27 NHL season|2026]]–present
+| — || — || — || — || — || {{Winning percentage|0|0|0}}
+| — || — || — || {{Winning percentage|0|0}}
+| 
+|align=center|<ref>{{Cite web|url=https://www.hockey-reference.com/coaches/laviope01c.html |title=Peter Laviolette NHL & WHA Hockey Coaching Record|website=Hockey-Reference.com|access-date=2026-06-09}}</ref>
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+
+===General===
+* {{cite web|url=https://www.hockey-reference.com/teams/LAK/coaches.html|title=Los Angeles Kings Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|access-date=2009-02-20|archive-date=2008-09-05|archive-url=https://web.archive.org/web/20080905175936/http://www.hockey-reference.com/teams/LAK/coaches.html|url-status=live}}
+
+===Specific===
+{{reflist}}
+
+{{Los Angeles Kings}}
+{{NHLHeadCoach}}
+
+[[Category:Los Angeles Kings coaches| ]]
+[[Category:National Hockey League coaches by team|Los Angeles Kings head coaches]]
+[[Category:Lists of ice hockey coaches|Los Angeles Kings head coaches]]
+[[Category:Los Angeles Kings lists|head coaches]]

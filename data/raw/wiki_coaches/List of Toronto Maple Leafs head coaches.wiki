@@ -1,0 +1,798 @@
+{{Short description|None}}
+{{Use mdy dates|date=May 2024}}
+[[File:Air Canada Centre and CN Tower from Bay St.jpg|right|250px|thumb|The [[Scotiabank Arena]], home of the Toronto Maple Leafs since 1999 after the [[Maple Leaf Gardens|maple leaf gardens]] closed in 1999 as the last original 6 arena]]
+The [[Toronto Maple Leafs]] are a professional [[ice hockey]] team based in [[Toronto]]. The team is a member of the [[Atlantic Division (NHL)|Atlantic Division]] in the [[Eastern Conference (NHL)|Eastern Conference]] of the [[National Hockey League]] (NHL) and is one of the [[Original Six]] teams of the NHL. There have been 42 [[head coach]]es in the franchise history; one during the era of the [[Toronto Arenas]] (1917–1919), seven during the era of the Toronto St. Patricks (1919–1927) and the rest under the Toronto Maple Leafs (1927–present).<ref name="LeafsList" /> Five Maple Leafs coaches have been inducted into the [[Hockey Hall of Fame]] as players: [[Dick Irvin]], [[Joe Primeau]], [[King Clancy]], [[Red Kelly]], and [[Dick Duff]]<ref>{{cite web|url=http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMembersByYear.jsp?type=Player|title=List of honored Players|access-date=July 25, 2008|publisher=[[Hockey Hall of Fame]]|url-status=dead|archive-url=https://web.archive.org/web/20090218151041/http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMembersByYear.jsp?type=Player|archive-date=February 18, 2009}}</ref> while five others have been inducted as [[List of members of the Hockey Hall of Fame#Builders|builders]]: [[Conn Smythe]], [[Hap Day]], [[Punch Imlach]], [[Roger Neilson]], and [[Pat Quinn (ice hockey)|Pat Quinn]].<ref>{{cite web|url=http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMembersByYear.jsp?type=Builder|title=List of honored Builders|access-date=July 25, 2008|publisher=[[Hockey Hall of Fame]]|url-status=dead|archive-url=https://web.archive.org/web/20090528120538/http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMembersByYear.jsp?type=Builder|archive-date=May 28, 2009}}</ref>
+
+[[Frank Carroll (ice hockey)|Frank Carroll]] (brother of the team's first NHL coach, [[Dick Carroll]]) has the highest [[winning percentage]] of any Maple Leafs coach, with a .625 record from the 24 games he coached in his single [[1920–21 Toronto St. Patricks season|1920–21 season]]. Neither [[Mike Rodden]] nor interim coach Dick Duff, who coached only two games each in 1927 and 1980 respectively, won a game with the team. [[Dan Maloney]] has the worst record of any coach who coached more than a season, with a .328 winning percentage from 160 games. [[Punch Imlach]] coached the most games of any Maple Leafs coach with 750 games from 1959 to 1969.<ref name="LeafsList" /> [[Pat Burns]] is the franchise's only coach to win the [[Jack Adams Award]] awarded to the head coach "adjudged to have contributed the most to his team's success." [[Pat Quinn (ice hockey)|Pat Quinn]] also won the award, but with two teams prior to coaching the Maple Leafs.<ref name="JackAdams" />
+
+The current head coach is [[Jim Hiller]], who was hired on June 17, 2026.<ref>{{cite web|url=https://www.nhl.com/news/toronto-maple-leafs-hire-jim-hiller-as-coach|title=Hiller hired as Maple Leafs coach, replaces Berube|date=June 17, 2026|website=NHL.com|accessdate=June 17, 2026}}</ref>
+
+==Key==
+{| class="wikitable" width=50%
+|-
+|'''#'''
+|Number of coaches–a running total of the number of coaches, any coach who has two or more separate terms is only counted once.
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins
+|-
+|'''L'''
+|Losses
+|-
+|'''T'''
+|Ties
+|-
+|'''OT'''
+|Overtime/shootout losses
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|style="background-color:#FFE6BD"|'''*'''
+|Elected to the [[Hockey Hall of Fame]]
+|-
+|style="background-color:#ddffdd"|'''†'''
+|Spent entire NHL head coaching career with the Maple Leafs
+|-
+|!
+|Also played for the Maple Leafs
+|}
+
+==Coaches==
+''Note: Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+{|class="wikitable"
+! rowspan="2" |#
+! rowspan="2" |Name
+! rowspan="2" |Term
+! colspan="5" |Regular season
+! colspan="4" |Playoffs
+! rowspan="2" |Awards
+! rowspan="2" |Reference
+|-
+! width=26px |GC
+! width=26px |W
+! width=26px |L
+! width=26px |T/OT
+! Win%
+! width=25px |GC
+! width=25px |W
+! width=25px |L
+! width=25px |T
+|-
+| colspan="17" align="center" bgcolor="#ddd" data-sort-value="zza"| '''Toronto Arenas'''
+|- bgcolor="#ddffdd"
+|align=center|1
+|{{Sortname|Dick|Carroll}}<sup>†</sup>
+|[[1917–18 NHL season|1917]]–[[1918–19 NHL season|1919]]
+|align=center|40
+|align=center|18
+|align=center|22
+|align=center|0
+|align=center|.450
+|align=center|2
+|align=center|1
+|align=center|1
+|align=center|0
+|[[Stanley Cup]] (1918)
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/carrodi99c.html|title=Dick Carroll|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=July 24, 2008|archive-url=https://web.archive.org/web/20080724100733/http://www.hockey-reference.com/coaches/carrodi99c.html|url-status=live}}</ref>
+|-
+| colspan="17" align="center" bgcolor="#ddd" data-sort-value="zzb"| '''Toronto St. Patricks'''
+|- bgcolor="#ddffdd"
+|align=center|2
+|{{Sortname|Frank|Heffernan}}<sup>†</sup>
+|[[1919–20 NHL season|1919–1920]]
+|align=center|12
+|align=center|5
+|align=center|7
+|align=center|0
+|align=center|.417
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/heffefr01c.html|title=Frank Heffernan|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=January 5, 2009|archive-url=https://web.archive.org/web/20090105182402/http://www.hockey-reference.com/coaches/heffefr01c.html|url-status=live}}</ref>
+|- bgcolor="#ddffdd"
+|align=center|3
+|{{Sortname|Harvey|Sproule}}<sup>†</sup>
+|[[1919–20 NHL season|1920]]
+|align=center|12
+|align=center|7
+|align=center|5
+|align=center|0
+|align=center|.583
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/sprouha99c.html|title=Harvey Sproule|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=May 19, 2011|archive-url=https://web.archive.org/web/20110519110559/http://www.hockey-reference.com/coaches/sprouha99c.html|url-status=live}}</ref>
+|- bgcolor="#ddffdd"
+|align=center|4
+|{{Sortname|Frank|Carroll|Frank Carroll (ice hockey)}}<sup>†</sup>
+|[[1920–21 NHL season|1920–1921]]
+|align=center|24
+|align=center|15
+|align=center|9
+|align=center|0
+|align=center|.625
+|align=center|2
+|align=center|0
+|align=center|2
+|align=center|0
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/carrofr99c.html |title=Frank Carroll |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=August 30, 2008 |archive-url=https://web.archive.org/web/20080830050523/http://www.hockey-reference.com/coaches/carrofr99c.html |url-status=live }}</ref>
+|- bgcolor="#ddffdd"
+|align=center|5
+|{{Sortname|George|O'Donoghue}}<sup>†</sup>
+|[[1921–22 NHL season|1921]]–[[1922–23 NHL season|1923]]
+|align=center|29
+|align=center|15
+|align=center|13
+|align=center|1
+|align=center|.534
+|align=center|2
+|align=center|1
+|align=center|0
+|align=center|1
+|Stanley Cup (1922)
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/odonoge99c.html |title=George O'Donoghue |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=January 5, 2009 |archive-url=https://web.archive.org/web/20090105183647/http://www.hockey-reference.com/coaches/odonoge99c.html |url-status=live }}</ref>
+|- bgcolor="#ddffdd"
+|align=center|6
+|{{Sortname|Charles|Querrie}}<sup>†</sup>
+|[[1923–24 NHL season|1923–1924]]
+|align=center|43
+|align=center|21
+|align=center|21
+|align=center|1
+|align=center|.500
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref name="Querrie">{{cite web |url=https://www.hockey-reference.com/coaches/querrch99c.html |title=Charles Querrie |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=January 5, 2009 |archive-url=https://web.archive.org/web/20090105163037/http://www.hockey-reference.com/coaches/querrch99c.html |url-status=live }}</ref>
+|- bgcolor="#ddffdd"
+|align=center|7
+|{{Sortname|Eddie|Powers}}<sup>†</sup>
+|[[1924–25 NHL season|1924]]–[[1925–26 NHL season|1926]]
+|align=center|66
+|align=center|31
+|align=center|32
+|align=center|3
+|align=center|.492
+|align=center|2
+|align=center|0
+|align=center|2
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/powered99c.html|title=Eddie Powers|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=January 6, 2009|archive-url=https://web.archive.org/web/20090106024517/http://www.hockey-reference.com/coaches/powered99c.html|url-status=live}}</ref>
+|- bgcolor="#ddffdd"
+|align=center|—
+|{{Sortname|Charles|Querrie}}<sup>†</sup>
+|[[1926–27 NHL season|1926–1927]]
+|align=center|29
+|align=center|8
+|align=center|17
+|align=center|4
+|align=center|.345
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref name="Querrie" />
+|-bgcolor="#ddffdd"
+|align=center|8
+|{{Sortname|Mike|Rodden}}<sup>†</sup>
+|[[1926–27 NHL season|1927]]
+|align=center|2
+|align=center|0
+|align=center|2
+|align=center|0
+|align=center|.000
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/roddemi99c.html |title=Mike Rodden |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=January 5, 2009 |archive-url=https://web.archive.org/web/20090105225121/http://www.hockey-reference.com/coaches/roddemi99c.html |url-status=live }}</ref>
+|-
+| colspan="17" align="center" bgcolor="#ddd" data-sort-value="zzc"| '''Toronto Maple Leafs'''
+|- bgcolor="#ddffdd"
+|align=center|9
+|{{Sortname|Alex|Romeril}}<sup>†</sup>
+|[[1926–27 NHL season|1927]]
+|align=center|13
+|align=center|7
+|align=center|5
+|align=center|1
+|align=center|.577
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/romeral99c.html |title=Alex Romeril |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=January 6, 2009 |archive-url=https://web.archive.org/web/20090106140929/http://www.hockey-reference.com/coaches/romeral99c.html |url-status=live }}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|10
+|{{Sortname|Conn|Smythe}}*
+|[[1927–28 NHL season|1927]]–[[1930–31 NHL season|1930]]
+|align=center|134
+|align=center|57
+|align=center|57
+|align=center|20
+|align=center|.500
+|align=center|4
+|align=center|2
+|align=center|2
+|align=center|0
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/smythco99c.html |title=Conn Smythe |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=December 3, 2008 |archive-url=https://web.archive.org/web/20081203202038/http://www.hockey-reference.com/coaches/smythco99c.html |url-status=live }}</ref>
+|-
+|align=center|11
+|{{Sortname|Art|Duncan}}
+|[[1930–31 NHL season|1930]]–[[1931–32 NHL season|1931]]
+|align=center|47
+|align=center|21
+|align=center|16
+|align=center|10
+|align=center|.553
+|align=center|2
+|align=center|0
+|align=center|1
+|align=center|1
+|
+|align=center|<ref name="LeafsList" />
+|- bgcolor="#FFE6BD"
+|align=center|—
+|{{Sortname|Conn|Smythe}}* (interim)
+|[[1931–32 NHL season|1931]]
+|align=center|1
+|align=center|1
+|align=center|0
+|align=center|0
+|align=center|1.000
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|
+|- bgcolor="#FFE6BD"
+|align=center|12
+|{{Sortname|Dick|Irvin}}*
+|[[1931–32 NHL season|1931]]–[[1939–40 NHL season|1940]]
+|align=center|427
+|align=center|216
+|align=center|152
+|align=center|59
+|align=center|.576
+|align=center|66
+|align=center|33
+|align=center|32
+|align=center|1
+|Stanley Cup (1932)
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/irvindi01c.html |title=Dick Irvin |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=May 19, 2011 |archive-url=https://web.archive.org/web/20110519110703/http://www.hockey-reference.com/coaches/irvindi01c.html |url-status=live }}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|13
+|{{Sortname|Hap|Day}}*<sup>!</sup>
+|[[1940–41 NHL season|1940]]–[[1949–50 NHL season|1950]]
+|align=center|546
+|align=center|259
+|align=center|206
+|align=center|81
+|align=center|.557
+|align=center|80
+|align=center|49
+|align=center|31
+|align=center|0
+|Stanley Cup (1942, 1945, 1947–1949)
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/dayha01c.html |title=Hap Day |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=July 24, 2008 |archive-url=https://web.archive.org/web/20080724100821/http://www.hockey-reference.com/coaches/dayha01c.html |url-status=live }}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|14
+|{{Sortname|Joe|Primeau}}*<sup>!</sup>
+|[[1950–51 NHL season|1950]]–[[1952–53 NHL season|1953]]
+|align=center|210
+|align=center|97
+|align=center|71
+|align=center|42
+|align=center|.562
+|align=center|15
+|align=center|8
+|align=center|6
+|align=center|1
+|Stanley Cup (1951)
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/primejo01c.html |title=Joe Primeau |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=December 3, 2008 |archive-url=https://web.archive.org/web/20081203214012/http://www.hockey-reference.com/coaches/primejo01c.html |url-status=live }}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|15
+|{{Sortname|King|Clancy}}<sup>*!</sup>
+|[[1953–54 NHL season|1953]]–[[1955–56 NHL season|1956]]
+|align=center|210
+|align=center|80
+|align=center|81
+|align=center|49
+|align=center|.498
+|align=center|14
+|align=center|2
+|align=center|12
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/clancki01c.html|title=King Clancy|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=July 20, 2008|archive-url=https://web.archive.org/web/20080720065106/http://www.hockey-reference.com/coaches/clancki01c.html|url-status=live}}</ref>
+|- bgcolor="#ddffdd"
+|align=center|16
+|{{Sortname|Howie|Meeker}}<sup>†!</sup>
+|[[1956–57 NHL season|1956–1957]]
+|align=center|70
+|align=center|21
+|align=center|34
+|align=center|15
+|align=center|.407
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/meekeho01c.html |title=Howie Meeker |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=January 6, 2009 |archive-url=https://web.archive.org/web/20090106105625/http://www.hockey-reference.com/coaches/meekeho01c.html |url-status=live }}</ref>
+|-
+|align=center|17
+|{{Sortname|Billy|Reay}}
+|[[1957–58 NHL season|1957]]–[[1958–59 NHL season|1958]]
+|align=center|90
+|align=center|26
+|align=center|50
+|align=center|14
+|align=center|.367
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/reaybi01c.html |title=Billy Reay |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=December 3, 2008 |archive-url=https://web.archive.org/web/20081203192750/http://www.hockey-reference.com/coaches/reaybi01c.html |url-status=live }}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|18
+|{{Sortname|Punch|Imlach}}*
+|[[1958–59 NHL season|1958]]–[[1968–69 NHL season|1969]]
+|align=center|760
+|align=center|365
+|align=center|270
+|align=center|125
+|align=center|.569
+|align=center|89
+|align=center|44
+|align=center|45
+|align=center|0
+|Stanley Cup (1962–1964, 1967)
+|align=center|<ref name="Imlach">{{cite web|url=https://www.hockey-reference.com/coaches/imlacpu01c.html|title=Punch Imlach|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=October 6, 2008|archive-url=https://web.archive.org/web/20081006115410/http://www.hockey-reference.com/coaches/imlacpu01c.html|url-status=live}}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|—
+|{{Sortname|King|Clancy}}<sup>*!</sup> (interim)
+|[[1966–67 NHL season|1966]]
+|align=center|10
+|align=center|7
+|align=center|1
+|align=center|2
+|align=center|.800
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref name="LeafsList">{{cite web|url=https://cdn.nhl.com/mapleleafs/bc/images/contentdelta/assets/history/all_time_captains_coaches_GMs.pdf|title=Leafs Leadership|access-date=July 24, 2008|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|format=PDF|archive-date=March 20, 2009|archive-url=https://wayback.archive-it.org/all/20090320004853/http://cdn.nhl.com/mapleleafs/bc/images/contentdelta/assets/history/all_time_captains_coaches_GMs.pdf|url-status=live}}</ref>
+|- bgcolor="#ddffdd"
+|align=center|19
+|{{Sortname|John|McLellan|John McLellan (ice hockey)}}<sup>†</sup>
+|[[1969–70 NHL season|1969]]–[[1972–73 NHL season|1973]]
+|align=center|295
+|align=center|117
+|align=center|136
+|align=center|42
+|align=center|.462
+|align=center|11
+|align=center|3
+|align=center|8
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/mcleljo01c.html|title=John McLellan|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=December 3, 2008|archive-url=https://web.archive.org/web/20081203205636/http://www.hockey-reference.com/coaches/mcleljo01c.html|url-status=live}}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|—
+|{{Sortname|King|Clancy}}<sup>*!</sup> (interim)
+|1972
+|align=center|15
+|align=center|9
+|align=center|3
+|align=center|3
+|align=center|.750
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref name="LeafsList" />
+|- bgcolor="#FFE6BD"
+|align=center|20
+|{{Sortname|Red|Kelly}}*<sup>!</sup> 
+|[[1973–74 NHL season|1973]]–[[1976–77 NHL season|1977]]
+|align=center|318 
+|align=center|133
+|align=center|123
+|align=center|62
+|align=center|.516
+|align=center|30
+|align=center|11
+|align=center|19
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/kellyre01c.html|title=Red Kelly|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=August 30, 2008|archive-url=https://web.archive.org/web/20080830010233/http://www.hockey-reference.com/coaches/kellyre01c.html|url-status=live}}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|21
+|{{Sortname|Roger|Neilson}}*
+|[[1977–78 NHL season|1977]]–[[1978–79 NHL season|1979]]
+|align=center|160
+|align=center|75
+|align=center|62
+|align=center|23
+|align=center|.541
+|align=center|19
+|align=center|8
+|align=center|11
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/neilsro99c.html|title=Roger Neilson|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=August 30, 2008|archive-url=https://web.archive.org/web/20080830072015/http://www.hockey-reference.com/coaches/neilsro99c.html|url-status=live}}</ref>
+|-
+|align=center|22
+|{{Sortname|Floyd|Smith|dab=ice hockey}}<sup>!</sup>
+|[[1979–80 NHL season|1979–1980]]
+|align=center|68
+|align=center|30
+|align=center|33
+|align=center|5
+|align=center|.477
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/smithfl01c.html |title=Floyd Smith |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=May 19, 2011 |archive-url=https://web.archive.org/web/20110519104548/http://www.hockey-reference.com/coaches/smithfl01c.html |url-status=live }}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|23
+|{{Sortname|Dick|Duff}}*<sup>!</sup> (interim)
+|[[1979–80 NHL season|1980]]
+|align=center|2
+|align=center|0
+|align=center|2
+|align=center|0
+|align=center|.000
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/duffdi01c.html|title=Dick Duff|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=August 7, 2008|archive-url=https://web.archive.org/web/20080807164724/http://www.hockey-reference.com/coaches/duffdi01c.html|url-status=live}}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|—
+|{{Sortname|Punch|Imlach}}* (interim)
+|[[1979–80 NHL season|1980]]
+|align=center|10
+|align=center|5
+|align=center|5
+|align=center|0
+|align=center|.500
+|align=center|3
+|align=center|0
+|align=center|3
+|align=center|0
+|
+|align=center|<ref name="Imlach" />
+|-
+|align=center|24
+|{{Sortname|Joe|Crozier}}<sup>!</sup>
+|[[1980–81 NHL season|1980–1981]]
+|align=center|40
+|align=center|13
+|align=center|22
+|align=center|5
+|align=center|.388
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref name="LeafsList" />
+|- bgcolor="#ddffdd"
+|align=center|25
+|{{Sortname|Mike|Nykoluk}}<sup>†</sup>
+|[[1980–81 NHL season|1981]]–[[1983–84 NHL season|1984]]
+|align=center|280
+|align=center|89
+|align=center|144
+|align=center|47
+|align=center|.402
+|align=center|7
+|align=center|1
+|align=center|6
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/nykolmi01c.html|title=Mike Nykoluk|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=December 3, 2008|archive-url=https://web.archive.org/web/20081203205142/http://www.hockey-reference.com/coaches/nykolmi01c.html|url-status=live}}</ref>
+|-
+|align=center|26
+|{{Sortname|Dan|Maloney}}<sup>!</sup>
+|[[1984–85 NHL season|1984]]–[[1985–86 NHL season|1986]]
+|align=center|160
+|align=center|45
+|align=center|100
+|align=center|15
+|align=center|.328
+|align=center|10
+|align=center|6
+|align=center|4
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/malonda01c.html|title=Dan Maloney|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=May 19, 2011|archive-url=https://web.archive.org/web/20110519111020/http://www.hockey-reference.com/coaches/malonda01c.html|url-status=live}}</ref>
+|- bgcolor="#ddffdd"
+|align=center|27
+|{{Sortname|John|Brophy|John Brophy (ice hockey)}}<sup>†</sup>
+|[[1986–87 NHL season|1986]]–[[1988–89 NHL season|1988]]
+|align=center|193
+|align=center|64
+|align=center|111
+|align=center|18
+|align=center|.378
+|align=center|19
+|align=center|9
+|align=center|10
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/brophjo99c.html|title=John Brophy|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=July 20, 2008|archive-url=https://web.archive.org/web/20080720065850/http://www.hockey-reference.com/coaches/brophjo99c.html|url-status=live}}</ref>
+|- bgcolor="#ddffdd"
+|align=center|28
+|{{Sortname|George|Armstrong|George Armstrong (ice hockey)}}<sup>†!</sup>
+|[[1988–89 NHL season|1988–1989]]
+|align=center|47
+|align=center|17
+|align=center|26
+|align=center|4
+|align=center|.404
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/armstge01c.html|title=George Armstrong|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=July 20, 2008|archive-url=https://web.archive.org/web/20080720065808/http://www.hockey-reference.com/coaches/armstge01c.html|url-status=live}}</ref>
+|-
+|align=center|29
+|{{Sortname|Doug|Carpenter}}
+|[[1989–90 NHL season|1989]]–[[1990–91 NHL season|1990]]
+|align=center|91
+|align=center|39
+|align=center|47
+|align=center|5
+|align=center|.456
+|align=center|5
+|align=center|1
+|align=center|4
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/carpedo99c.html|title=Doug Carpenter|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=July 20, 2008|archive-url=https://web.archive.org/web/20080720064708/http://www.hockey-reference.com/coaches/carpedo99c.html|url-status=live}}</ref>
+|-
+|align=center|30
+|{{Sortname|Tom|Watt|Tom Watt (ice hockey)}}
+|[[1990–91 NHL season|1990]]–[[1991–92 NHL season|1992]]
+|align=center|149
+|align=center|52
+|align=center|80
+|align=center|17
+|align=center|.406
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/wattto99c.html|title=Tom Watt|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=December 3, 2008|archive-url=https://web.archive.org/web/20081203213812/http://www.hockey-reference.com/coaches/wattto99c.html|url-status=live}}</ref>
+|- bgcolor="#FFE6BD"
+|align=center|31
+|{{Sortname|Pat|Burns}}*
+|[[1992–93 NHL season|1992]]–[[1995–96 NHL season|1996]]
+|align=center|281
+|align=center|133
+|align=center|107
+|align=center|41
+|align=center|.546
+|align=center|46
+|align=center|23
+|align=center|23
+|align=center|0
+|[[Jack Adams Award]] (1993)<ref name="JackAdams">{{cite web|url=http://www.nhl.com/trophies/adams.html|archive-url=https://web.archive.org/web/20080706102444/http://www.nhl.com/trophies/adams.html|url-status=dead|archive-date=July 6, 2008|title=Jack Adams Award|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|access-date=July 25, 2008}}</ref>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/burnspa99c.html|title=Pat Burns|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=September 4, 2008|archive-url=https://web.archive.org/web/20080904224029/http://www.hockey-reference.com/coaches/burnspa99c.html|url-status=live}}</ref>
+|- bgcolor="#ddffdd"
+|align=center|32
+|{{Sortname|Nick|Beverley}}<sup>†</sup>
+|[[1995–96 NHL season|1996]]
+|align=center|17
+|align=center|9
+|align=center|6
+|align=center|2
+|align=center|.588
+|align=center|6
+|align=center|2
+|align=center|4
+|align=center|0
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/beverni01c.html|title=Nick Beverley|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=July 20, 2008|archive-url=https://web.archive.org/web/20080720070345/http://www.hockey-reference.com/coaches/beverni01c.html|url-status=live}}</ref>
+|-
+|align=center|33
+|{{Sortname|Mike|Murphy|Mike Murphy (ice hockey, born 1950)}}
+|[[1996–97 NHL season|1996]]–[[1997–98 NHL season|1998]]
+|align=center|164
+|align=center|60
+|align=center|87
+|align=center|17
+|align=center|.418
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/murphmi01c.html|title=Mike Murphy|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=October 16, 2008|archive-url=https://web.archive.org/web/20081016001425/http://www.hockey-reference.com/coaches/murphmi01c.html|url-status=live}}</ref>
+|- bgcolor="#FFE6BD"
+| align="center" |34
+|{{Sortname|Pat|Quinn|Pat Quinn (ice hockey)}}*<sup>!</sup>
+|[[1998–99 NHL season|1998]]–[[2005–06 NHL season|2006]]
+| align="center" |574
+| align="center" |300
+| align="center" |196
+| align="center" |78
+| align="center" |.591
+| align="center" |80
+| align="center" |41
+| align="center" |39
+| align="center" |0
+|
+| align="center" |<ref>{{cite web|url=https://www.hockey-reference.com/coaches/quinnpa01c.html|title=Pat Quinn|access-date=July 24, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=August 27, 2008|archive-url=https://web.archive.org/web/20080827230636/http://www.hockey-reference.com/coaches/quinnpa01c.html|url-status=live}}</ref>
+|-
+|align=center|35
+|{{Sortname|Paul|Maurice}}
+|[[2006–07 NHL season|2006]]–[[2007–08 NHL season|2008]]
+|align=center|164
+|align=center|76
+|align=center|66
+|align=center|22
+|align=center|.530
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/mauripa99c.html |title=Paul Maurice |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=May 19, 2011 |archive-url=https://web.archive.org/web/20110519111129/http://www.hockey-reference.com/coaches/mauripa99c.html |url-status=live }}</ref>
+|-
+|align=center|36
+|{{Sortname|Ron|Wilson|Ron Wilson (ice hockey, born 1955)}}<sup>!</sup>
+|[[2008–09 NHL season|2008]]–[[2011–12 NHL season|2012]]
+|align=center|310
+|align=center|130
+|align=center|135
+|align=center|45
+|align=center|.492
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/wilsoro02c.html |title=Ron Wilson |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=December 3, 2008 |archive-url=https://web.archive.org/web/20081203200335/http://www.hockey-reference.com/coaches/wilsoro02c.html |url-status=live }}</ref>
+|-
+|align=center|37
+|{{Sortname|Randy|Carlyle}}<sup>!</sup>
+|[[2011–12 NHL season|2012]]–[[2014–15 NHL season|2015]]
+|align=center|188
+|align=center|91
+|align=center|78
+|align=center|19
+|align=center|.535
+|align=center|7
+|align=center|3
+|align=center|4
+|align=center|0
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/players/c/carlyra01.html |title=Randy Carlyle |access-date=July 24, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=September 4, 2008 |archive-url=https://web.archive.org/web/20080904213522/http://www.hockey-reference.com/players/c/carlyra01.html |url-status=live }}</ref>
+|-
+|align=center|38
+|{{Sortname|Peter|Horachek}} (interim)
+|[[2014–15 NHL season|2015]]
+|align=center|42
+|align=center|8
+|align=center|28
+|align=center|6
+|align=center|.262
+|align=center|—
+|align=center|—
+|align=center|—
+|align=center|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/horacpe01c.html |title=Peter Horachek |access-date=January 7, 2015 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=January 7, 2015 |archive-url=https://web.archive.org/web/20150107231802/http://www.hockey-reference.com/coaches/horacpe01c.html |url-status=live }}</ref>
+|-
+|align=center|39
+|{{Sortname|Mike|Babcock}}
+|[[2015–16 NHL season|2015]]–[[2019–20 NHL season|2019]]
+|align=center|328
+|align=center|164
+|align=center|123
+|align=center|41
+|align=center|.563
+|align=center|20
+|align=center|8
+|align=center|12
+|align=center|0
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/babcomi99c.html |title=Mike Babcock |access-date=May 9, 2024 |publisher=Sports Reference, LLC |work=Hockey-Reference.com}}</ref>
+|- 
+|align=center|40
+|{{Sortname|Sheldon|Keefe}}
+|[[2019–20 NHL season|2019]]–[[2023–24_Toronto_Maple_Leafs_season|2024]]
+|align=center|349
+|align=center|212
+|align=center|97
+|align=center|40
+|align=center|.607
+|align=center|37
+|align=center|16
+|align=center|21
+|align=center|0
+|
+|align=center|<ref name="Keefe">{{cite web |url=https://www.hockey-reference.com/coaches/keefesh01c.html |title=Sheldon Keefe |access-date=May 9, 2024 |publisher=Sports Reference, LLC |work=Hockey-Reference.com}}</ref>
+|-
+|align=center|41
+|{{Sortname|Craig|Berube}}<sup>!</sup>
+|[[2024–25 NHL season|2024]]–[[2025–26 NHL season|2026]]
+|align=center|164
+|align=center|84
+|align=center|62
+|align=center|18
+|align=center|{{winpct|84|62|18}}
+|align=center|13
+|align=center|7
+|align=center|6
+|align=center|0
+|
+|align=center|<ref name="Berube">{{cite web |url=https://www.hockey-reference.com/coaches/berubcr01c.html |title=Craig Berube |access-date=May 13, 2026 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|42
+|{{Sortname|Jim|Hiller}}
+|[[2026–27 NHL season|2026]]–present
+|align=center|
+|align=center|
+|align=center|
+|align=center|
+|align=center|{{winpct|||}}
+|align=center|
+|align=center|
+|align=center|
+|align=center|
+|
+|align=center|<ref name="Hiller">{{cite web |url=https://www.hockey-reference.com/coaches/hilleji01c.html |title=Jim Hiller |access-date=June 17, 2026 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|}
+
+==References==
+{{refbegin}}
+;General
+*{{cite web|url=https://cdn.nhl.com/mapleleafs/bc/images/contentdelta/assets/history/all_time_captains_coaches_GMs.pdf|title=Leafs Leadership|publisher=Lincoln Hockey and the National Hockey League|format=PDF|access-date=July 24, 2008|work=NHL.com|archive-date=March 20, 2009|archive-url=https://wayback.archive-it.org/all/20090320004853/http://cdn.nhl.com/mapleleafs/bc/images/contentdelta/assets/history/all_time_captains_coaches_GMs.pdf|url-status=live}}
+*{{cite web|url=https://www.hockey-reference.com/teams/TOR/|title=Toronto Maple Leafs|publisher=Sports Reference, LLC|access-date=July 24, 2008|work=Hockey-Reference.com|archive-date=August 30, 2008|archive-url=https://web.archive.org/web/20080830061332/http://www.hockey-reference.com/teams/TOR/|url-status=live}}
+* {{cite web |url=http://www.nhl.com/cup/champs.html |title=List of winners of the Stanley Cup |publisher=Lincoln Hockey and the National Hockey League |access-date=July 24, 2008 |work=NHL.com |url-status=dead |archive-url=https://web.archive.org/web/20090629213230/http://www.nhl.com/cup/champs.html |archive-date=June 29, 2009 }}
+;Specific
+{{refend}}
+{{Reflist|30em}}
+
+==External links==
+* [https://www.nhl.com/mapleleafs/ Toronto Maple Leafs] official website
+{{Portal bar|Ice hockey}}
+{{Toronto Maple Leafs}}
+{{NHLHeadCoach}}
+
+{{featured list}}
+
+[[Category:Toronto Maple Leafs coaches| ]]
+[[Category:National Hockey League coaches by team|Toronto Maple Leafs head coaches]]
+[[Category:Lists of ice hockey coaches|Toronto Maple Leafs head coaches]]
+[[Category:Toronto Maple Leafs lists|head coaches]]

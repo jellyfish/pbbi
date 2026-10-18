@@ -1,0 +1,83 @@
+{{Short description|none}}
+{{Use mdy dates|date=January 2020}}
+[[File:BruceCassidy2026.jpg|thumb|upright|[[Bruce Cassidy]] led the Golden Knights to a [[Stanley Cup]] championship in his first season as head coach.]]
+The [[Vegas Golden Knights]] are an American professional [[ice hockey]] team based in the [[Las Vegas Valley|Las Vegas metropolitan area]]. They play in the [[Pacific Division (NHL)|Pacific Division]] of the [[Western Conference (NHL)|Western Conference]] in the [[National Hockey League]] (NHL). They have played at [[T-Mobile Arena]] since their inaugural season in [[2017–18 NHL season|2017–18]]. The Golden Knights joined the NHL as an [[expansion team]] in 2017. The team's first head coach, [[Gerard Gallant]], was hired on April 13, 2017.<ref>{{cite web |title=Golden Knights Name Gerard Gallant Head Coach |url=https://www.nhl.com/goldenknights/news/golden-knights-name-gerard-gallant-head-coach-288743770 |website=NHL.com |access-date=April 13, 2017 |date=April 13, 2017}}</ref> Gallant was fired on January 15, 2020, and replaced by recently fired [[San Jose Sharks]] head coach [[Peter DeBoer]].<ref>{{cite web |title=Vegas Golden Knights Make Coaching Changes; Name Peter DeBoer Head Coach |url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-make-coaching-changes-name-peter-deboer-head-coac-313969764 |website=NHL.com |access-date=January 15, 2020 |date=January 15, 2020}}</ref> DeBoer served as head coach until his firing on May 16, 2022.<ref>{{cite web |title=Vegas Golden Knights Announce Changes To Coaching Staff |url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-announce-changes-to-coaching-staff-334120726 |website=NHL.com |access-date=May 16, 2022 |date=May 16, 2022}}</ref> Former [[Boston Bruins]] head coach [[Bruce Cassidy]] was named the team’s third head coach on June 14, 2022.<ref>{{cite web |title=Vegas Golden Knights Name Bruce Cassidy as Team's Head Coach |url=https://www.nhl.com/goldenknights/news/vegas-golden-knights-name-bruce-cassidy-as-team-s-head-coach-334605588 |website=NHL.com |access-date=June 14, 2022 |date=June 14, 2022}}</ref> Cassidy was subsequently fired on March 29, 2026, with [[John Tortorella]] named the team's fourth head coach.<ref>{{cite web| title= Cassidy fired as Golden Knights coach, replaced by Tortorella |url= https://www.nhl.com/news/john-tortorella-hired-as-vegas-golden-knights-coach-after-bruce-cassidy-fired |access-date=March 29, 2026 |date= March 29, 2026}}</ref> On June 16, 2026, following the conclusion of the [[2026 Stanley Cup Final]], the team announced that Tortorella would not return as head coach.<ref>{{cite web|url=https://www.nhl.com/news/john-tortorella-wont-return-as-vegas-golden-knights-coach |title=Tortorella won't return as Golden Knights coach |access-date=June 16, 2026 |website=NHL.com |date=June 16, 2026}}</ref> One day later, former assistant coach and [[Henderson Silver Knights]] head coach [[Ryan Craig]] was named the fifth head coach in franchise history.<ref>{{cite web |url=https://www.nhl.com/news/ryan-craig-named-coach-of-vegas-golden-knights |title=Craig named coach of Golden Knights, replaces Tortorella |website=NHL.com |date=June 17, 2026 |access-date=June 17, 2026}}</ref>
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{efn|A running total of the number of coaches of the Vegas Golden Knights. Thus, any coach who has two or more separate terms as head coach is only counted once.}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point
+|-
+|'''Pts'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''Win %'''
+|[[Winning percentage]]
+|-
+|style="background-color:#ddffdd"|*
+|Spent entire NHL head coaching career with the Golden Knights
+|}
+
+==Coaches==
+[[File:Gerard Gallant 2018-02-04 2.jpg|thumb|upright|[[Gerard Gallant]], the first head coach in franchise history, served in the role until 2020.]]
+''Note: Statistics are updated through the [[2025–26 NHL season|2025–26 season]].''
+{| class="wikitable" style="text-align:center;"
+! rowspan="2"|#
+! rowspan="2"|Name
+! rowspan="2"|Term{{efn|Each year is linked to an article about that particular NHL season.}}
+! colspan="6"|Regular season
+! colspan="4"|Playoffs
+! rowspan="2"|Achievements
+! rowspan="2"|Reference
+|-
+! GC !! W !! L !! OT !! Pts !! Win % !! GC !! W !! L !! Win %
+|-
+| 1
+| style="text-align:left;"|[[Gerard Gallant]]
+| [[2017–18 NHL season|2017]]–[[2019–20 NHL season|2020]] || 213 || 118 || 75 || 20 || 256 || {{winpct|118|75|20}} || 27 || 16 || 11 || {{winpct|16|11}} || [[Jack Adams Award]] ([[2017–18 NHL season|2017–18]]) || <ref>{{cite web |title=Gerard Gallant NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/gallage01c.html |website=Hockey-Reference.com |accessdate=January 2, 2020}}</ref>
+|-
+| 2
+| style="text-align:left;"|[[Peter DeBoer]]
+| [[2019–20 NHL season|2020]]–[[2021–22 NHL season|2022]] || 160 || 98 || 50 || 12 || 208 || {{winpct|98|50|12}} || 39 || 22 || 17 || {{winpct|22|17}} || || <ref>{{cite web |title=Peter DeBoer NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/deboepe99c.html |website=Hockey-Reference.com |accessdate=January 15, 2020}}</ref>
+|-
+| 3
+| style="text-align:left;"|[[Bruce Cassidy]]
+|  [[2022–23 NHL season|2022]]–[[2025–26 NHL season|2026]] || 320 || 178 || 99 || 43 || 399 || {{winpct|178|99|43}} || 40 || 24 || 16 || {{winpct|24|16}} || [[Stanley Cup]] [[List of Stanley Cup champions|championship]] ([[2022–23 NHL season|2022–23]]) || <ref>{{cite web |title=Bruce Cassidy NHL & WHA Hockey Coaching Record |url= https://www.hockey-reference.com/coaches/cassibr01c.html |website=Hockey-Reference.com |accessdate=June 15, 2022}}</ref>
+|-
+| 4
+| style="text-align:left;"|[[John Tortorella]]
+|  [[2025–26 NHL season|2026]]|| 8 || 7 || 0 || 1 || 15 || {{winpct|7|0|1}} || 22 || 14 || 8 || {{winpct|14|8}} || 
+| <ref>{{cite web |title=John Tortorella NHL & WHA Hockey Coaching Record |url= https://www.hockey-reference.com/coaches/tortojo99c.html |website=Hockey-Reference.com |accessdate=March 29, 2026}}</ref>
+|-
+| 5
+| style="text-align:left; background-color:#ddffdd" |[[Ryan Craig]]*
+|  [[2026–27 NHL season|2026]]–present||  ||  ||  ||  ||  || {{winpct|||}} || || ||  || {{winpct||}} || || 
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{Vegas Golden Knights}}
+{{NHLHeadCoach}}
+
+[[Category:Vegas Golden Knights coaches|*]]
+[[Category:National Hockey League coaches by team|Vegas Golden Knights head coaches]]
+[[Category:Lists of ice hockey coaches|Vegas Golden Knights head coaches]]
+[[Category:Vegas Golden Knights personnel]]
+[[Category:Vegas Golden Knights lists|head coaches]]

@@ -1,0 +1,141 @@
+{{Short description|None}}
+[[File:Mike Keenan practice.PNG|thumb|Mike Keenan was the head coach of the Calgary Flames from 2007 to 2009.]]
+The [[Calgary Flames]] are a professional [[ice hockey]] team based in [[Calgary]], [[Alberta]], Canada. The team is a member of the [[Pacific Division (NHL)|Pacific Division]] in the [[Western Conference (NHL)|Western Conference]] of the [[National Hockey League]] (NHL). The Flames arrived in Calgary in 1980 after transferring from the city of [[Atlanta, Georgia]], where they were known as the [[Atlanta Flames]] from their founding in 1972 until relocation.<ref>{{cite book |title=2006–07 Calgary Flames Media Guide |publisher=Calgary Flames Hockey Club |editor=Hanlon, Peter |editor2=Kelso, Sean |page=4}}</ref>
+
+[[Al MacNeil]] remained the Flames' coach when the franchise transferred to Calgary, serving as the team's first coach in Calgary. [[Bob Johnson (ice hockey b. 1931)|"Badger Bob" Johnson]], who succeeded MacNeil in 1982, is the Flames' all-time leader in games coached and wins.<ref>{{cite book |title=2007–08 Calgary Flames Media Guide |publisher=Calgary Flames Hockey Club}}</ref> He was behind the bench when the franchise made its first trip to the [[Stanley Cup Final]] in [[1986 Stanley Cup Final|1986]]. Johnson was elected to the [[Hockey Hall of Fame]] in 1992, a year after his death from [[cancer]].<ref>{{cite web |url=http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMember.jsp?mem=b199202&type=Builder&page=bio&list=ByName#photo |title=The Legends – Bob Johnson |access-date=2008-09-16 |publisher=Hockey Hall of Fame |url-status=dead |archive-url=https://web.archive.org/web/20070929110230/http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMember.jsp?mem=b199202&type=Builder&page=bio&list=ByName#photo |archive-date=2007-09-29 }}</ref> Johnson's successor, [[Terry Crisp]], led the Flames to their only Stanley Cup championship in [[1989 Stanley Cup Playoffs|1989]].<ref>{{cite web |url=http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/SearchPlayer.jsp?player=12370 |title=Players – Terry Crisp |access-date=2008-09-16 |publisher=Hockey Hall of Fame |url-status=dead |archive-url=https://web.archive.org/web/20071205155202/http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/SearchPlayer.jsp?player=12370 |archive-date=2007-12-05 }}</ref>
+
+The Flames went through several coaches between 1990 and 2003 as the team struggled to find playoff success. [[Doug Risebrough]], [[Dave King (ice hockey)|Dave King]], [[Pierre Page]], [[Brian Sutter]], [[Don Hay]] and [[Greg Gilbert]] all failed to lead the team past the first round as the Flames endured a 15-year period of playoff futility.<ref>{{cite news |url=https://sports.yahoo.com/nhl/recap?gid=2004041922 |title=Recap: Calgary 3, Vancouver 2, OT |access-date=2008-09-17 |date=2004-04-20 |work=Yahoo! Sports |archive-date=2011-05-22 |archive-url=https://web.archive.org/web/20110522195001/http://sports.yahoo.com/nhl/recap?gid=2004041922 |url-status=live }}</ref> [[Darryl Sutter]] ended that streak in [[2003–04 NHL season|2003–04]] when he coached the Flames to a marked improvement over their previous season, ending with a trip to the [[2004 Stanley Cup Final]]. Though he did not win, Sutter earned a nomination for the [[Jack Adams Award]] as the league's top coach as a result of the team's performance.<ref>{{cite web |last=Roarke |first=Shawn P. |url=http://www.nhl.com/hockeyu/history/trophies/finalists042104.html |title=NHL announces awards finalists |access-date=2008-09-16 |date=2004-04-21 |website=National Hockey League |archive-url=https://web.archive.org/web/20060409050333/http://www.nhl.com/hockeyu/history/trophies/finalists042104.html |archive-date=2006-04-09 |url-status=dead }}</ref> [[Bob Hartley]] became the head coach in 2012 and won the 2015 Jack Adams Award. He was fired after the [[2015–16 NHL season|2015-16 season]].<ref>{{Cite web|url=http://flames.nhl.com/club/news.htm?id=881171|title=Flames relieve Bob Hartley of coaching duties|website=flames.nhl.com|access-date=2016-06-17|archive-date=2016-08-14|archive-url=https://web.archive.org/web/20160814184932/http://flames.nhl.com/club/news.htm?id=881171|url-status=dead}}</ref> The current head coach of the Flames is [[Ryan Huska]].<ref>{{cite web |url=https://www.nhl.com/flames/news/flames-name-ryan-huska-head-coach-344830986 |title=Flames Name Ryan Huska Head Coach |website=NHL.com |access-date=June 12, 2023 |date=June 12, 2023 |archive-date=June 12, 2023 |archive-url=https://web.archive.org/web/20230612175909/https://www.nhl.com/flames/news/flames-name-ryan-huska-head-coach/c-344830986 |url-status=live }}</ref>
+
+==Key==
+[[File:Darryl Sutter, 2006 NHL Awards.jpg|upright|thumb|150px|Darryl Sutter coached the Flames between 2003 and 2006. He returned to coach the team from 2021 to 2023.]]
+{| class="wikitable" style="font-size:90%;"
+|-
+|'''#'''
+|Number of coaches{{ref label|Note1|A|A}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins
+|-
+|'''L'''
+|Losses
+|-
+|'''T'''
+|Ties
+|-
+|'''OL'''
+|Overtime or shootout losses
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|style="background-color:#FFE6BD"|'''*'''
+|Elected into the [[Hockey Hall of Fame]]
+|-
+|style="background-color:#ddffdd"|'''†'''
+| Spent entire NHL coaching career with the Flames
+|-
+|}
+{{clear}}
+
+==Coaches==
+:''Statistics are correct through the [[2025–26 NHL season]].''
+[[File:Jim Playfair.PNG|upright|thumb|150px|Jim Playfair was the Flames' head coach in 2006–07.]]
+<!-- DON'T UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE SEASON -->
+{| class="wikitable"
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+! rowspan="2" | Awards
+|-
+! GC
+! W
+! L
+! T
+! OL{{ref label|Note1|B|B}}
+! Win%
+! GC
+! W
+! L
+! Win%
+|-
+|align=center| 1 || [[Al MacNeil]]{{ref label|Note1|C|C}} || [[1980–81 NHL season|1980]]–[[1981–82 NHL season|1982]] || 160 || 68 || 61 || 31 || — || .522 || 19 || 9 || 10 || .474 ||
+|- bgcolor="#FFE6BD"
+|align=center| 2 || [[Bob Johnson (ice hockey b. 1931)|Bob Johnson]]'''*''' || [[1982–83 NHL season|1982]]–[[1986–87 NHL season|1987]] || 400 || 193 || 155 || 52 || — || .548 || 52 || 25 || 27 || .481 ||
+|-
+|align=center| 3 || [[Terry Crisp]] || [[1987–88 NHL season|1987]]–[[1989–90 NHL season|1990]] || 240 || 144 || 63 || 33 || — || .669 || 37 || 22 || 15 || .595 || [[1989 Stanley Cup Final|1989]] [[Stanley Cup]]
+|- bgcolor="#ddffdd"
+|align=center| 4 || [[Doug Risebrough]]†<ref>{{cite web |url=https://www.hockey-reference.com/coaches/risebdo01c.html |title=Doug Risebrough coaching record |access-date=2008-09-18 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2008-09-06 |archive-url=https://web.archive.org/web/20080906173521/http://www.hockey-reference.com/coaches/risebdo01c.html |url-status=live }}</ref> || [[1990–91 NHL season|1990]]–[[1991–92 NHL season|1992]] || 144 || 71 || 56 || 17 || — || .552 || 7 || 3 || 4 || .429 ||
+|-
+|align=center| 5 || [[Guy Charron]]{{ref label|Note1|D|D}} || [[1991–92 NHL season|1992]] || 16 || 6 || 7 || 3 || — || .469 || — || — || — || — ||
+|-
+|align=center| 6 || [[Dave King (ice hockey)|Dave King]] || [[1992–93 NHL season|1992]]–[[1994–95 NHL season|1995]] || 216 || 109 || 76 || 31 || — || .576 || 20 || 8 || 12 || .400 ||
+|-
+|align=center| 7 || [[Pierre Page]] || [[1995–96 NHL season|1995]]–[[1996–97 NHL season|1997]] || 164 || 66 || 78 || 20 || — || .463 || 4 || 0 || 4 || .000 ||
+|-
+|align=center| 8 || [[Brian Sutter]] || [[1997–98 NHL season|1997]]–[[1999–2000 NHL season|2000]] || 246 || 87 || 117 || 37 || 5 || .439 || — || — || — || — ||
+|-
+|align=center| 9 || [[Don Hay]] || [[2000–01 NHL season|2000–2001]] || 68 || 23 || 28 || 13 || 4 || .463 || — || — || — || — ||
+|- bgcolor="#ddffdd"
+|align=center| 10 || [[Greg Gilbert]]†<ref>{{cite web |url=https://www.hockey-reference.com/coaches/gilbegr01c.html |title=Greg Gilbert coaching record |access-date=2008-09-18 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2008-10-12 |archive-url=https://web.archive.org/web/20081012034839/http://www.hockey-reference.com/coaches/gilbegr01c.html |url-status=live }}</ref> || [[2000–01 NHL season|2001]]–[[2002–03 NHL season|2003]] || 121 || 42 || 56 || 17 || 6 || .442 || — || — || — || — ||
+|-
+|align=center| — || [[Al MacNeil]]{{ref label|Note1|E|E}} || [[2002–03 NHL season|2003]] || 11 || 4 || 5 || 2 || 0 || .455 || — || — || — || — ||
+|-
+|align=center| 11 || [[Darryl Sutter]] || [[2002–03 NHL season|2003]]–[[2005–06 NHL season|2006]] || 210 || 107 || 73 || 15 || 15 || .581 || 33 || 18 || 15 || .545 ||
+|- bgcolor="#ddffdd"
+|align=center| 12 || [[Jim Playfair]]†<ref>{{cite web |url=https://www.hockey-reference.com/coaches/playfji01c.html |title=Jim Playfair coaching record |access-date=2008-09-18 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2011-05-19 |archive-url=https://web.archive.org/web/20110519113252/http://www.hockey-reference.com/coaches/playfji01c.html |url-status=live }}</ref> || [[2006–07 NHL season|2006–2007]] || 82 || 43 || 29 || — || 10 || .524 || 6 || 2 || 4 || .333 ||
+|-
+|align=center| 13 || [[Mike Keenan]] || [[2007–08 NHL season|2007]]–[[2008-09 NHL season|2009]] || 164 || 88 || 60 || — || 16 || .585 || 13 || 5 || 8 || .385 ||
+|-
+|align=center| 14 || [[Brent Sutter]] || [[2009–10 NHL season|2009]]–[[2011–12 NHL season|2012]] || 246 || 118 || 90 || — || 38 || .557 || — || — || — || — ||
+|-
+|align=center| 15 || [[Bob Hartley]] || [[2012–13 NHL season|2012]]–[[2015–16 NHL season|2016]] || 294 || 134 || 135 || — || 25 ||.498 || 11 || 5 || 6 || .454 || 2015 [[Jack Adams Award]]
+|-
+|align=center| 16 || [[Glen Gulutzan]] || [[2016–17 NHL season|2016]]–[[2017–18 NHL season|2018]] || 164 || 82 || 68 || — || 14 ||.543 || 4 || 0 || 4 || .000 ||
+|-
+|align=center| 17 || [[Bill Peters (ice hockey)|Bill Peters]] || [[2018–19 NHL season|2018]]–[[2019–20 NHL season|2019]] || 110 || 62 || 37 || — || 11 || .614 || 5 || 1 || 4 || .200 ||
+|- bgcolor="#ddffdd"
+|align=center| 18 ||[[Geoff Ward (ice hockey)|Geoff Ward]]†<ref>{{cite web |url=https://www.hockey-reference.com/coaches/wardge99c.html |title=Geoff Ward coaching record |access-date=2019-11-29 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2019-12-18 |archive-url=https://web.archive.org/web/20191218003213/https://www.hockey-reference.com/coaches/wardge99c.html |url-status=live }}</ref>{{ref label|Note1|F|F}} || [[2019–20 NHL season|2019]]–[[2020–21 NHL season|2021]] || 66 || 35 || 26 || — || 5 || .568 || 10 || 5 || 5 || .500 ||
+|-
+|align=center| — || Darryl Sutter || [[2020–21 NHL season|2021]]–[[2022–23 NHL season|2023]] || 194 || 103 || 63 || — || 28 || .603 || 12 || 5 || 7 || .417 || 2022 Jack Adams Award
+|-
+|align=center| — || [[Ryan Huska]]{{ref label|Note1|G|G}} || 2021 || 2 || 0 || 1 || — || 1 || .250 || — || — || — || — || 
+|- bgcolor="#ddffdd"
+|align=center| 19 || Ryan Huska†<ref>{{cite web |url=https://www.nhl.com/flames/news/flames-name-ryan-huska-head-coach-344830986 |title=Flames Name Ryan Huska Head Coach |website=NHL.com |access-date=June 12, 2023 |date=June 12, 2023 |archive-date=June 12, 2023 |archive-url=https://web.archive.org/web/20230612175909/https://www.nhl.com/flames/news/flames-name-ryan-huska-head-coach/c-344830986 |url-status=live }}</ref>{{ref label|Note1|H|H}} || [[2023–24 NHL season|2023]]–present || 246 || 113 || 105 || — || 28 || {{winpct|113|105|28}} ||  — || — || — || — || 
+|}
+<!-- DON'T UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE SEASON -->
+
+==See also==
+* [[List of Atlanta Flames head coaches]]
+* [[List of NHL head coaches]]
+
+==Notes==
+* {{note label|Note1|A|A}} A running total of the number of coaches of the Flames. Thus, any coach who had two separate terms as head coach is only counted once.
+* {{note label|Note1|B|B}} Before 1999, overtime losses were included in the loss column;<ref>{{Cite journal |last=Caldwell |first=Dave |url=https://www.nytimes.com/2008/02/17/sports/hockey/17score.html |title=Playing It Safe for a Bonus Point in the N.H.L. |access-date=2008-09-14 |date=2008-02-17 |journal=New York Times |archive-date=2016-01-12 |archive-url=https://web.archive.org/web/20160112104428/http://www.nytimes.com/2008/02/17/sports/hockey/17score.html |url-status=live }}</ref> Since 2005, ties are no longer possible.<ref>{{Cite journal |last=Burnside |first=Scott |url=https://www.espn.com/nhl/news/story?id=2114523 |title=Rule changes geared toward entertainment |access-date=2008-09-14 |date=2005-07-25 |publisher=ESPN |archive-date=2016-02-03 |archive-url=https://web.archive.org/web/20160203193345/http://sports.espn.go.com/nhl/news/story?id=2114523 |url-status=live }}</ref>
+* {{note label|Note1|C|C}} Does not include coaching record for the [[Atlanta Flames]].
+* {{note label|Note1|D|D}} Charron served as interim coach for the remainder of the 1991–92 season following Risebrough's resignation.<ref>{{cite web |url=http://wild.nhl.com/team/app?service=page&page=NHLPage&bcid=tea_Risebrough |title=Doug Risebrough - President and General Manager |access-date=2008-09-16 |work=Minnesota Wild Hockey Club |url-status=dead |archive-url=https://web.archive.org/web/20081006195537/http://wild.nhl.com/team/app?service=page&page=NHLPage&bcid=tea_Risebrough |archive-date=2008-10-06 }}</ref>
+* {{note label|Note1|E|E}} MacNeil served as interim head coach during the 2002–03 season following Gilbert's dismissal.<ref>{{cite news |url=https://www.usatoday.com/sports/hockey/nhl/flames/2002-12-03-gilbert-fired_x.htm |title=Flames dump Gilbert, name MacNeil |access-date=2008-09-16 |date=2002-12-03 |work=USA Today | first=John | last=Marshall}}</ref>
+* {{note label|Note1|F|F}} Ward served as interim head coach during the 2019–20 season following Peters' resignation. Ward also served as head coach for one game, a 3–2 overtime win over the [[Buffalo Sabres]], during the Flames' investigation into alleged misconduct by Peters during his previous coaching tenures. That win is reflected in Peters' totals.<ref>{{cite news |url=https://www.ctvnews.ca/calgary/article/bill-peters-resigns-as-flames-bench-boss-geoff-ward-named-interim-coach/ |title=Bill Peters resigns as Flames bench boss, Geoff Ward named interim coach |access-date=2019-11-29 |date=2019-11-29 |work=CTV News |first=Ryan |last=White |archive-date=2019-11-29 |archive-url=https://web.archive.org/web/20191129230922/https://calgary.ctvnews.ca/bill-peters-resigns-as-flames-bench-boss-geoff-ward-named-interim-coach-1.4708333 |url-status=live }}</ref>
+* {{note label|Note1|G|G}} [[Ryan Huska]] served as interim head coach after Sutter's signing on March 4, 2021, who was unable to join the team due to the [[COVID-19]] protocol.<ref>{{cite web |title=Calgary Flames - Edmonton Oilers - March 6th, 2021 |url=https://www.nhl.com/gamecenter/cgy-vs-edm/2021/03/06/2020020383 |website=NHL.com |access-date=May 1, 2023 |date=March 6, 2023}}</ref><ref>{{cite web |title=Ottawa Senators - Calgary Flames - March 7th, 2021 |url=https://www.nhl.com/gamecenter/ott-vs-cgy/2021/03/07/2020020395 |website=NHL.com |access-date=May 1, 2023 |date=March 7, 2023}}</ref>
+* {{note label|Note1|H|H}} Several years after his previous interim coaching stint, Huska was promoted to permanent head coach in June 2023, after Sutter was fired.<ref>{{cite web |url=https://www.nhl.com/flames/news/flames-name-ryan-huska-head-coach-344830986 |title=Flames Name Ryan Huska Head Coach |website=NHL.com |access-date=June 12, 2023 |date=June 12, 2023 |archive-date=June 12, 2023 |archive-url=https://web.archive.org/web/20230612175909/https://www.nhl.com/flames/news/flames-name-ryan-huska-head-coach/c-344830986 |url-status=live }}</ref>
+
+==References==
+;General
+{{cite book |title=2007–08 Calgary Flames Media Guide |publisher=Calgary Flames Hockey Club |editor=Hanlon, Peter |editor2=Kelso, Sean |page=102}}
+
+;Specific
+{{reflist}}
+
+{{Calgary Flames}}
+{{NHLHeadCoach}}
+
+{{featured list}}
+
+[[Category:Calgary Flames coaches| ]]
+[[Category:National Hockey League coaches by team|Calgary Flames]]
+[[Category:Lists of ice hockey coaches|Calgary Flames]]
+[[Category:Calgary Flames lists|head coaches]]

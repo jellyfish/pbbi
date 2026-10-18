@@ -1,0 +1,127 @@
+{{Short description|none}}
+This is a '''list of coaches of the [[California Golden Seals|California Seals, Oakland Seals and California Golden Seals]]'''. Eight men coached the Seals from their creation for the [[1967–68 NHL season]] until the team moved to [[Cleveland, Ohio]] after the [[1975–76 NHL season]]. [[Fred Glover (ice hockey)|Fred Glover]] had two stints as coach of the Seals. [[Bert Olmstead]] is the only Seals coach inducted in the [[Hockey Hall of Fame]].
+
+== Key ==
+{| class="wikitable" style="font-size:90%;"
+|-
+|'''#'''
+|Number of coaches<ref>A running total of the number of coaches of the Golden Seals. Thus any coach who has two separate terms as head coach is only counted once.</ref>
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins
+|-
+|'''L'''
+|Loses
+|-
+|'''T'''
+|Ties
+|-
+|'''Win %'''
+|Win – Loss percentage
+|}
+
+== Coaches ==
+{| class="wikitable"
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Dates
+! colspan="6" | Regular Season
+! colspan="3" | Playoffs
+! rowspan="2" | Refs
+|-
+! GC
+! W
+! L
+! T
+! Pts
+! Win %
+! GC
+! W
+! L
+|-
+|1
+| [[Bert Olmstead]]
+| [[1967–68 NHL season|1967]] – [[1967–68 NHL season|1968]]
+|64 || 11 || 37 || 16 || 38 || .148
+|colspan=3 align="center"| —
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/olmstbe01c.html |title=Bert Olmstead |accessdate=July 9, 2015|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|2
+| [[Gord Fashoway]]
+| [[1967–68 NHL season|1968]]
+|10 || 4 || 5 || 1 || 9 || .450
+|colspan=3 align="center"| —
+|<ref>{{cite web |url=https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=12065 |title=Gord Fashoway hockey statistics and profile at hockeydb.com |accessdate=July 9, 2015|publisher=hockeydb.com}}</ref>
+|-
+|3
+| [[Fred Glover (ice hockey)|Fred Glover]]
+| [[1968–69 NHL season|1968]] – [[1971–72 NHL season|1971]]
+|233 || 71 || 130 || 32 || 174 || .373
+|| 11 || 3 || 8
+|<ref name="Glover">{{cite web |url=https://www.hockey-reference.com/coaches/glovefr01c.html |title=Fred Glover |accessdate=July 9, 2015|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|4
+| [[Vic Stasiuk]]
+| [[1971–72 NHL season|1971]] – [[1971–72 NHL season|1972]]
+|75 || 21 || 38 || 16 || 58 || .387
+|colspan=3 align="center"| —
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/stasivi01c.html |title=Vic Stasiuk |accessdate=July 9, 2015|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|5
+| [[Garry Young (ice hockey)|Garry Young]]
+| [[1972–73 NHL season|1972]]
+|12 || 2 || 7 || 3 || 7 || .292
+|colspan=3 align="center"| —
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/youngga99c.html |title=Garry Young |accessdate=July 9, 2015|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+| —
+| [[Fred Glover (ice hockey)|Fred Glover]]
+| [[1972–73 NHL season|1972]] – [[1973–74 NHL season|1974]]
+|113 || 25 || 77 || 21 || 71 || .289
+|colspan=3 align="center"| —
+|<ref name="Glover"/>
+|-
+|6
+| [[Marshall Johnston]]
+| [[1973–74 NHL season|1974]] – [[1974–75 NHL season|1975]]
+|69 || 13 || 45 || 11 || 37 || .268
+|colspan=3 align="center"| —
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/johnsma01c.html |title=Marshall Johnston |accessdate=July 9, 2015|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|7
+| [[Bill McCreary Sr.]]
+| [[1974–75 NHL season|1975]]
+|32 || 8 || 20 || 4 || 20 || .313
+|colspan=3 align="center"| —
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/mccrebi01c.html |title=Bill McCreary |accessdate=July 9, 2015|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|8
+| [[Jack Evans (ice hockey)|Jack Evans]]
+| [[1975–76 NHL season|1975]] – [[1975–76 NHL season|1976]]
+|80 || 27 || 42 || 11 || 65 || .406
+|colspan=3 align="center"| —
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/evansja01c.html |title=Jack Evans |accessdate=July 9, 2015|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|}
+
+==See also==
+{{Portal|San Francisco Bay Area}}
+* [[List of NHL head coaches]]
+
+==References==
+'''General'''
+{{refbegin}}
+* {{cite web|url=https://www.hockey-reference.com/teams/CLE/coaches.html|title=Cleveland Barons Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=July 9, 2015}}
+{{refend}}
+'''Specific'''
+{{reflist|2}}
+
+{{Oakland Seals}}
+{{NHLHeadCoach}}
+
+[[Category:California Golden Seals coaches|*]]
+[[Category:National Hockey League coaches by team|California Golden Seals head coaches]]
+[[Category:Lists of ice hockey coaches|California Golden Seals head coaches]]
+[[Category:California Golden Seals lists|Head coaches]]

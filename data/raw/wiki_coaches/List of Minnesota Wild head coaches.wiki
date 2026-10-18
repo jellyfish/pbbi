@@ -1,0 +1,188 @@
+{{Short description|none}}
+[[File:2006 WCHA Final Five.jpg|thumb|The Wild have played their home games at the [[Grand Casino Arena]] since its first season.]]
+The [[Minnesota Wild]] is an American professional [[ice hockey]] team based in [[Saint Paul, Minnesota]]. It plays in the [[Central Division (NHL)|Central Division]] of the [[Western Conference (NHL)|Western Conference]] in the [[National Hockey League]] (NHL).<ref>{{cite web|url=http://www.nhl.com/ice/teams.htm|archive-url=https://web.archive.org/web/20090311030113/http://www.nhl.com/ice/teams.htm|url-status=dead|archive-date=March 11, 2009|title=Teams|publisher=National Hockey League|accessdate=2008-12-22}}</ref> The Wild joined the NHL in 2000 as an [[expansion team]] with the [[Columbus Blue Jackets]].<ref>{{Cite book|last=Pincus|first=Arthur|year=2006|title=The Official Illustrated NHL History|publisher=Reader's Digest|isbn=0-88850-800-X}}</ref> The Wild have played their home games at the [[Grand Casino Arena]] since its first season.<ref>{{cite web|url=http://www.xcelenergycenter.com/arena.jsp |title=Arena Info |publisher=Grand Casino Arena |accessdate=2008-12-22 |url-status=dead |archiveurl=https://web.archive.org/web/20081216062050/http://www.xcelenergycenter.com/arena.jsp |archivedate=2008-12-16 }}</ref> The majority of the Wild is owned by [[Craig Leipold]], and [[Bill Guerin]] is their [[general manager]].
+
+There have been six&nbsp;[[head coach]]es for the Wild franchise. [[Jacques Lemaire]], who coached the team from its inception to the end of the [[2008–09 NHL season|2008–09 season]],<ref>{{cite web|url=http://www.nhl.com/ice/news.htm?id=417874|archive-url=https://web.archive.org/web/20090413162412/http://www.nhl.com/ice/news.htm?id=417874|url-status=dead|archive-date=April 13, 2009|title=Lemaire calls it quits in Minnesota|publisher=National Hockey League|date=2009-04-11|accessdate= 2009-04-20}}</ref> compiled a record of 574 regular-season games coached, 253 regular-season games won, 605 regular-season [[Point (ice hockey)|points]], a .527 regular-season [[winning percentage]], 29 playoff games coached, 11 playoff games won, and a .379 playoff winning percentage with the Wild. Lemaire was awarded the [[Jack Adams Award]] with the Wild in the [[2002–03 NHL season|2002–03 season]]. [[Todd Richards (ice hockey)|Todd Richards]] was hired two months after Lemaire's resignation and fired in April 2011.<ref name="RichardsHired">{{cite web|url=http://license.icopyright.net/user/viewContent.act?tag=3.5721%3Ficx_id=D98RD4O84|title=Wild hire Todd Richards as head coach|agency=Associated Press|accessdate=2009-06-15|date=2009-06-15|archive-date=2020-05-24|archive-url=https://web.archive.org/web/20200524195417/http://license.icopyright.net/user/viewContent.act?tag=3.5721%3Ficx_id%3DD98RD4O84%2F|url-status=dead}}</ref> [[Mike Yeo]] was hired by the club in June 2011 and fired in February 2016. [[John Torchetti]] was named interim head coach.  On May 7, [[Bruce Boudreau]] was signed to a four-year deal as the new head coach, just 8 days after being released by the [[Anaheim Ducks]].
+
+On February 14, 2020, [[Bruce Boudreau]] was released by the [[Minnesota Wild]] following a disappointing first half of the [[2019–20 NHL season|2019–20 season]]. This included Boudreau making a paperwork error that left the Wild with five defensemen in a game on January 15. [[Dean Evason]] was named as interim head coach, previously being assistant coach. On July 13, 2020, Evason was hired as the full-time head coach, with a contract extension through the 2021–22 season. Evason was later fired on November 27, 2023, after a poor start to the [[2023–24 NHL season|2023–24 season]],<ref>{{cite web |title=Head Coach Dean Evason and Assistant Coach Bob Woods Relieved of Duties |url=https://www.nhl.com/wild/news/minnesota-wild-relieve-coaches-of-duties-112723 |website=NHL.com |access-date=November 28, 2023 |date=November 27, 2023}}</ref> and [[John Hynes (ice hockey)|John Hynes]] was named the new head coach.<ref>{{cite web |title=Minnesota Wild Names John Hynes Head Coach |url=https://www.nhl.com/wild/news/minnesota-wild-hires-hynes-112723 |website=NHL.com |access-date=November 28, 2023 |date=November 27, 2023}}</ref>
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''T'''
+|Ties = 1 point
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point{{ref label|Note2|b|b}}
+|-
+|'''PTS'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''P%'''
+|[[Points percentage]]
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|style="background-color:#ddffdd"|*
+| Spent entire NHL head coaching career with the Wild
+|}
+
+==Coaches==
+''Note: Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+{| class="wikitable sortable sticky-header-multi" style="text-align: center;
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term{{ref label|Note3|c|c}}
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+! rowspan="2" | Achievements
+! rowspan="2" | Reference
+|-
+! GC
+! W
+! L
+! T/OT
+! PTS
+! P%
+! GC
+! W
+! L
+! Win%
+|-
+| 1
+| style="text-align:left;"| {{sortname|Jacques|Lemaire}}
+| {{nhly|2000|start}}–{{nhly|2008|end}}
+|656
+|293
+|255
+|108
+|694
+|.529
+|29
+|11
+|18
+|.379
+|2002–03 [[Jack Adams Award]] winner<ref name="adams">{{cite web|url=https://www.hockey-reference.com/awards/adams.html|title=Jack Adams Award|publisher=Hockey Reference.com|accessdate=2016-05-07}}</ref>
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/lemaija01c.html|title=Jacques Lemaire Coaching Record|accessdate=2008-12-22|work=Hockey-Reference.com|publisher=Sports Reference LLC}}</ref>
+|-
+|2
+| style="text-align:left;"| {{sortname|Todd|Richards|Todd Richards (ice hockey)}}
+| {{nhly|2009|start}}–{{nhly|2010|end}}
+|164
+|77
+|71
+|16
+|170
+|.518
+|—
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/richato01c.html|title=Todd Richards Coaching Record|accessdate=2010-08-25|work=Hockey-Reference.com|publisher=Sports Reference LLC}}</ref>
+|-
+|3
+| style="text-align:left;"| {{sortname|Mike|Yeo}}
+| {{nhly|2011|start}}–{{nhly|2015|end}}
+|349
+|173
+|132
+|44
+|390
+|.559
+|28
+|11
+|17
+|.393
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/yeomi99c.html|title=Mike Yeo Coaching Record|accessdate=2012-12-16|work=Hockey-Reference.com|publisher=Sports Reference LLC}}</ref>
+|-
+|4
+| style="text-align:left;"|{{sortname|John|Torchetti}}
+|{{nhly|2015|end}}
+|27
+|15
+|11
+|1
+|31
+|.574
+|6
+|2
+|4
+|.333
+|
+|<ref>{{Cite web|url=http://wild.nhl.com/club/news.htm?id=868683|archive-url=https://web.archive.org/web/20160216050042/http://wild.nhl.com/club/news.htm?id=868683|url-status=dead|archive-date=February 16, 2016|title=Minnesota Wild Names John Torchetti Interim Head Coach|publisher=National Hockey League|access-date=2016-04-15}}</ref>
+|-
+|5
+| style="text-align:left;"|{{sortname|Bruce|Boudreau}}
+|{{nhly|2016|start}}–{{nhly|2019|end}}
+|303
+|158
+|110
+|35
+|351
+|.579
+|10
+|2
+|8
+|.200
+|
+|<ref>{{Cite web|url=http://wild.nhl.com/club/news.htm?id=881898&navid=DL%7CMIN%7Chome|archive-url=https://web.archive.org/web/20160512152713/http://wild.nhl.com/club/news.htm?id=881898&navid=DL%7CMIN%7Chome|url-status=dead|archive-date=May 12, 2016|title=Wild Agrees To Terms With Bruce Boudreau|publisher=National Hockey League|access-date=2016-05-08}}</ref>
+|-
+|6
+| style="text-align:left;"|{{sortname|Dean|Evason}}
+|{{nhly|2019|end}}–{{nhly|2023|start}}
+|251
+|147
+|77
+|27
+|321
+|.639
+|23
+|8
+|15
+|.348
+|
+|<ref>{{cite web |title=Evason signs two-year contract to remain Wild coach |url=https://www.nhl.com/news/dean-evason-signs-two-year-contract-to-remain-minnesota-coach-317394658 |website=NHL.com |access-date=2020-07-13 |date=2020-07-13}}</ref>
+|-
+|7
+| style="text-align:left;"|{{sortname|John|Hynes|dab=ice hockey}}
+|{{nhly|2023|start}}–present
+| 227 || 125 || 78 || 24 || 274 || {{winpct|125|78|24}}
+| 6 || 2 || 4 || {{winpct|2|4}}
+|
+|<ref>{{cite news |title=Minnesota Wild Names John Hynes Head Coach |url=https://www.nhl.com/wild/news/minnesota-wild-hires-hynes-112723 |access-date=November 29, 2023 |work=Minnesota Wild |date=November 27, 2023 |archive-url=https://web.archive.org/web/20231128025412/https://www.nhl.com/wild/news/minnesota-wild-hires-hynes-112723 |archive-date=November 28, 2023}}</ref>
+|}
+<!-- DO NOT UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE CURRENT SEASON -->
+
+==Notes==
+*{{note label|Note1|a|a}} A running total of the number of coaches of the Wild. Thus, any coach who has two or more separate terms as head coach is only counted once.
+*{{note label|Note2|b|b}} Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|archive-url=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|url-status=dead|archive-date=2008-05-11|title=Official Rules|publisher=National Hockey League|accessdate=2008-12-21|format=PDF}}</ref>
+*{{note label|Note3|c|c}}Each year is linked to an article about that particular NHL season.
+
+==References==
+'''General'''
+*{{cite web|url=https://www.hockey-reference.com/teams/MIN/coaches.html|title=Minnesota Wild Coach Register|work=Hockey-Reference.com|publisher=Sports Reference LLC|accessdate=2008-12-22}}
+'''Specific'''
+{{reflist}}
+
+{{Minnesota Wild}}
+{{NHLHeadCoach}}
+
+[[Category:Minnesota Wild coaches| ]]
+[[Category:Minnesota Wild lists|coaches]]
+[[Category:National Hockey League coaches by team|Minnesota Wild head coaches]]
+[[Category:Lists of ice hockey coaches|Minnesota Wild head coaches]]

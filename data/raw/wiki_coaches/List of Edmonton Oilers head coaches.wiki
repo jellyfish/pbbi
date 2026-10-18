@@ -1,0 +1,239 @@
+{{Short description|None}}
+[[File:Glen Sather, 2006 NHL Awards (cropped).jpg|thumb|upright|[[Glen Sather]] coached the Oilers for 842 regular games and 126 playoff games in the NHL.]]
+The [[Edmonton Oilers]] are a professional [[ice hockey]] team based in [[Edmonton]]. They play in the [[Pacific Division (NHL)|Pacific Division]] of the [[Western Conference (NHL)|Western Conference]] in the [[National Hockey League]] (NHL). The Oilers were established in 1972 as part of the [[World Hockey Association]] (WHA) and joined the NHL as one of four franchises during the [[1979 NHL expansion]].<ref>{{cite web |date=2011-04-23 |title=NHL – WHA Merger 30th Anniversary |url=http://thehockeywriters.com/nhl-wha-merger-30th-anniversary |access-date=2022-05-23 |archive-url=https://web.archive.org/web/20110423171843/http://thehockeywriters.com/nhl-wha-merger-30th-anniversary |archive-date=2011-04-23}}</ref> There have been 23 [[head coach]]es in their franchise history; seven during their time in the WHA (1972–1979)<ref>{{cite web |title=WHA Oilers Page - Coaches |url=http://homeoftheoilers.orgfree.com/coaches.html |access-date=2022-05-23 |website=homeoftheoilers.orgfree.com}}</ref> and seventeen during their time in the NHL (1979–present).<ref>{{cite web |title=Edmonton Oilers Coaches |url=https://www.hockey-reference.com/teams/EDM/coaches.html |access-date=2022-05-23 |website=Hockey-Reference.com}}</ref>
+
+The Oilers had seven different head coaches during the seven seasons that they played in the WHA. Ray Kinasewich was the first head coach for over 30 games of the original Alberta Oilers, with Hall of Famer (and Top
+100 Players of All Time) Glenn Hall as the team's first assistant coach.<ref>{{cite web |title=WHA Oilers Page - Coaches |work=The Home of the Oilers |url=http://homeoftheoilers.orgfree.com/coaches.html |access-date=2008-05-22}}</ref> [[Bill Hunter (ice hockey)|Bill Hunter]], who was the team's owner and general manager at the time served three terms.<ref>{{cite web |title=Canada's Sports Hall of Fame {{!}} Stories |url=http://www.sportshall.ca/stories.html?proID=78&catID=all |access-date=2022-05-23 |date=2016-10-18 |archive-url=https://web.archive.org/web/20161018205050/http://www.sportshall.ca/stories.html?proID=78&catID=all |archive-date=2016-10-18}}</ref> [[Glen Sather]] became a player-coach during the [[1976–77 WHA season|1976–77 season]], but retired as a player at the end of the year. Sather then coached the team for two more seasons in the WHA, and maintained the position when the Oilers were admitted as an expansion franchise into the NHL.
+
+Since joining the NHL for the [[1979–80 NHL season|1979–80 season]], the Oilers have had 19 different head coaches. Sather has the most games coached and most wins as head coach.<ref>{{cite web |title=Glen "Slats" Sather—Foundation of the Dynasty |work=Edmonton Oilers Heritage |url=http://www.oilersheritage.com/legacy/contributions_coaches_glensather.html |access-date=2008-05-22 |url-status=dead |archive-url=https://web.archive.org/web/20080527123420/http://www.oilersheritage.com/legacy/contributions_coaches_glensather.html |archive-date=2008-05-27}}</ref> Sather stepped down before the [[1980–81 Edmonton Oilers season|1980–81 season]], but after the Oilers started the season with only four wins in their first eighteen games he returned to the bench. Sather remained head coach for the remainder of that season plus eight more seasons, during which time the team won four [[Stanley Cup]]s, in [[1984 Stanley Cup Final|1984]], [[1985 Stanley Cup Final|1985]], [[1987 Stanley Cup Final|1987]] and [[1988 Stanley Cup Final|1988]]. For the [[1985–86 NHL season]], Sather won the [[Jack Adams Award]] for the NHL coach "adjudged to have contributed the most to his team's success".<ref>{{cite web |title=Trophies - Jack Adams Award |work=NHL.com |publisher=National Hockey League |url=http://www.nhl.com/trophies/adams.html |access-date=2008-05-22 |url-status=dead |archive-url=https://web.archive.org/web/20080706102444/http://www.nhl.com/trophies/adams.html |archive-date=2008-07-06}}</ref> Sather stepped down as coach a second time after the [[1988–89 Edmonton Oilers season|1988–89 season]], and [[John Muckler]] coached the [[1990 Stanley Cup Final|1990]] championship team. Sather would have one more stint as head coach, relieving [[Ted Green]] after the team posted just three victories in the first 24 games of the [[1993-94 Edmonton Oilers season|1993–94 season]]. Sather was inducted into the [[Hockey Hall of Fame]] in 1997 in the [[List of members of the Hockey Hall of Fame#Builders|builder]] category.
+
+Former Oilers head coach,<ref>{{cite web |title=Oilers relieve MacTavish of head coaching duties |url=http://oilers.nhl.com/team/app/?service=page&page=NewsPage&articleid=418459 |work=edmontonoilers.com |access-date=2009-04-15 |url-status=dead |archive-url=https://web.archive.org/web/20090417175540/http://oilers.nhl.com/team/app/?service=page&page=NewsPage&articleid=418459 |archive-date=2009-04-17}}</ref> [[Craig MacTavish]], played for the team from 1985 to 1994. He was a member of the 1987, 1988, and 1990 Stanley Cup winning teams, and he was team captain from 1992 to 1994. As of the [[2025–26 Edmonton Oilers season|2025–26 season]], he ranks second in the number of Oilers games coached.
+
+The current head coach is [[Mike Babcock]], who was hired on June 23, 2026.<ref name="Babcock623" />
+
+==Key==
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable" style="font-size:90%;"
+|-
+!GC
+|Games coached
+|-
+!W
+|Wins
+|-
+!L
+|Losses
+|-
+!T
+|Ties
+|-
+!OT
+|[[Overtime (ice hockey)|Overtime&nbsp;Loss]]
+|}
+{{col-break|gap=1em}}
+'''Win %''' and '''Pts %'''
+:Win–loss percentage = <math>\frac{W+\frac{1}{2}T}{GC}</math> and Points percentage = <math>\frac{W+\frac{1}{2}T+\frac{1}{2}OT}{GC}</math>
+*For the [[1999–2000 NHL season|1999–2000]] to [[2003–04 NHL season|2003–04]] seasons, an extra point was awarded for overtime losses. These totals are included as '''losses''' for the purpose of calculating win–loss percentage.
+*Since the [[2005–06 NHL season]], ties are no longer recorded, but single points for overtime or [[Overtime (ice hockey)#Shootout|shootout]] losses are still awarded. These totals are included as '''ties''' for the purpose of calculating win–loss percentage.
+{{col-end}}
+
+==Coaches==
+
+===WHA===
+{| class="wikitable" style="text-align:center"
+! rowspan="2" | No.
+! rowspan="2" style="width:11em" | Name
+! rowspan="2" | Seasons
+! colspan="5" | Regular season
+! colspan="4" | Playoffs
+|-
+!style="width:3em"| GC
+!style="width:3em"| W
+!style="width:3em"| L
+!style="width:3em"| T
+!style="width:5em"| Win %
+!style="width:3em"| GC
+!style="width:3em"| W
+!style="width:3em"| L
+!style="width:5em"| Win %
+|-
+|1
+|align=left|[[Ray Kinasewich]]
+|align=left|[[1972–73 Alberta Oilers season|1972–73]]
+|45||20||23||2||.467||—||—||—||—
+|-
+|2
+|align=left|[[Bill Hunter (ice hockey)|Bill Hunter]]
+|align=left|1972–73
+|26||14||11||1||.558||1||0||1||.000
+|-
+|3
+|align=left|[[Brian C. Shaw|Brian Shaw]]
+|align=left|[[1973–74 Edmonton Oilers season|1973–74]] to [[1974–75 Edmonton Oilers season|1974–75]]
+|137||68||63||6||.518||5||1||4||.200
+|-
+|—
+|align=left|Bill Hunter
+|align=left|1974–75
+|19||6||12||1||.342||—||—||—||—
+|-
+|4
+|align=left|[[Clare Drake]]
+|align=left|[[1975–76 Edmonton Oilers season|1975–76]]
+|48||18||28||2||.396||—||—||—||—
+|-
+|—
+|align=left|Bill Hunter
+|align=left|1975–76
+|33||9||21||3||.318||4||0||4||.000
+|-
+|5
+|align=left|[[Bep Guidolin]]
+|align=left|[[1976–77 Edmonton Oilers season|1976–77]]
+|63||25||36||2||.413||—||—||—||—
+|-
+|6
+|align=left|[[Glen Sather]]
+|align=left|1976–77 to [[1978–79 Edmonton Oilers season|1978–79]]
+|178||95||76||7||.553||23||8||15||.348
+|}
+
+===NHL===
+{| class="wikitable" style="text-align:center"
+! rowspan="2" | No.
+! rowspan="2" style="width:11em" | Name
+! rowspan="2" | Seasons
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+|-
+!style="width:3em"| GC
+!style="width:3em"| W
+!style="width:3em"| L
+!style="width:3em"| T
+!style="width:3em"| OT
+!style="width:5em"| Pts %
+!style="width:3em"| GC
+!style="width:3em"| W
+!style="width:3em"| L
+!style="width:5em"| Win %
+|-
+|1
+|align=left|[[Glen Sather]]<ref>{{cite web |title=Glen Sather's profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=4773 |access-date=2008-05-22}}</ref><ref>{{cite web |title=Glen Sather Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/sathegl01c.html |access-date=2008-05-22}}</ref>
+|align=left|[[1979–80 Edmonton Oilers season|1979–80]]
+|80||28||39||13||—||.431||3||0||3||.000
+|-
+|2
+|align=left|[[Bryan Watson (ice hockey)|Bryan Watson]]<ref>{{cite web |title=Bryan Watson's profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=5652 |access-date=2008-05-22}}</ref><ref>{{cite web |title=Bryan Watson Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/watsobr01c.html |access-date=2008-05-22}}</ref>
+|align=left|[[1980–81 Edmonton Oilers season|1980–81]]{{efn-ua|name=Watson|Watson coached the first 18 games of the 1980–81 season and was replaced by Sather.}}
+|18||4||9||5||—||.361||—||—||—||—
+|-
+|—
+|align=left|Glen Sather
+|align=left|1980–81 to [[1988–89 Edmonton Oilers season|1988–89]]
+|702||414||202||86||—||.651||123||89||34||.724
+|-
+|3
+|align=left|[[John Muckler]]<ref>{{cite web |title=John Muckler's profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=3829 |access-date=2008-05-22}}</ref><ref>{{cite web |title=John Muckler Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/muckljo99c.html |access-date=2008-05-22}}</ref>
+|align=left|[[1989–90 Edmonton Oilers season|1989–90]] to [[1990–91 Edmonton Oilers season|1990–91]]
+|160||75||65||20||—||.531||40||25||15||.625
+|-
+|4
+|align=left|[[Ted Green]]<ref>{{cite web |title=Ted Green's profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=2022 |access-date=2008-05-22}}</ref><ref>{{cite web |title=Ted Green Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/greente01c.html |access-date=2008-05-22}}</ref>
+|align=left|[[1991–92 Edmonton Oilers season|1991–92]] to [[1993–94 Edmonton Oilers season|1993–94]]{{efn-ua|name=Green|Green coached the first 24 games of the 1993–94 season and was replaced by Sather.}}
+|188||65||102||21||—||.402||16||8||8||.500
+|-
+|—
+|align=left|Glen Sather
+|align=left|1993–94
+|60||22||27||11||—||.458||—||—||—||—
+|-
+|5
+|align=left|[[George Burnett (ice hockey)|George Burnett]]<ref>{{cite web |title=George Burnett's profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=680 |access-date=2008-05-22}}</ref><ref>{{cite web |title=George Burnett Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/burnege99c.html |access-date=2008-05-22}}</ref>
+|align=left|[[1994–95 Edmonton Oilers season|1994–95]]{{efn-ua|name=Burnett|Burnett coached the first 35 games of the 1994–95 season and was replaced by Low.}}
+|35||12||20||3||—||.386||—||—||—||—
+|-
+|6
+|align=left|[[Ron Low]]<ref>{{cite web |title=Ron Low's profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=3214 |access-date=2008-05-22}}</ref><ref>{{cite web |title=Ron Low Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/lowro01c.html |access-date=2008-05-22}}</ref>
+|align=left|1994–95 to [[1998–99 Edmonton Oilers season|1998–99]]
+|341||139||162||40||—||.466||28||10||18||.357
+|-
+|7
+|align=left|[[Kevin Lowe]]<ref>{{cite web |title=Kevin Lowe's profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=3216 |access-date=2008-05-22}}</ref><ref>{{cite web |title=Kevin Lowe Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/loweke01c.html |access-date=2008-05-22}}</ref>
+|align=left|[[1999–2000 Edmonton Oilers season|1999–2000]]
+|82||32||26||16||8||.537{{efn-ua|name=Lowe|Lowe's win/loss/tie record is 32–34–16 for a points percentage of .537.}}||5||1||4||.200
+|-
+|8
+|align=left|[[Craig MacTavish]]<ref>{{cite web |title=Craig MacTavish's profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=3305 |access-date=2008-05-22}}</ref><ref>{{cite web |title=Craig MacTavish Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/mactacr01c.html |access-date=2008-05-22}}</ref>
+|align=left|[[2000–01 Edmonton Oilers season|2000–01]] to [[2008–09 Edmonton Oilers season|2008–09]]
+|656||301||252||47||56||.537{{efn-ua|name=MacTavish|MacTavish's win/loss/tie record is 301–273–82 for a points percentage of .537.}}||36||19||17||.528
+|-
+|9
+|align=left|[[Pat Quinn (ice hockey)|Pat Quinn]]<ref>{{cite web |title=Pat Quinn hockey statistics & profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=4429 |access-date=2010-04-27}}</ref><ref>{{cite web |title=Pat Quinn NHL & WHA Hockey Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/quinnpa01c.html |access-date=2010-04-27}}</ref>
+|align=left|[[2009–10 Edmonton Oilers season|2009–10]]
+|82||27||47||—||8||.378||—||—||—||—
+|-
+|10
+|align=left|[[Tom Renney]]<ref>{{cite web |title=Tom Renney hockey statistics & profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=4531 |access-date=2010-06-22}}</ref><ref>{{cite web |title=Tom Renney Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/renneto99c.html |access-date=2010-06-22}}</ref>
+|align=left|[[2010–11 Edmonton Oilers season|2010–11]] to [[2011–12 Edmonton Oilers season|2011–12]]
+|164||57||85||—||22||.415||—||—||—||—
+|-
+|11
+|align=left|[[Ralph Krueger]]<ref>{{cite web |title=Ralph Krueger hockey statistics & profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=44125 |access-date=2013-05-08}}</ref><ref>{{cite web |title=Ralph Krueger Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/kruegra99c.html |access-date=2013-05-08}}</ref>
+|align=left|[[2012–13 Edmonton Oilers season|2012–13]]
+|48||19||22||—||7||.469||—||—||—||—
+|-
+|12
+|align=left|[[Dallas Eakins]]<ref>{{cite web |title=Dallas Eakins hockey statistics & profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=1520 |access-date=2014-04-14}}</ref><ref>{{cite web |title=Dallas Eakins Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/eakinda01c.html |access-date=2014-05-14}}</ref>
+|align=left|[[2013–14 Edmonton Oilers season|2013–14]] to [[2014–15 Edmonton Oilers season|2014–15]]{{efn-ua|name=Eakins|Eakins coached the first 31 games of the 2014–15 season and was replaced by Nelson.}}
+|113||36||63||—||14||.381||—||—||—||—
+|-
+|13
+|align=left|[[Todd Nelson (ice hockey)|Todd Nelson]]<ref>{{cite web |title=Todd Nelson hockey statistics & profile |work=The Internet Hockey Database |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=3940 |access-date=2015-04-12}}</ref><ref>{{cite web |title=Todd Nelson Coaching Record |work=Hockey-Reference.com |url=https://www.hockey-reference.com/coaches/nelsoto01c.html |access-date=2015-04-12}}</ref>
+|align=left|[[2014–15 NHL season|2014–15]]
+|51||17||25||—||9||.422||—||—||—||—
+|-
+|14
+|align=left|[[Todd McLellan]]<ref>{{cite web|url=https://www.nhl.com/news/todd-mclellan-named-coach-of-edmonton-oilers/c-768182|archive-url=https://web.archive.org/web/20160203225229/https://www.nhl.com/news/todd-mclellan-named-coach-of-edmonton-oilers/c-768182|url-status=dead|archive-date=February 3, 2016|title=Todd McLellan named coach of Edmonton Oilers|website=NHL.com|access-date=2016-04-15}}</ref><ref>{{cite web|url=https://www.hockey-reference.com/coaches/mclelto01c.html|title=Todd McLellan NHL & WHA Hockey Coaching Record |website=Hockey-Reference.com|access-date=2016-04-15}}</ref>
+|align=left|[[2015–16 Edmonton Oilers season|2015–16]] to [[2018–19 Edmonton Oilers season|2018–19]]{{efn-ua|name=McLellan|McLellan coached the first 20 games of the 2018–19 season and was replaced by Hitchcock.}}
+|266||123||119||—||24||.502||13||7||6||.538
+|-
+|15
+|align=left|[[Ken Hitchcock]]<ref>{{cite web|url=https://edmontonjournal.com/sports/hockey/nhl/edmonton-oilers/oilers-fire-head-coach-todd-mclellan-hire-ken-hitchcock/wcm/55831484-386d-41a5-b28f-88908af69762|title=Oilers fire head coach Todd McLellan, hire Ken Hitchcock|website=Edmonton Journal}}</ref>
+|align=left|2018–19
+|62||26||28||—||8||.484||—||—||—||—
+|-
+|16
+|align=left|[[Dave Tippett]]<ref>{{cite web|url=https://www.sportingnews.com/us/nhl/news/oilers-to-name-dave-tippett-coach-report-says/1wm5opetj4a2t19vo9sf6q6v9j |title=New Oilers coach Dave Tippett embraces 'unique opportunity' |publisher=Sporting News |date=May 28, 2019 |access-date=May 29, 2019}}</ref><ref name=":0">{{cite web|title=RELEASE: Jay Woodcroft, Dave Manson join Oilers coaching staff|url=https://www.nhl.com/oilers/news/release-jay-woodcroft-dave-manson-join-oilers-coaching-staff-330668626|access-date=2022-02-10|website=NHL.com}}</ref>
+|align=left|[[2019–20 Edmonton Oilers season|2019–20]] to [[2021–22 Edmonton Oilers season|2021–22]]{{efn-ua|name=Tippett|Tippett coached the first 44 games of the 2021–22 season and was replaced by Woodcroft.}}
+|171||95||62||—||14||.596||8||1||7||.125
+|-
+|17
+|align=left|[[Jay Woodcroft]]<ref name=":0" />
+|align=left|[[2021–22 Edmonton Oilers season|2021–22]] to [[2023–24 Edmonton Oilers season|2023–24]]{{efn-ua|name=Woodcroft|Woodcroft coached the first 13 games of the 2023–24 season and was replaced by Knoblauch.}}
+|133||79||41||—||13||.643||28||14||14||.500
+|-
+|18
+|align=left|[[Kris Knoblauch]]<ref name="Knoblauch1112">{{cite web |title=Woodcroft fired as Oilers coach, replaced by Knoblauch |url=https://www.nhl.com/news/jay-woodcroft-fired-as-oilers-coach-replaced-by-kris-knoblauch |website=NHL.com |access-date=November 12, 2023 |date=November 12, 2023}}</ref><ref name="Knoblauch514">{{cite web |last1=Kaplan |first1=Emily |last2=Shilton |first2=Kristen |title=Oilers fire Kris Knoblauch, to seek 10th coach in 15 years |url=https://www.espn.com/nhl/story/_/id/48768399/oilers-fire-kris-knoblauch-coach-source-confirms |website=ESPN.com |access-date=May 14, 2026 |date=May 14, 2026}}</ref>
+|align=left|[[2023–24 Edmonton Oilers season|2023–24]] to [[2025–26 Edmonton Oilers season|2025–26]]
+|233||135||77||—||21||.624||53||31||22||.585
+|-
+|19
+|align=left|[[Mike Babcock]]<ref name="Babcock623">{{cite web |title=Oilers name Mike Babcock as head coach after hire cleared by NHL |url=https://www.sportsnet.ca/nhl/article/oilers-hire-mike-babcock-as-next-head-coach/ |website=Sportsnet.ca |access-date=June 23, 2026 |date=June 23, 2026}}</ref>
+|align=left|[[2026–27 NHL season|2026–27]] to present
+|—||—||—||—||—||—||—||—||—||—
+|}
+
+==Notes==
+{{notelist-ua}}
+
+==References==
+{{reflist}}
+
+{{Edmonton Oilers}}
+{{NHLHeadCoach}}
+
+[[Category:National Hockey League coaches by team|Edmonton Oilers head coaches]]
+[[Category:Lists of ice hockey coaches|Edmonton Oilers head coaches]]
+[[Category:Edmonton Oilers coaches| ]]
+[[Category:Edmonton Oilers lists|head coaches]]

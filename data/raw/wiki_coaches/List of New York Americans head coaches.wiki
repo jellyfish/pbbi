@@ -1,0 +1,153 @@
+{{short description|none}}
+This is a '''list of [[New York Americans]] head coaches'''. The Americans had nine different head coaches during the team's existence. [[Tommy Gorman]] is the most successful head coach in team's history, accumulating a .488 winning percentage during two stints as head coach.<ref name="NYA coaches">{{cite web |title=New York Americans Coaches |url=https://www.hockey-reference.com/teams/NYA/coaches.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref> [[Red Dutton]] is the longest-tenured head coach for the team and lead the Americans to the [[Stanley Cup playoffs]] in three seasons.<ref name="NYA coaches" />
+
+==Key==
+{|class="wikitable"
+|-
+|'''#'''
+|Number of coaches
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins
+|-
+|'''L'''
+|Losses
+|-
+|'''T'''
+|Ties (no longer applicable after the [[2005–06 NHL season|2005–06]] season)
+|-
+|'''OTL'''
+|[[Overtime (ice hockey)|Overtime]] losses (includes [[shootout (ice hockey)|shootout]] losses after [[2005–06 NHL season|2005–06]])
+|-
+|'''Pts'''
+|Points
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|}
+
+==Coaches==
+{| class="wikitable"
+! rowspan="2"|#
+! rowspan="2"|Name
+! rowspan="2"|Dates
+! colspan="7"|Regular season
+! colspan="4"|Playoffs
+! rowspan="2"|Achievements
+! rowspan="2"|Ref
+|-
+! GC
+! W
+! L
+! T
+! OTL
+! Pts
+! Win%{{ref|Win–loss percentage}}
+! GC
+! W
+! L
+! T
+|-
+|style="text-align:center;"|1
+|[[Tommy Gorman]]
+|1925–1926
+|36||12||20||4|| style="text-align:center;"|—||28||.389
+|—||—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Gorman">{{cite web |title=Tommy Gorman NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/gormato99c.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref>
+|-
+|style="text-align:center;"|2
+|[[Newsy Lalonde]]
+|1926–1927
+|44||17||25||2|| style="text-align:center;"|—||36||.409
+|—||—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Lalonde">{{cite web |title=Newsy Lalonde NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/lalonne01c.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref>
+|-
+|style="text-align:center;"|3
+|[[Shorty Green]]
+|1927–1928
+|44||11||27||6|| style="text-align:center;"|—||28||.318
+|—||—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Green">{{cite web |title=Shorty Green NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/greensh01c.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref>
+|-
+|style="text-align:center;"|—
+|Tommy Gorman
+|1928–1929
+|44||19||13||12|| style="text-align:center;"|—||50||.568
+|2||0||1||1
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Gorman" />
+|-
+|style="text-align:center;"|4
+|[[Lionel Conacher]]
+|1929–1930
+|44||14||25||5|| style="text-align:center;"|—||33||.375
+|—||—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Conacher">{{cite web |title=Lionel Conacher NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/conacli01c.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref>
+|-
+|style="text-align:center;"|5
+|[[Eddie Gerard]]
+|1930–1932
+|92||34||40||18|| style="text-align:center;"|—||86||.467
+|—||—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Gerard">{{cite web |title=Eddie Gerard NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/gerared01c.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref>
+|-
+|style="text-align:center;"|6
+|[[Bullet Joe Simpson]]
+|1932–1935
+|144||42||72||30|| style="text-align:center;"|—||114||.396
+|—||—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Simpson">{{cite web |title=Joe Simpson NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/simpsjo01c.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref>
+|-
+|style="text-align:center;"|7
+|[[Rosie Helmer]]
+|1935–1936
+|48||16||28||7|| style="text-align:center;"|—||39||.406
+|5||2||3||0
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Helmer">{{cite web |title=Rosie Helmer NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/helmero99c.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref>
+|-
+|style="text-align:center;"|8
+|[[Red Dutton]]
+|1936–1940
+|192||66||97||29|| style="text-align:center;"|—||161||.419
+|11||4||7||0
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Dutton">{{cite web |title=Red Dutton NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/duttore01c.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref>
+|-
+|style="text-align:center;"|9
+|[[Art Chapman (ice hockey)|Art Chapman]]
+|1940–1942
+|96||24||58||14|| style="text-align:center;"|—||62||.323
+|—||—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Chapman">{{cite web |title=Art Chapman NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/chapmar01c.html |website=Hockey-Reference.com |accessdate=December 23, 2019}}</ref>
+|}
+
+==Notes==
+<!-- This section is for footnotes and footnotes only, no references. Place the ref template behind the persons name. To use footnotes, use the templates here: http://en.wikipedia.org/wiki/Wikipedia:Footnote3#How to use-->
+#{{note|Win–loss percentage}} The win–loss percentage is calculated using the formula: <math>\frac{Wins+\frac{1}{2}Ties}{Games}</math>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.hockey-reference.com/teams/NYA/coaches.html New York Americans coaches] at Hockey-Reference.com
+
+{{New York Americans}}
+{{NHLHeadCoach}}
+
+{{Portal bar|Ice hockey|New York City}}
+
+{{DEFAULTSORT:New York Americans head coaches}}
+[[Category:New York Americans coaches| ]]
+[[Category:National Hockey League coaches by team]]
+[[Category:Lists of ice hockey coaches]]

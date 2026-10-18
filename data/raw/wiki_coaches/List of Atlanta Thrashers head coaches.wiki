@@ -1,0 +1,179 @@
+{{Short description|none}}
+{{Use mdy dates|date=May 2025}}
+{{Use American English|date=November 2025}}
+[[File:PhilipsArenafrom303.jpg|thumb|The Thrashers played their home games at the [[State Farm Arena|Philips Arena]] since their inaugural season.]]
+The [[Atlanta Thrashers]] were an American professional [[ice hockey]] team based in [[Atlanta]], [[Georgia (U.S. state)|Georgia]]. They played in the [[Southeast Division (NHL)|Southeast Division]] of the [[Eastern Conference (NHL)|Eastern Conference]] in the [[National Hockey League]] (NHL) for its entire history. They moved to [[Winnipeg]], Manitoba in 2011 and became the 2nd Incarnation of the [[Winnipeg Jets]].<ref>{{cite web|url=http://www.nhl.com/ice/teams.htm|archive-url=https://web.archive.org/web/20090311030113/http://www.nhl.com/ice/teams.htm|url-status=dead|archive-date=March 11, 2009|title=Teams|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-28}}</ref> The team joined the NHL in 1999 as an [[expansion team]]. The Thrashers played their home games at the [[Philips Arena]] since their inaugural season.<ref>{{cite web|url=http://thrashers.nhl.com/team/app/?service=page&page=NHLPage&id=14045|title=Thrashers Franchise Timeline|publisher=Lincoln Hockey and the National Hockey League|accessdate=2008-12-28|url-status=dead|archiveurl=https://web.archive.org/web/20100324145811/http://thrashers.nhl.com/team/app/?service=page|archivedate=2010-03-24}}</ref> The Thrashers were owned by [[Atlanta Spirit, LLC]], and [[Rick Dudley]] was their [[general manager]].<ref>{{cite web|url=http://thrashers.nhl.com/team/app/?service=page&page=NHLPage&id=13838|title=Front Office / Staff Listing|publisher=Lincoln Hockey and the National Hockey League|accessdate=2008-12-28|url-status=dead|archiveurl=https://web.archive.org/web/20081218193859/http://thrashers.nhl.com/team/app/?service=page&page=NHLPage&id=13838|archivedate=2008-12-18}}</ref>
+
+There were five Thrashers [[head coach]]es during their existence. The team's first head coach was [[Curt Fraser]], who coached for three seasons. [[Bob Hartley]] is the franchise's all-time leader for the most regular-season games coached (291), the most regular-season game wins (136), the most regular-season [[Point (ice hockey)|points]] (309), and the only Thrashers head coach to coach any post-season games (4). All of the Thrashers head coaches except for Hartley have spent their entire NHL head coaching careers with the Thrashers. [[John Anderson (ice hockey, born 1957)|John Anderson]] was the head coach of the Thrashers from 2008 to 2010.<ref>{{cite web|url=https://www.hockey-reference.com/teams/ATL/coaches.html|title=Atlanta Thrashers Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=2008-12-28}}</ref> [[Craig Ramsay]] was the last head coach of the Thrashers.<ref>[https://web.archive.org/web/20120313195521/http://www.philipsarena.com/Resources/GeneralInfo/Thrashers_Update.htm?id=532663 nhl.com] {{Webarchive|url=https://web.archive.org/web/20200524183113/http://http//thrashers.nhl.com/club/news.htm?id=532663%2F |date=May 24, 2020 }} in English</ref>
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''T'''
+|Ties = 1 point
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point{{ref label|Note2|b|b}}
+|-
+|'''PTS'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|style="background-color:#ddffdd"|*
+| Spent entire NHL head coaching career with the Thrashers
+|-
+|}
+
+==Coaches==
+[[File:20140927-CraigRamsay2.jpg|thumb|upright|[[Craig Ramsay]], pictured in 2014, was the last head coach of the Thrashers]]
+{| class="wikitable"
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term{{ref label|Note3|c|c}}
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+! rowspan="2" | Achievements
+! rowspan="2" | Reference
+|-
+! GC
+! W
+! L
+! T/OT
+! PTS
+! Win%
+! GC
+! W
+! L
+! Win%
+|-
+|-
+|align=center| 1
+|style="background-color:#ddffdd"| [[Curt Fraser]]*
+| [[1999–2000 NHL season|1999]]–[[2002–03 NHL season|2002]]
+|279
+|64
+|169
+|46
+|174
+|.312
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/frasecu01c.html|title=Curt Fraser Coaching Record|accessdate=2008-12-28|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| 2
+|style="background-color:#ddffdd"| [[Don Waddell]]*
+| [[2002–03 NHL season|2002–2003]]
+|10
+|4
+|5
+|1
+|9
+|.450
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="waddell">{{cite web |url=https://www.hockey-reference.com/coaches/waddedo01c.html|title=Don Waddell Coaching Record|accessdate=2008-12-28|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| 3
+| [[Bob Hartley]]
+| [[2002–03 NHL season|2003]]–[[2007–08 NHL season|2007]]
+|291
+|136
+|118
+|37
+|309
+|.531
+|4
+|0
+|4
+|.000
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/hartlbo99c.html|title=Bob Hartley Coaching Record|accessdate=2008-12-28|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| —
+|style="background-color:#ddffdd"| Don Waddell*
+| [[2007–08 NHL season|2007–2008]]
+|76
+|34
+|34
+|8
+|76
+|.500
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="waddell"/>
+|-
+|align=center| 4
+|style="background-color:#ddffdd"| [[John Anderson (ice hockey, born 1957)|John Anderson]]*
+| [[2008–09 NHL season|2008]]–[[2009-10 NHL Season|2010]]
+|164
+|70
+|75
+|19
+|159
+|.482
+|—
+|—
+|—
+|—
+| 
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/anderjo01c.html|title=John Anderson Coaching Record|accessdate=2008-12-28|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| 5
+|style="background-color:"| [[Craig Ramsay]]
+| [[2010–11 NHL season|2010–2011]]
+|82
+|34
+|36
+|12
+|80
+|.488
+|—
+|—
+|—
+|—
+| 
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/ramsacr01c.html|title=Craig Ramsay Coaching Record|accessdate=2010-07-01|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|}
+<!-- DO NOT UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE CURRENT SEASON -->
+
+==Notes==
+*{{note label|Note1|a|a}} A running total of the number of coaches of the Thrashers. Thus, any coach who has two or more separate terms as head coach is only counted once.
+*{{note label|Note2|b|b}} Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|title=Official Rules|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-28|format=PDF|url-status=dead|archiveurl=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|archivedate=2008-05-11}}</ref>
+*{{note label|Note3|c|c}}Each year is linked to an article about that particular NHL season.
+
+==References==
+;General
+*{{cite web|url=https://www.hockey-reference.com/teams/ATL/coaches.html|title=Atlanta Thrashers Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=2008-12-28}}
+;Specific
+{{reflist}}
+
+{{Atlanta Thrashers}}
+{{NHLHeadCoach}}
+
+[[Category:Atlanta Thrashers coaches| ]]
+[[Category:National Hockey League coaches by team|Atlanta Thrashers head coaches]]
+[[Category:Lists of ice hockey coaches|Atlanta Thrashers head coaches]]
+[[Category:Atlanta Thrashers lists|head coaches]]

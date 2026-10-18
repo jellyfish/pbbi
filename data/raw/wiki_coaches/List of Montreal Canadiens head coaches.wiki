@@ -1,0 +1,703 @@
+{{Short description|None}}
+[[File:Scottybowman-2006awards.jpg|thumb|right|Hall of Famer Scotty Bowman won five Stanley Cup championships while coaching the Canadiens.]]
+Officially known as ''le Club de hockey Canadien'',<ref>{{cite web|url=http://canadiens.nhl.com/team/app/?service=page&page=NHLPage&id=16903 |title=Privacy Policy |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |access-date=2008-12-21 |url-status=dead |archive-url=https://web.archive.org/web/20081216164421/http://canadiens.nhl.com/team/app/?service=page&page=NHLPage&id=16903 |archive-date=2008-12-16 }}</ref> the [[Montreal Canadiens]] ({{langx|fr|Les Canadiens de Montréal}}) are a Canadian professional [[ice hockey]] team based in [[Montreal]], [[Quebec]]. They play in the [[Atlantic Division (NHL)|Atlantic Division]] of the [[Eastern Conference (NHL)|Eastern Conference]] in the [[National Hockey League]] (NHL). In 1909, the Canadiens were founded as a charter member of the [[National Hockey Association]] (NHA). In 1917, the franchise joined the NHL, and is one of the [[Original Six]] teams.<ref>{{cite magazine|url=http://sportsillustrated.cnn.com/2008/writers/sarah_kwak/10/08/original.six/index.html |title=Original Six in the spotlight |author=Sarah Kwak |publisher=Time Inc |magazine=[[Sports Illustrated]] |date=2008-10-09 |access-date=2008-12-21 |url-status=dead |archive-url=https://web.archive.org/web/20090123054444/http://sportsillustrated.cnn.com/2008/writers/sarah_kwak/10/08/original.six/index.html |archive-date=2009-01-23 }}</ref> In their 100-year history, the Canadiens have won 24&nbsp;[[Stanley Cup]] [[List of Stanley Cup champions|championships]], and are the last Canadian team to have won the Stanley Cup, having done so in 1993.<ref name="cup"/> Having played in the [[Jubilee Arena]] (1909–1910,1918–1919), the [[Montreal Arena]] (1911–1918), the [[Mount Royal Arena]] (1919–1926), and the [[Montreal Forum]] (1926–1996), the Canadiens have played their home games at the [[Bell Centre]], formerly known as the Molson Centre, since 1996.<ref>{{cite book |title=The Montreal Canadiens |last=Mouton |first=Claude |publisher=Key Porter Books |year=1987|isbn=1-55013-051-X}}</ref><ref>{{cite web|url=http://www.centrebell.ca/en/our_history |title=Our History |publisher=[[Bell Centre|Centre Bell]] |access-date=2008-12-21 |url-status=dead |archive-url=https://web.archive.org/web/20081218103416/http://centrebell.ca/en/our_history |archive-date=2008-12-18 }}</ref> The Canadiens are owned by the [[Molson Family]]. The general manager position is filled by [[Kent Hughes (ice hockey)|Kent Hughes]] while their coaches consist of [[Martin St. Louis]] as their head coach, [[Trevor Letowski]] and [[Stephane Robidas]] as assistant coaches, and Marco Marciano as the interim goaltender coach<ref>{{Cite news |date=2026-01-28 |title=Canadiens fire goaltending coach Eric Raymond |url=https://montrealgazette.com/sports/hockey/montreal-canadiens/canadiens-fire-goaltending-coach-eric-raymond |access-date=2026-01-28 |work=Montreal Gazette}}</ref>. The current captain of the Canadiens is [[Nick Suzuki]].
+
+There have been 28&nbsp;[[head coach]]es for the Canadiens franchise in the NHL. The team's first head coach in the NHL was [[Newsy Lalonde]], who coached the Canadiens for eight NHL seasons in two stints. Although [[Dick Irvin]] coached the team for 15 seasons, [[Toe Blake]], who coached two fewer seasons, is the franchise's all-time leader for the most regular-season games coached (914), the most regular-season games won (500), the most regular-season [[Point (ice hockey)|points]] (1159), the most playoff games coached (119), and the most playoff games won (82). Blake has also won the most Stanley Cup championships with eight; [[Scotty Bowman]] has won five, Irvin has won three, [[Cecil Hart]] has won two, and [[Léo Dandurand|Leo Dandurand]], [[Claude Ruel]], [[Al MacNeil]], [[Jean Perron]], and [[Jacques Demers]] have won one each. Lalonde won a Stanley Cup championship in 1915–16 while in the NHA.<ref name="cup"/> Bowman and [[Pat Burns]] have each been awarded the [[Jack Adams Award]], in 1976–77 and 1988–89 respectively. Nine head coaches have spent their entire NHL head coaching careers with the Canadiens. Bowman and Dandurand have been elected to the [[Hockey Hall of Fame]] as [[List of members of the Hockey Hall of Fame#Builders|builders]]. Dandurand is the only coach to have spent his entire NHL head coaching career with the Canadiens and to have been elected to the Hockey Hall of Fame as a builder.
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = Two points
+|-
+|'''L'''
+|Losses = No points
+|-
+|'''T'''
+|Ties = One point
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = One point{{ref label|Note2|b|b}}
+|-
+|'''PTS'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''Win%'''
+|[[Winning percentage]]{{ref label|Note3|c|c}}
+|-
+|style="background-color:#ddffdd"|*
+| Spent entire NHL head coaching career with the Canadiens
+|-
+|style="background-color:#FFE6BD"|†
+| Elected to the [[Hockey Hall of Fame]] as a [[List of members of the Hockey Hall of Fame#Builders|builder]]
+|-
+|style="background-color:#e3e3e3"|‡
+| Spent entire NHL head coaching career with the Canadiens<br />and have been elected to the Hockey Hall of Fame as a builder
+|-
+|}
+
+==Coaches==
+[[File:E Lalonde.jpg|thumb|upright|The Canadiens' first head coach in the NHL, Newsy Lalonde, coached the Canadiens for eight seasons in two stints.]]
+[[File:Toe Blake.jpg|thumb|upright|Toe Blake won eight Stanley Cup championships in 13 years coaching the Canadiens.]]
+[[File:081128 Claude Julien.jpg|thumb|upright|Claude Julien coached the Canadiens for three seasons from 2003 to 2006, before coming back from 2017 to 2021.]]
+[[File:GuyCarbonneauSept2007.JPG|thumb|upright|Guy Carbonneau was the head coach of the Canadiens from 2006 to 2009.]]
+''Note: Statistics are correct through the end of the [[2023–24 NHL season|2023–24]] season. This list only includes [[National Hockey League|NHL]] coaches, and not [[National Hockey Association|NHA]] seasons.''
+{| class="wikitable"
+! rowspan=2|#
+! width=126 rowspan=2|Name
+! width=78 rowspan=2|Term{{ref label|Note4|d|d}}
+! colspan=6|Regular season
+! colspan=5|Playoffs
+! rowspan=2|Achievements
+! rowspan=2|Reference
+|-
+! GC
+! W
+! L
+! T/OT
+! PTS
+! Win%
+! GC
+! W
+! L
+! T
+! Win%
+|-
+|-
+|align=center|1
+|[[Newsy Lalonde]]{{ref label|Note5|e|e 1}}
+|[[1917–18 NHL season|1917]]–[[1921–22 NHL season|1922]]
+|95
+|51
+|44
+|—
+|102
+|.537
+|7
+|5
+|2
+|0
+|.714
+|1 [[O'Brien Trophy (ice hockey)|O'Brien Trophy]] championship (1918–19)<ref name="obrien">{{cite web|url=http://www.legendsofhockey.net/html/silver_splashobrien.htm |title=O'Brien Trophy History |publisher=Hockey Hall of Fame and Museum |access-date=2008-12-21 |url-status=dead |archive-url=https://web.archive.org/web/20070930051658/http://www.legendsofhockey.net/html/silver_splashobrien.htm |archive-date=2007-09-30 }}</ref>
+|align=center|<ref name="lalonde">{{cite web|url=https://www.hockey-reference.com/coaches/lalonne01c.html |title=Newsy Lalonde Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080905014838/http://www.hockey-reference.com/coaches/lalonne01c.html |archive-date=2008-09-05 }}</ref>
+|-
+|align=center|2
+|style="background-color:#e3e3e3"|[[Léo Dandurand|Leo Dandurand]]‡
+|[[1921–22 NHL season|1922]]–[[1925–26 NHL season|1926]]
+|131
+|64
+|63
+|6
+|134
+|.511
+|6
+|5
+|1
+|0
+|.833
+|1 [[Stanley Cup]] [[List of Stanley Cup champions|championship]] (1923–24)<ref name="cup">{{cite web|url=http://www.nhl.com/cup/champs.html |title=Stanley Cup Champions and Finalists |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |access-date=2008-12-21 |url-status=dead |archive-url=https://web.archive.org/web/20090629213230/http://www.nhl.com/cup/champs.html |archive-date=2009-06-29 }}</ref><br />2 [[Prince of Wales Trophy]] championships (1923–24, 1924–25)<ref name="pow">{{cite web|url=http://www.nhl.com/trophies/wales.html |archive-url=https://web.archive.org/web/20060423155208/http://www.nhl.com/trophies/wales.html |url-status=dead |archive-date=2006-04-23 |title=Prince of Wales Trophy |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |access-date=2008-12-21 }}</ref>
+|align=center|<ref name="leo">{{cite web|url=https://www.hockey-reference.com/coaches/dandule99c.html |title=Leo Dandurand Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080807171126/http://www.hockey-reference.com/coaches/dandule99c.html |archive-date=2008-08-07 }}</ref>
+|-
+|align=center|3
+|style="background-color:#ddffdd"|[[Cecil Hart]]*
+|[[1926–27 NHL season|1926]]–[[1931–32 NHL season|1932]]
+|268
+|148
+|72
+|48
+|344
+|.642
+|29
+|13
+|12
+|4
+|.517
+|2 Stanley Cup championships (1929–30, 1930–31)<ref name="cup"/>
+|align=center|<ref name="hart">{{cite web|url=https://www.hockey-reference.com/coaches/hartce99c.html |title=Cecil Hart Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20111020230517/http://www.hockey-reference.com/coaches/hartce99c.html |archive-date=2011-10-20 }}</ref>
+|-
+|align=center|—
+|Newsy Lalonde
+|[[1932–33 NHL season|1932]]–[[1934–35 NHL season|1934]]
+|112
+|45
+|53
+|14
+|104
+|.464
+|4
+|0
+|2
+|2
+|.000
+|
+|align=center|<ref name="lalonde"/>
+|-
+|align=center|—
+|style="background-color:#e3e3e3"|Leo Dandurand‡
+|[[1934–35 NHL season|1934–1935]]
+|32
+|14
+|15
+|3
+|31
+|.484
+|2
+|0
+|2
+|0
+|.000
+|
+|align=center|<ref name="leo"/>
+|-
+|align=center|4
+|style="background-color:#ddffdd"|[[Sylvio Mantha]]*{{ref label|Note5|e|3}}
+|[[1935–36 NHL season|1935–1936]]
+|48
+|11
+|26
+|11
+|33
+|.344
+|—
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/manthsy01c.html |title=Sylvio Mantha Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20111020233052/http://www.hockey-reference.com/coaches/manthsy01c.html |archive-date=2011-10-20 }}</ref>
+|-
+|align=center|—
+|style="background-color:#ddffdd"|Cecil Hart*
+|[[1936–37 NHL season|1936]]–[[1938–39 NHL season|1939]]
+|126
+|48
+|53
+|25
+|121
+|.480
+|8
+|3
+|5
+|—
+|.375
+|
+|align=center|<ref name="hart"/>
+|-
+|align=center|5
+|style="background-color:#ddffdd"|[[Jules Dugal]]*
+|[[1938–39 NHL season|1939]]
+|18
+|9
+|6
+|3
+|21
+|.583
+|3
+|1
+|2
+|—
+|.333
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/dugalju99c.html |title=Jules Dugal Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080905115404/http://www.hockey-reference.com/coaches/dugalju99c.html |archive-date=2008-09-05 }}</ref>
+|-
+|align=center|6
+|[[Babe Siebert]]{{ref label|Note5|e|2}}{{ref label|Note6|f|f}}
+|[[1939–40 NHL season|1939–1940]]
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="siebert">{{cite web |url=http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMember.jsp?mem=p196403&type=Player&page=bio&list=ByName#photo |title=Honoured Players - Siebert, Babe - Biography |access-date=2008-12-26 |publisher=[[Hockey Hall of Fame]] |url-status=dead |archive-url=https://web.archive.org/web/20071114004653/http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMember.jsp?mem=P196403&type=Player&page=bio&list=ByName#photo |archive-date=2007-11-14 }}</ref>
+|-
+|align=center|7
+|[[Alfred Lépine|Alfred Lepine]]
+|[[1939–40 NHL season|1939–1940]]
+|48
+|10
+|33
+|5
+|25
+|.260
+|—
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/lepinpi01c.html |title=Pit Lepine Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20111020231207/http://www.hockey-reference.com/coaches/lepinpi01c.html |archive-date=2011-10-20 }}</ref>
+|-
+|align=center|8
+|[[Dick Irvin]]{{ref label|Note5|e|4}}
+|[[1940–41 NHL season|1940]]–[[1954–55 NHL season|1955]]
+|896
+|431
+|313
+|152
+|1014
+|.566
+|115
+|62
+|53
+|—
+|.539
+|3 Stanley Cup championships (1943–44, 1945–46, 1952–53)<ref name="cup"/>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/irvindi01c.html |title=Dick Irvin Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20110519110703/http://www.hockey-reference.com/coaches/irvindi01c.html |archive-date=2011-05-19 }}</ref>
+|-
+|align=center|9
+|style="background-color:#ddffdd"|[[Toe Blake]]*{{ref label|Note5|e|5}}
+|[[1955–56 NHL season|1955]]–[[1967–68 NHL season|1968]]
+|914
+|500
+|255
+|159
+|1159
+|.634
+|119
+|82
+|37
+|—
+|.689
+|8 Stanley Cup championships (1955–56, 1956–57, 1957–58, 1958–59, 1959–60, 1964–65, 1965–66, 1967–68)<ref name="cup"/>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/blaketo01c.html |title=Toe Blake Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080830094715/http://www.hockey-reference.com/coaches/blaketo01c.html |archive-date=2008-08-30 }}</ref>
+|-
+|align=center|10
+|style="background-color:#ddffdd"|[[Claude Ruel]]*
+|[[1968–69 NHL season|1968]]–[[1970–71 NHL season|1970]]
+|175
+|95
+|49
+|31
+|221
+|.631
+|14
+|12
+|2
+|—
+|.857
+|1 Stanley Cup championship (1968–69)<ref name="cup"/>
+|align=center|<ref name="ruel">{{cite web|url=https://www.hockey-reference.com/coaches/ruelcl99c.html |title=Claude Ruel Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20111020231742/http://www.hockey-reference.com/coaches/ruelcl99c.html |archive-date=2011-10-20 }}</ref>
+|-
+|align=center|11
+|[[Al MacNeil]]
+|[[1970–71 NHL season|1970–1971]]
+|55
+|31
+|15
+|9
+|71
+|.645
+|20
+|12
+|8
+|—
+|.600
+|1 Stanley Cup championship (1970–71)<ref name="cup"/>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/macneal01c.html |title=Al MacNeil Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080905002433/http://www.hockey-reference.com/coaches/macneal01c.html |archive-date=2008-09-05 }}</ref>
+|-
+|align=center|12
+|style="background-color:#FFE6BD"|[[Scotty Bowman]]†
+|[[1971–72 NHL season|1971]]–[[1978–79 NHL season|1979]]
+|634
+|419
+|110
+|105
+|943
+|.744
+|98
+|70
+|28
+|—
+|.714
+|5 Stanley Cup championships (1972–73, 1975–76, 1976–77, 1977–78, 1978–79)<ref name="cup"/><br />1976–77 [[Jack Adams Award]] winner<ref name="adams">{{cite web|url=http://www.nhl.com/trophies/adams.html |archive-url=https://web.archive.org/web/20080706102444/http://www.nhl.com/trophies/adams.html |url-status=dead |archive-date=2008-07-06 |title=Jack Adams Award |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |access-date=2008-12-21 }}</ref>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/bowmasc99c.html |title=Scotty Bowman Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080724101604/http://www.hockey-reference.com/coaches/bowmasc99c.html |archive-date=2008-07-24 }}</ref>
+|-
+|align=center|13
+|[[Bernie Geoffrion]]{{ref label|Note5|e|6}}
+|[[1979–80 NHL season|1979]]
+|30
+|15
+|9
+|6
+|36
+|.600
+|—
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/geoffbe01c.html |title=Bernie Geoffrion Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20110519112722/http://www.hockey-reference.com/coaches/geoffbe01c.html |archive-date=2011-05-19 }}</ref>
+|-
+|align=center|—
+|style="background-color:#ddffdd"|Claude Ruel*
+|[[1979–80 NHL season|1979]]–[[1980–81 NHL season|1981]]
+|130
+|77
+|33
+|20
+|174
+|.669
+|13
+|6
+|7
+|—
+|.462
+|
+|align=center|<ref name="ruel"/>
+|-
+|align=center|14
+|[[Bob Berry (ice hockey)|Bob Berry]]
+|[[1981–82 NHL season|1981]]–[[1983–84 NHL season|1984]]
+|223
+|116
+|71
+|36
+|268
+|.601
+|8
+|2
+|6
+|—
+|.250
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/berrybo01c.html |title=Bob Berry Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080720065756/http://www.hockey-reference.com/coaches/berrybo01c.html |archive-date=2008-07-20 }}</ref>
+|-
+|align=center|15
+|[[Jacques Lemaire]]{{ref label|Note5|e|7}}
+|[[1983–84 NHL season|1984]]–[[1984–85 NHL season|1985]]
+|97
+|48
+|37
+|12
+|108
+|.557
+|27
+|15
+|12
+|—
+|.556
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/lemaija01c.html |title=Jacques Lemaire Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080830062247/http://www.hockey-reference.com/coaches/lemaija01c.html |archive-date=2008-08-30 }}</ref>
+|-
+|align=center|16
+|[[Jean Perron]]
+|[[1985–86 NHL season|1985]]–[[1987–88 NHL season|1988]]
+|240
+|126
+|84
+|30
+|282
+|.588
+|48
+|30
+|18
+|—
+|.625
+|1 Stanley Cup championship (1985–86)<ref name="cup"/>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/perroje99c.html |title=Jean Perron Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080904224355/http://www.hockey-reference.com/coaches/perroje99c.html |archive-date=2008-09-04 }}</ref>
+|-
+|align=center|17
+|style="background-color:#FFE6BD"|[[Pat Burns]]†
+|[[1988–89 NHL season|1988]]–[[1991–92 NHL season|1992]]
+|320
+|174
+|104
+|42
+|390
+|.609
+|56
+|30
+|26
+|—
+|.536
+|1988–89 Jack Adams Award winner<ref name="adams"/>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/burnspa99c.html |title=Pat Burns Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080904224029/http://www.hockey-reference.com/coaches/burnspa99c.html |archive-date=2008-09-04 }}</ref>
+|-
+|align=center|18
+|[[Jacques Demers]]
+|[[1992–93 NHL season|1992]]–[[1995–96 NHL season|1995]]
+|220
+|107
+|86
+|27
+|241
+|.548
+|27
+|19
+|8
+|—
+|.704
+|1 Stanley Cup championship (1992–93)<ref name="cup"/>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/demerja99c.html |title=Jacques Demers Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20081006115813/http://www.hockey-reference.com/coaches/demerja99c.html |archive-date=2008-10-06 }}</ref>
+|-
+|align=center|—
+|style="background-color:#ddffdd"|[[Jacques Laperrière|Jacques Laperriere]]*{{ref label|Note5|e|8}}
+|[[1995–96 NHL season|1995]]
+|1
+|0
+|1
+|0
+|0
+|.000
+|—
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/laperja01c.html |title=Jacques Laperriere Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20081011093816/http://www.hockey-reference.com/coaches/laperja01c.html |archive-date=2008-10-11 }}</ref>
+|-
+|align=center|19
+|style="background-color:#ddffdd"|[[Mario Tremblay]]*
+|[[1995–96 NHL season|1995]]–[[1996–97 NHL season|1997]]
+|159
+|71
+|63
+|25
+|167
+|.525
+|11
+|3
+|8
+|—
+|.273
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/trembma02c.html |title=Mario Tremblay Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20110903123232/http://www.hockey-reference.com/coaches/trembma02c.html |archive-date=2011-09-03 }}</ref>
+|-
+|align=center|20
+|[[Alain Vigneault]]
+|[[1997–98 NHL season|1997]]–[[2000–01 NHL season|2000]]
+|266
+|109
+|118
+|39
+|257
+|.483
+|10
+|4
+|6
+|—
+|.400
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/vigneal01c.html |title=Alain Vigneault Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080827230508/http://www.hockey-reference.com/coaches/vigneal01c.html |archive-date=2008-08-27 }}</ref>
+|-
+|align=center|21
+|[[Michel Therrien]]
+|[[2000–01 NHL season|2000]]–[[2002–03 NHL season|2003]]
+|190
+|77
+|77
+|36
+|190
+|.500
+|12
+|6
+|6
+|—
+|.500
+|
+|align=center|<ref name="therrien">{{cite web|url=https://www.hockey-reference.com/coaches/therrmi99c.html |title=Michel Therrien Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080830094514/http://www.hockey-reference.com/coaches/therrmi99c.html |archive-date=2008-08-30 }}</ref>
+|-
+|align=center|22
+|[[Claude Julien (ice hockey)|Claude Julien]]
+|[[2002–03 NHL season|2003]]–[[2005–06 NHL season|2006]]
+|159
+|72
+|62
+|25
+|169
+|.531
+|11
+|4
+|7
+|—
+|.364
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/juliecl01c.html |title=Claude Julien Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080905103637/http://www.hockey-reference.com/coaches/juliecl01c.html |archive-date=2008-09-05 }}</ref>
+|-
+|align=center|—
+|[[Bob Gainey]]{{ref label|Note5|e|9}}
+|[[2005–06 NHL season|2006]]
+|41
+|23
+|15
+|3
+|49
+|.598
+|6
+|2
+|4
+|—
+|.333
+|
+|align=center|<ref name="gainey">{{cite web|url=https://www.hockey-reference.com/coaches/gainebo01c.html |title=Bob Gainey Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20111020233532/http://www.hockey-reference.com/coaches/gainebo01c.html |archive-date=2011-10-20 }}</ref>
+|-
+|align=center|23
+|style="background-color:#ddffdd"|[[Guy Carbonneau]]*
+|[[2006–07 NHL season|2006]]–[[2008–09 NHL season|2009]]
+|230
+|124
+|83
+|23
+|271
+|.589
+|12
+|5
+|7
+|—
+|.417
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/carbogu01c.html |title=Guy Carbonneau Coaching Record |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20111020223001/http://www.hockey-reference.com/coaches/carbogu01c.html |archive-date=2011-10-20 }}</ref>
+|-
+|align=center|—
+|Bob Gainey{{ref label|Note5|e|10}}
+|[[2008–09 NHL season|2009]]
+|16
+|6
+|6
+|4
+|16
+|.500
+|4
+|0
+|4
+|—
+|.000
+|
+|align=center|<ref name="gainey"/>
+|-
+|align=center|24
+|[[Jacques Martin (ice hockey)|Jacques Martin]]
+|[[2009–10 NHL season|2009]]&ndash;[[2011–12 NHL season|2011]]
+|196
+|96
+|75
+|25
+|217
+|.554
+|26
+|12
+|14
+|—
+|.462
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/martija99c.html |title=Jacques Martin Coaching Record |access-date=2009-06-01 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20080820040350/http://www.hockey-reference.com/coaches/martija99c.html |archive-date=2008-08-20 }}</ref>
+|-
+|align=center|25
+|style="background-color:#ddffdd"|[[Randy Cunneyworth]]*
+|[[2011–12 NHL season|2011&ndash;2012]]
+|50
+|18
+|23
+|9
+|45
+|.450
+|—
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/cunnera01c.html |title=Randy Cunneyworth Coaching Record |access-date=2012-12-16 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20130126054436/http://www.hockey-reference.com/coaches/cunnera01c.html |archive-date=2013-01-26 }}</ref>
+|-
+|align=center|—
+|Michel Therrien
+|[[2012–13 NHL season|2012]]–[[2016–17 NHL season|2017]]
+|352
+|194
+|121
+|37
+|425
+|.612
+|34
+|17
+|17
+|—
+|.500
+|[[2017 NHL All Star Game]] - Atlantic Division Coach
+|align=center|<ref name="therrien"/>
+|-
+|align=center|—
+|Claude Julien
+|[[2016–17 NHL season|2017]]&ndash;[[2020–21 NHL season|2021]]
+|277
+|129
+|113
+|35
+|293
+|.529
+|16
+|7
+|9
+|—
+|.416
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/juliecl01c.html |title=Youppi Coaching Record |access-date=2017-02-14 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20161113061628/http://www.hockey-reference.com/coaches/juliecl01c.html |archive-date=2016-11-13 }}</ref>
+|-
+|align=center|26
+|style="background-color:#ddffdd"|[[Dominique Ducharme (ice hockey)|Dominique Ducharme]]*
+|[[2020–21 NHL season|2021]]&ndash;[[2021–22 NHL season|2022]]
+|83
+|23
+|46
+|14
+|60
+|.277
+|19
+|13
+|6
+|—
+|.684
+|[[2021 Stanley Cup Finals|2021 Stanley Cup finalist]]
+|
+|-
+|align=center|27
+|style="background-color:#ddffdd"|[[Martin St. Louis]]*{{ref label|Note5|e|10}}
+|[[2021–22 NHL season|2022]]–present
+| 201 || 75 || 100 || 26 || 176 || {{Winning percentage|75|100|26}}
+|—
+|—
+|—
+|—
+|—
+|
+|
+|}
+
+==Notes==
+* {{note label|Note1|a|a}} A running total of the number of coaches of the Canadiens. Thus, any coach who has two or more separate terms as head coach is only counted once.
+* {{note label|Note2|b|b}} Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf |archive-url=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf |url-status=dead |archive-date=2008-05-11 |title=Official Rules |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |access-date=2008-12-21 }}</ref>
+* {{note label|Note3|c|c}} In ice hockey, the winning percentage is calculated by dividing points by maximum possible [[Point (ice hockey)|points]].
+* {{note label|Note4|d|d}} Each year is linked to an article about that particular NHL season.
+* {{note label|Note5|e|e 1}}{{note label|Note5|e|2}}{{note label|Note5|e|3}}{{note label|Note5|e|4}}{{note label|Note5|e|5}}{{note label|Note5|e|6}}{{note label|Note5|e|7}}{{note label|Note5|e|8}}{{note label|Note5|e|9}}{{note label|Note5|e|10}} [[Newsy Lalonde]], [[Babe Siebert]], [[Sylvio Mantha]], [[Dick Irvin]], [[Toe Blake]], [[Bernie Geoffrion]], [[Jacques Lemaire]], [[Jacques Laperrière|Jacques Laperriere]], [[Bob Gainey]], and [[Martin St. Louis]] have been inducted into the [[Hockey Hall of Fame]] as [[List of members of the Hockey Hall of Fame#Players|players]].<ref>{{cite web|url=https://www.hockey-reference.com/awards/hhof.html |title=Hockey Hall of Fame Inductees |access-date=2008-12-21 |publisher=Sports Reference LLC |work=Hockey-Reference.com |url-status=live |archive-url=https://web.archive.org/web/20081011093831/http://www.hockey-reference.com/awards/hhof.html |archive-date=2008-10-11 }}</ref>
+* {{note label|Note6|f|f}} [[Babe Siebert]] was named the head coach for the [[1939–40 NHL season|1939–40 season]], but died from drowning during the off-season.<ref name="siebert"/>
+
+==References==
+;General
+* {{cite web|url=https://www.hockey-reference.com/teams/MTL/coaches.html|title=Montreal Canadiens Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|access-date=2008-12-21|archive-date=2008-10-11|archive-url=https://web.archive.org/web/20081011104120/http://www.hockey-reference.com/teams/MTL/coaches.html|url-status=live}}
+;Specific
+{{Reflist|30em}}
+
+{{Montreal Canadiens}}
+{{NHLHeadCoach}}
+
+{{featured list}}
+
+[[Category:Montreal Canadiens coaches| ]]
+[[Category:National Hockey League coaches by team|Montreal Canadiens head coaches]]
+[[Category:Lists of ice hockey coaches|Montreal Canadiens head coaches]]
+[[Category:Montreal Canadiens lists|head coaches]]

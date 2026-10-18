@@ -1,0 +1,123 @@
+{{short description|none}}
+{{distinguish|List of Pittsburgh Pirates managers}}
+{{Use mdy dates|date=February 2013}}
+[[File:FrankFredricksonVicCougars.jpg|right|thumb|175px|Frank Fredrickson was the Pirates coach during the team's last season in Pittsburgh, 1929–30.]]
+This is a complete '''list of head coaches of the [[Pittsburgh Pirates (NHL)|Pittsburgh Pirates]] and [[Philadelphia Quakers (NHL)|Philadelphia Quakers]]''' in the [[National Hockey League]] (NHL). Granted a franchise by the NHL in 1925, the Pirates played in Pittsburgh from 1925 to 1930 and then moved to Philadelphia and became the Philadelphia Quakers. After their only [[1930–31 Philadelphia Quakers season|season in Philadelphia]], the franchise was cancelled due to financial problems. Both cities were awarded [[1967 NHL Expansion|expansion teams]] over a quarter of a century later (the [[Philadelphia Flyers|Flyers]] and [[Pittsburgh Penguins|Penguins]]).
+
+==Key==
+{| class="wikitable" style="font-size:90%;"
+|-
+|style="background-color:#CFECEC"|{{dagger}}
+|[[Hockey Hall of Fame]]r (HHOF)
+|-
+|'''No.'''
+|Number of coaches
+|-
+|'''G'''
+|Games coached
+|-
+|'''W'''
+|Wins
+|-
+|'''L'''
+|Losses
+|-
+|'''T'''
+|Ties
+|-
+|'''P'''
+|Points
+|-
+|'''P%'''
+|Points percentage
+|-
+|'''W%'''
+|Winning percentage
+|}
+
+==Coaches==
+[[Image:J Cooper Smeaton.jpg|right|thumb|175px|Cooper Smeaton was the head coach during the franchise's lone season in Philadelphia.]]
+{| class="wikitable" style="text-align:left"
+|- 
+!rowspan="2" |No.
+!rowspan="2" |Name
+!rowspan="2" |Seasons
+!G!!W!!L!!T!!P!!P%!!G!!W!!L!!T!!W%
+!rowspan="2" class="unsortable" |Notes
+!rowspan="2" class="unsortable" |Ref
+|- class="unsortable"
+!colspan="6" |Regular season
+!colspan="5" |Playoffs
+|-
+|1
+|[[Odie Cleghorn]]
+|[[1925–26 NHL season|1925]]–[[1928–29 NHL season|1929]]
+|168
+|62
+|86
+|20
+|144
+|.429
+|4
+|1
+|2
+|1
+|.375
+|
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/cleghod01c.html |title=Odie Cleghorn |accessdate=2011-05-03 |publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|2
+| bgcolor="#CFECEC"|[[Frank Fredrickson]]{{dagger}}
+|[[1929–30 NHL season|1929–1930]]
+|{{sort|044|44}}
+|{{sort|05|5}}
+|36
+|{{sort|03|3}}
+|{{sort|013|13}}
+|.148
+|—
+|—
+|—
+|—
+|—
+|HHOF 1958{{notetag|Frank Fredrickson was inducted as a player in 1958.<ref>{{legendsmember|Player|P195807|Frank Fredrickson}}</ref>}}
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/fredrfr01c.html |title=Frank Fredrickson |accessdate=2011-05-03 |publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|3
+| bgcolor="#CFECEC"|[[Cooper Smeaton]]{{dagger}}
+|[[1930–31 NHL season|1930–1931]]
+|44
+|4
+|36
+|4
+|12
+|.136
+|—
+|—
+|—
+|—
+|—
+|HHOF 1961{{notetag|Cooper Smeaton was inducted as an on-ice official the first year that category was created.<ref>{{cite web |url=http://www.legendsofhockey.net/LegendsOfHockey/jsp/LegendsMember.jsp?type=Official&mem=O196103&list=ByYear#photo |title=The Legends – Honoured Official – Smeaton, Cooper |accessdate=2011-04-29 |publisher=Hockey Hall of Fame|work=Legends of Hockey}}</ref>}}
+|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/smeatco99c.html |title=Cooper Smeaton |accessdate=2011-04-29 |publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|}
+
+==See also==
+*[[List of NHL head coaches]]
+
+==Notes==
+{{notefoot}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite web|url=https://www.hockey-reference.com/teams/PTP/coaches.html|title=Pittsburgh Pirates Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=January 12, 2015}}
+* {{cite web|url=https://www.hockey-reference.com/teams/PHQ/coaches.html|title=Philadelphia Quakers Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=January 12, 2015}}
+
+{{Pittsburgh Pirates - Philadelphia Quakers}}
+{{NHLHeadCoach}}
+
+[[Category:Philadelphia Quakers (NHL) coaches| ]]
+[[Category:Pittsburgh Pirates (NHL) coaches| ]]
+[[Category:National Hockey League coaches by team|Pittsburgh Pirates head coaches]]
+[[Category:Lists of ice hockey coaches|Pittsburgh Pirates head coaches]]

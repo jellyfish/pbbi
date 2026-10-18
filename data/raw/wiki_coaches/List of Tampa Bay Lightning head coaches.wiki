@@ -1,0 +1,222 @@
+{{Short description|None}}
+{{Use mdy dates|date=May 2025}}
+[[File:St Pete Times Forum At Sunset.jpg|thumb|300px|right|The Lightning have played their home games at Benchmark International Arena since 1996.]]
+The [[Tampa Bay Lightning]] are an American professional [[ice hockey]] team based in [[Tampa, Florida]]. They play in the [[Atlantic Division (NHL)|Atlantic Division]] of the [[Eastern Conference (NHL)|Eastern Conference]] in the [[National Hockey League]] (NHL). Often referred to as the Bolts,<ref>{{cite web|url=http://lightning.nhl.com/team/app/?service=page&page=NewsPage&articleid=394050 |title=Lightning Unveil Third Jerseys vs. Devils |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |date=2008-11-23 |accessdate=2008-12-21 |url-status=dead |archiveurl=https://web.archive.org/web/20081227211443/http://lightning.nhl.com/team/app/?service=page&page=NewsPage&articleid=394050 |archivedate=2008-12-27 }}</ref> the team joined the NHL in 1992 as an [[expansion team]], and have won the [[Stanley Cup]] [[List of Stanley Cup champions|championship]] in 2004, 2020 and 2021.<ref name="cup"/> Having first played in the [[Expo Hall]],<ref>{{cite web|url=http://lightning.nhl.com/team/app/?service=page&page=NHLPage&id=7084|title=1992-93 The Fun Begins|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-21|url-status=dead|archiveurl=https://web.archive.org/web/20081217182004/http://lightning.nhl.com/team/app/?service=page&page=NHLPage&id=7084|archivedate=2008-12-17}}</ref> and later in the ThunderDome (now known as [[Tropicana Field]]),<ref>{{cite web|url=http://tampabay.rays.mlb.com/tb/ballpark/ballpark_history.jsp|archive-url=https://web.archive.org/web/20071111181648/http://tampabay.rays.mlb.com/tb/ballpark/ballpark_history.jsp|url-status=dead|archive-date=November 11, 2007|title=Tropicana Field History|publisher=MLB Advanced Media, L.P|work=[[MLB.com]]|accessdate= 2008-12-21}}</ref> the Lightning have played their home games at the Ice Palace, currently titled [[Benchmark International Arena]], since 1996. The Lightning are owned by [[Jeffrey Vinik]], [[Julien BriseBois]] is their [[general manager]], and [[Victor Hedman]] is the team [[Captain (ice hockey)|captain]].
+
+There have been nine&nbsp;[[head coach]]es for the Lightning franchise. The team's first head coach was [[Terry Crisp]], who coached for five seasons. [[John Tortorella]], the only [[United States|American]] to head coach the team, was the first Lightning coach to have won the [[Prince of Wales Trophy]],<ref name="powt"/> the [[Stanley Cup]],<ref name="cup"/> and to have been awarded the [[Jack Adams Award]], all of which happened in the [[2003–04 NHL season|2003–04 season]]. [[Rick Paterson]], [[Steve Ludzik]] and [[Jon Cooper (ice hockey)|Jon Cooper]] are the only ones who have spent their entire NHL head coaching careers with the Lightning.
+
+[[Jon Cooper (ice hockey)|Jon Cooper]] is the team's current head coach, having been named to the position on March 25, 2013.<ref>{{cite web |url=http://lightning.nhl.com/club/news.htm?id=662090 |archive-url=https://web.archive.org/web/20130329101527/http://lightning.nhl.com/club/news.htm?id=662090 |url-status=dead |archive-date=March 29, 2013 |title=Lightning name Jon Cooper as head coach |date=March 25, 2013 |work=Lightning.nhl.com |accessdate=March 25, 2013}}</ref> Cooper is the only head coach of the Lightning to win the [[Prince of Wales Trophy]] four times.<ref>{{cite web|url=http://www.nhl.com/ice/page.htm?id=24967|archive-url=https://web.archive.org/web/20110901190807/http://www.nhl.com/ice/page.htm?id=24967|url-status=dead|archive-date=September 1, 2011|title=Prince of Wales Trophy|publisher=The National Hockey League|work=[[National Hockey League|NHL]]|accessdate=2022-08-02}}</ref> Under Cooper, the franchise won its second [[Stanley Cup]] championship in [[2020 Stanley Cup Finals|2020]] and third championship in [[2021 Stanley Cup Finals|2021]]. Cooper is the franchise's all-time leader for the most regular season wins (572), playoff games coached (155), and the most playoff-games won (888).
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''T'''
+|Ties = 1 point
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point{{ref label|Note2|b|b}}
+|-
+|'''PTS'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|style="background-color:#ddffdd"|*
+| Spent entire NHL head coaching career with the Lightning
+|-
+|}
+
+==Coaches==
+[[File:Jonathan D. Cooper 2022 (cropped).jpg|thumb|right|[[Jon Cooper (ice hockey)|Jon Cooper]] has been head coach since 2013]]
+''Note: Statistics are correct through the end of the [[2025–26 NHL season]].''
+{| class="wikitable"
+|+ Head coaches of the Tampa Bay Lightning
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term{{ref label|Note3|c|c}}
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+! rowspan="2" | Achievements
+! rowspan="2" | Reference
+|-
+! scope="col" |GC
+! scope="col" |W
+! scope="col" |L
+! scope="col" |T/OT
+! scope="col" |PTS
+! scope="col" |PTS%
+! scope="col" |GC
+! scope="col" |W
+! scope="col" |L
+! scope="col" |Win%
+|-
+|-
+|align=center| '''1'''
+| [[Terry Crisp]]
+| [[1992–93 NHL season|1992]]–[[1997–98 NHL season|1998]]
+|391
+|142
+|204
+|45
+|329
+|.421
+|6
+|2
+|4
+|.333
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/crispte01c.html|title=Terry Crisp Coaching Record|accessdate=2008-12-21|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| '''2'''
+|style="background-color:#ddffdd"|[[Rick Paterson]]*
+|[[1997–98 NHL season|1998]] 
+|6
+|0
+|6
+|0
+|0
+|.000
+|—
+|—
+|—
+|— 
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/paterri01c.html|title=Rick Paterson Coaching Record|accessdate=2017-07-18|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| '''3'''
+| [[Jacques Demers]]
+| [[1997–98 NHL season|1998]]–[[1998–99 NHL season|1999]]
+|147
+|34
+|96
+|17
+|85
+|.289
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/demerja99c.html|title=Jacques Demers Coaching Record|accessdate=2008-12-21|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| '''4'''
+|style="background-color:#ddffdd"| [[Steve Ludzik]]*
+| [[1999–2000 NHL season|1999]]–[[2000–01 NHL season|2001]]
+|121
+|31
+|67
+|23
+|85
+|.351
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/ludzist01c.html|title=Steve Ludzik Coaching Record|accessdate=2008-12-21|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| '''5'''
+| [[John Tortorella]]
+| [[2001–02 NHL season|2001]]–[[2007–08 NHL season|2008]]
+|535
+|239
+|222
+|74
+|552
+|.516
+|45
+|24
+|21
+|.533
+|[[List of Stanley Cup champions|Stanley Cup championship]]: 2004<ref name="cup">{{cite web|url=http://lightning.nhl.com/team/app?service=page&page=NHLPage&bcid=tbl_content_1378|title=2004 Stanley Cup Champions|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-21|archive-url=https://web.archive.org/web/20071105013858/http://lightning.nhl.com/team/app?service=page&page=NHLPage&bcid=tbl_content_1378|archive-date=2007-11-05|url-status=dead}}</ref><br>[[Jack Adams Award]] winner: 2003–04<ref name="adams">{{cite web|url=http://www.nhl.com/trophies/adams.html|title=Jack Adams Award|publisher=Lincoln Hockey and the National Hockey League|work=[[National Hockey League|NHL]]|accessdate=2008-12-21|url-status=dead|archiveurl=https://web.archive.org/web/20080706102444/http://www.nhl.com/trophies/adams.html|archivedate=2008-07-06}}</ref><br>[[Prince of Wales Trophy]] winner: 2004<ref name="powt">{{cite web|url=http://www.nhl.com/trophies/wales.html|title=Prince of Wales Trophy|publisher=Lincoln Hockey and the National Hockey League|work=[[National Hockey League|NHL]]|accessdate=2008-12-21|url-status=dead|archiveurl=https://web.archive.org/web/20060423155208/http://www.nhl.com/trophies/wales.html|archivedate=2006-04-23}}</ref>
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/tortojo99c.html|title=John Tortorella Coaching Record|accessdate=2008-12-21|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| '''6'''
+| [[Barry Melrose]]
+| [[2008–09 NHL season|2008]]
+|16
+|5
+|7
+|4
+|14
+|.438
+|—
+|—
+|—
+|—
+| 
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/melroba01c.html|title=Barry Melrose Coaching Record|accessdate=2008-12-21|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| '''7'''
+| [[Rick Tocchet]]
+| [[2008–09 NHL season|2008]]–[[2009–10 NHL season|2010]]
+|148
+|53
+|69
+|26
+|132
+|.446
+|—
+|—
+|—
+|—
+| 
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/tocchri01c.html|title=Rick Tocchet Coaching Record|accessdate=2008-12-21|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| '''8'''
+|[[Guy Boucher]]
+| [[2010–11 NHL season|2010]]–[[2012–13 NHL season|2013]]
+|196
+|97
+|79
+|20
+|214
+|.546
+|18
+|11
+|7
+|.611
+| 
+|align=center|<ref>{{cite web |url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=63890|title=Guy Boucher hockey statistics & profile at hockeydb.com|accessdate=2010-08-06|publisher=Hockey DB|work=Hockeydb.com}}</ref>
+|-
+|align=center| '''9'''
+|style="background-color:#ddffdd"| [[Jon Cooper (ice hockey)|Jon Cooper]]*
+| [[2012–13 NHL season|2013]]–present
+| 1043 || 622 || 322 || 89 || 1,333 || {{Winning percentage|622|322|89}}
+| 162 || 91 || 71 || {{winpct|91|71}}
+|[[National Hockey League All-Star Game|NHL All-Star Game]]: [[63rd National Hockey League All-Star Game|2018]], [[2019 National Hockey League All-Star Game|2019]]<ref>{{cite web |url=https://www.nhl.com/lightning/news/jon-cooper-named-atlantic-division-coach-for-2018-nhl-all-star-game-294746376|title=Jon Cooper named Atlantic Division coach for 2018 NHL All-Star Game|last=NHL|work=NHL.com|date=January 7, 2018|access-date=January 8, 2018}}</ref><ref>{{cite web|url=https://www.nhl.com/lightning/news/jon-cooper-named-atlantic-division-coach-at-nhl-all-star-game-303582310|title=Jon Cooper named Atlantic Division coach at 2019 NHL All-Star Game|publisher=NHL.com|access-date=January 5, 2018}}</ref><br>[[Jack Adams Award]] winner: 2025–26<ref>{{cite web |url=https://www.espn.com/nhl/story/_/id/48958680/lightning-coach-jon-cooper-wins-jack-adams-14-seasons|title=Lightning coach Jon Cooper wins Jack Adams after 14 seasons|last=NHL|work=espn.com|date=June 3, 2026|accessdate=June 3, 2026}}</ref><br>[[Presidents' Trophy]] winner: 2018–19<ref>{{cite web|url=https://www.cbssports.com/nhl/news/tampa-bay-lightning-are-your-2018-2019-presidents-trophy-winners-obviously/|title=Tampa Bay Lightning are your 2018-2019 Presidents' Trophy winners ... obviously |last=Blackburn|first=Pete|date=March 18, 2019|work=[[CBS Sports]]|accessdate=March 18, 2019}}</ref><br>Stanley Cup championship: 2020, 2021<br>Prince of Wales Trophy winner: 2015, 2020, 2021, 2022<ref>{{cite web|url=http://www.nhl.com/ice/page.htm?id=24967|archive-url=https://web.archive.org/web/20110901190807/http://www.nhl.com/ice/page.htm?id=24967|url-status=dead|archive-date=September 1, 2011|title=Prince of Wales Trophy|publisher=The National Hockey League|work=[[National Hockey League|NHL]]|accessdate=2015-06-17}}</ref>
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/coopejo01c.html|title=Jon Cooper Coaching Record|accessdate=2013-03-29|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|}
+<!-- DO NOT UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE CURRENT SEASON -->
+
+==Notes==
+*{{note label|Note1|a|a}} A running total of the number of coaches of the Lightning. Thus, any coach who has two or more separate terms as head coach is only counted once.
+*{{note label|Note2|b|b}} Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|title=Official Rules|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-21|format=PDF|url-status=dead|archiveurl=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|archivedate=2008-05-11}}</ref>
+*{{note label|Note3|c|c}}Each year is linked to an article about that particular NHL season.
+
+==References==
+;General
+*{{cite web|url=https://www.hockey-reference.com/teams/TBL/coaches.html|title=Tampa Bay Lightning Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=2015-06-17}}
+;Specific
+{{reflist|2}}
+
+{{Tampa Bay Lightning}}
+{{NHLHeadCoach}}
+
+[[Category:Tampa Bay Lightning coaches| ]]
+[[Category:Tampa Bay Lightning lists|coaches]]
+[[Category:National Hockey League coaches by team|Tampa Bay Lightning head coaches]]
+[[Category:Lists of ice hockey coaches|Tampa Bay Lightning head coaches]]

@@ -1,0 +1,391 @@
+{{Short description|None}}
+{{Use mdy dates|date=May 2025}}
+[[Image:PaulMaurice2024.png|thumb|right|Paul Maurice has been head coach since 2022]]
+The [[Florida Panthers]] are an American professional [[ice hockey]] team based in the [[Miami metropolitan area]]. They play in the [[Atlantic Division (NHL)|Atlantic Division]] of the [[Eastern Conference (NHL)|Eastern Conference]] in the [[National Hockey League]] (NHL). The team joined the NHL in 1993 as an [[expansion team]], and won their first Eastern Conference championship in 1996. The Panthers have played their home games at the [[Amerant Bank Arena]] since 1998.<ref>{{Cite web|url=http://www.thebbtcenter.com/about/history|title=History of the BB&T Center|publisher=BB&T Center|access-date=2012-12-16|archive-date=2023-04-04|archive-url=https://web.archive.org/web/20230404224205/http://www.thebbtcenter.com/about/history|url-status=live}}</ref> The Panthers are owned by Sunrise Sports and Entertainment, and [[Bill Zito]] is their [[general manager]].<ref name="martin"/><ref>{{cite web|url=http://panthers.nhl.com/team/app/?service=page&page=NHLPage&bcid=Panthers_FrontOffice|title=Florida Panthers - Front Office|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|access-date=2008-12-05|url-status=dead|archive-url=https://web.archive.org/web/20090307052802/http://panthers.nhl.com/team/app/?service=page&page=NHLPage&bcid=Panthers_FrontOffice|archive-date=2009-03-07}}</ref>
+
+There have been 16&nbsp;[[head coach]]es for the Panthers franchise. The team's first head coach was [[Roger Neilson]], who coached for two complete seasons from 1993 to 1995.<ref name="neilson"/> The Panther's current head coach is [[Paul Maurice]].
+__TOC__
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''T'''
+|Ties = 1 point
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point{{ref label|Note2|b|b}}
+|-
+|'''PTS'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''Win%'''
+|[[Winning percentage]]{{ref label|Note3|c|c}}
+|-
+|style="background-color:#FFE6BD"|†
+| Elected to the [[Hockey Hall of Fame]] as a [[List of members of the Hockey Hall of Fame#Builders|builder]]
+|-
+|style="background-color:#ddffdd"|*
+| Spent entire NHL coaching career with the Panthers
+|-
+|}
+
+==Coaches==
+''Note: Statistics are correct through the end of the [[2025–26 NHL season|2025–26 season]].''
+{| class="wikitable" style="text-align:center"
+|+ Head coaches of the Florida Panthers
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term{{ref label|Note4|d|d}}
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+! rowspan="2" | Achievements
+! rowspan="2" | Reference
+|-
+! GC
+! W
+! L
+! T/OT
+! PTS
+! Win%
+! GC
+! W
+! L
+! Win%
+|-
+|-
+|align=center|1
+|style="background-color:#FFE6BD"|[[Roger Neilson]]†
+|[[1993–94 NHL season|1993]]–[[1994–95 NHL season|1995]]
+|132
+|53
+|56
+|23
+|129
+|.489
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="neilson">{{cite web|url=https://www.hockey-reference.com/coaches/neilsro99c.html|title=Roger Neilson Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-08-30|archive-url=https://web.archive.org/web/20080830072015/http://www.hockey-reference.com/coaches/neilsro99c.html|url-status=live}}</ref>
+|-
+|align=center|2
+|[[Doug MacLean]]
+|[[1995–96 NHL season|1995]]–[[1997–98 NHL season|1997]]
+|187
+|83
+|71
+|33
+|199
+|.532
+|27
+|13
+|14
+|.481
+|
+* 1 Stanley Cup Final appearance ([[1996 Stanley Cup Final|1996]])
+* 1 conference title and 2 playoff appearances
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/macledo99c.html|title=Doug MacLean Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-08-30|archive-url=https://web.archive.org/web/20080830004116/http://www.hockey-reference.com/coaches/macledo99c.html|url-status=live}}</ref>
+|-
+|align=center|3
+|[[Bryan Murray (ice hockey)|Bryan Murray]]
+|[[1997–98 NHL season|1997–1998]]
+|59
+|17
+|31
+|11
+|45
+|.381
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="bryan">{{cite web|url=https://www.hockey-reference.com/coaches/murrabr99c.html|title=Bryan Murray Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2017-08-04|archive-url=https://web.archive.org/web/20170804014125/https://www.hockey-reference.com/coaches/murrabr99c.html|url-status=live}}</ref>
+|-
+|align=center|4
+|[[Terry Murray]]
+|[[1998–99 NHL season|1998]]–[[2000–01 NHL season|2000]]
+|200
+|79
+|79
+|42
+|200
+|.500
+|4
+|0
+|4
+|.000
+|
+* 1 playoff appearance
+|align=center|<ref name="terry">{{cite web|url=https://www.hockey-reference.com/coaches/murrate01c.html|title=Terry Murray Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-09-07|archive-url=https://web.archive.org/web/20080907175522/http://www.hockey-reference.com/coaches/murrate01c.html|url-status=live}}</ref>
+|-
+|align=center|5
+|style="background-color:#ddffdd"|[[Duane Sutter]]*
+|[[2000–01 NHL season|2000]]–[[2001–02 NHL season|2001]]
+|72
+|22
+|35
+|15
+|59
+|.410
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="sutter">{{cite web|url=https://www.hockey-reference.com/coaches/suttedu01c.html|title=Duane Sutter Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2011-10-20|archive-url=https://web.archive.org/web/20111020232915/http://www.hockey-reference.com/coaches/suttedu01c.html|url-status=live}}</ref>
+|-
+|align=center|6
+|[[Mike Keenan]]
+|[[2001–02 NHL season|2001]]–[[2003–04 NHL season|2003]]
+|153
+|45
+|73
+|35
+|125
+|.408
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/keenami99c.html|title=Mike Keenan Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-08-29|archive-url=https://web.archive.org/web/20080829124617/http://www.hockey-reference.com/coaches/keenami99c.html|url-status=live}}</ref>
+|-
+|align=center|7
+|[[Rick Dudley]]
+|[[2003–04 NHL season|2003–2004]]
+|40
+|13
+|15
+|12
+|38
+|.475
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="crozier">{{cite web|url=https://www.hockey-reference.com/coaches/dudleri01c.html|title=Rick Dudley Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2011-05-19|archive-url=https://web.archive.org/web/20110519105345/http://www.hockey-reference.com/coaches/dudleri01c.html|url-status=live}}</ref>
+|-
+|align=center|8
+|[[John Torchetti]]
+|[[2003–04 NHL season|2004]]
+|27
+|10
+|12
+|5
+|25
+|.463
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/torchjo99c.html|title=John Torchetti Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-10-10|archive-url=https://web.archive.org/web/20081010230919/http://www.hockey-reference.com/coaches/torchjo99c.html|url-status=live}}</ref>
+|-
+|align=center|9
+|[[Jacques Martin (ice hockey)|Jacques Martin]]
+|[[2005–06 NHL season|2005]]–[[2007–08 NHL season|2008]]
+|246
+|110
+|100
+|36
+|256
+|.520
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="martin">{{cite web|url=https://www.hockey-reference.com/coaches/martija99c.html|title=Jacques Martin Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2008-08-20|archive-url=https://web.archive.org/web/20080820040350/http://www.hockey-reference.com/coaches/martija99c.html|url-status=live}}</ref>
+|-
+|align=center|10
+|[[Peter DeBoer]]
+|[[2008–09 NHL season|2008]]–[[2010–11 NHL season|2011]]
+|246
+|103
+|107
+|36
+|242
+|.492
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="peter">{{cite web|url=https://www.hockey-reference.com/coaches/deboepe99c.html|title=Peter DeBeor Coaching Record|access-date=2008-12-05|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2020-05-01|archive-url=https://web.archive.org/web/20200501161325/https://www.hockey-reference.com/coaches/deboepe99c.html|url-status=live}}</ref>
+|-
+|align=center|11
+|style="background-color:#ddffdd"|[[Kevin Dineen]]*
+|[[2011–12 NHL season|2011]]–[[2013–14 NHL season|2013]]
+|146
+|56
+|62
+|28
+|140
+|.479
+|7
+|3
+|4
+|.429
+|
+* 1 division title and 1 playoff appearance
+|align=center|<ref name="kevin">{{cite web|url=https://www.hockey-reference.com/coaches/dineeke01c.html|title=Kevin Dineen Coaching Record|access-date=2012-12-16|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2013-01-26|archive-url=https://web.archive.org/web/20130126041325/http://www.hockey-reference.com/coaches/dineeke01c.html|url-status=live}}</ref>
+|-
+|align=center|12
+|[[Peter Horachek]]
+|[[2013–14 NHL season|2013–2014]]
+|66
+|26
+|36
+|4
+|56
+|.424
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="horachek">{{cite web|url=https://www.hockey-reference.com/coaches/horacpe01c.html|title=Peter Horachek Coaching Record|access-date=2014-01-27|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2015-01-07|archive-url=https://web.archive.org/web/20150107231802/http://www.hockey-reference.com/coaches/horacpe01c.html|url-status=live}}</ref><ref>{{Cite web |url=https://www.tsn.ca/nhl/story/?id=450765 |title=Panthers relieve interim coach Horachek of duties |access-date=2017-12-09 |archive-url=https://web.archive.org/web/20140906103844/http://www.tsn.ca/nhl/story/?id=450765 |archive-date=2014-09-06 |url-status=dead }}</ref>
+|-
+|align=center|13
+|[[Gerard Gallant]]
+|[[2014–15 NHL season|2014]]–[[2016–17 NHL season|2016]]
+|164
+|85
+|55
+|24
+|194
+|.591
+|6
+|2
+|4
+|.333
+|
+* 1 division title and 1 playoff appearance
+|align=center|<ref name="gerard">{{cite web|url=http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=1824|title=Gerard Gallant Coaching Record|access-date=2014-06-21|publisher=Sports Reference LLC|work=Hockey-Reference.com|archive-date=2014-05-20|archive-url=https://web.archive.org/web/20140520071534/http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=1824|url-status=live}}</ref>
+|-
+|align=center|14
+|style="background-color:#ddffdd"|[[Tom Rowe (ice hockey)|Tom Rowe]]*
+|[[2016–17 NHL season|2016–2017]]
+|61
+|24
+|27
+|10
+|58
+|.475
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="rowe">{{cite web|title=Tom Rowe Coaching Record|url=https://www.hockey-reference.com/coaches/roweto01c.html|website=Hockey-Reference.com|access-date=April 10, 2017|archive-date=April 11, 2017|archive-url=https://web.archive.org/web/20170411055617/http://www.hockey-reference.com/coaches/roweto01c.html|url-status=live}}</ref>
+|-
+|align=center|15
+|[[Bob Boughner]]
+|[[2017–18 NHL season|2017]]–[[2018–19 NHL season|2019]]
+|164
+|80
+|62
+|22
+|182
+|.555
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="Boughner">{{cite web|title=Bob Boughner Coaching Record|url=https://www.hockey-reference.com/coaches/boughbo01c.html|website=Hockey-Reference.com|access-date=July 18, 2017|archive-date=November 29, 2019|archive-url=https://web.archive.org/web/20191129045913/https://www.hockey-reference.com/coaches/boughbo01c.html|url-status=live}}</ref>
+|-
+|align=center|16
+|[[Joel Quenneville]]
+|[[2019–20 NHL season|2019]]–[[2021–22 NHL season|2021]]
+|132
+|79
+|40
+|13
+|171
+|.648
+|14{{ref label|Note5|e|e}}
+|4
+|10
+|.286
+|
+* 2 playoff appearances
+|align=center|<ref name="Quenneville">{{cite web|title=Joel Quenneville Coaching Record|url=https://www.hockey-reference.com/coaches/quennjo01c.html|website=Hockey-Reference.com|access-date=April 8, 2019|archive-date=September 5, 2008|archive-url=https://web.archive.org/web/20080905104923/http://www.hockey-reference.com/coaches/quennjo01c.html|url-status=live}}</ref>
+|-
+|align=center|17
+|style=""|[[Andrew Brunette]]
+|[[2021–22 NHL season|2021–2022]]
+|75
+|51
+|18
+|6
+|108
+|.720
+|10
+|4
+|6
+|.400
+|
+* 1 division title and 1 playoff appearance
+* [[Presidents' Trophy]] winners ([[2021–22 NHL season|2022]])
+|align=center|<ref name="Brunette">{{cite web|title=Andrew Brunette Coaching Record|url=https://www.hockey-reference.com/coaches/brunean01c.html|website=Hockey-Reference.com|access-date=October 29, 2021|archive-date=October 29, 2021|archive-url=https://web.archive.org/web/20211029150625/https://www.hockey-reference.com/coaches/brunean01c.html|url-status=live}}</ref>
+|-
+|align=center|18
+|[[Paul Maurice]]
+|[[2022–23 NHL season|2022]]–present
+| 328
+| 181 
+| 125 
+| 22 
+| 384
+| {{winpct|181|125|22}}
+|45
+|29
+|16
+|.644
+|
+* 2 Stanley Cup championships ([[2024 Stanley Cup Final|2024]], [[2025 Stanley Cup Final|2025]])
+* 3 Stanley Cup Final appearances ([[2023 Stanley Cup Final|2023]], 2024, 2025)
+* 3 conference titles, 1 division title, 3 playoff appearances
+|align=center|<ref name="Maurice">{{cite web|title=Paul Maurice Coaching Record|url=https://www.hockey-reference.com/coaches/mauripa99c.html|website=Hockey-Reference.com|access-date=June 23, 2022|archive-date=May 19, 2011|archive-url=https://web.archive.org/web/20110519111129/http://www.hockey-reference.com/coaches/mauripa99c.html|url-status=live}}</ref>
+|}
+
+==Notes==
+* {{note label|Note1|a|a}} A running total of the number of coaches of the Panthers. Thus, any coach who has two or more separate terms as head coach is only counted once.
+* {{note label|Note2|b|b}} Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|archive-url=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|url-status=dead|archive-date=2008-05-11|title=Official Rules|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|access-date=2008-12-05}}</ref>
+* {{note label|Note3|c|c}} In hockey, the winning percentage is calculated by dividing points by maximum possible [[Point (ice hockey)|points]].
+* {{note label|Note4|d|d}} Each year is linked to an article about that particular NHL season.
+*{{note label|Note5|e|e}} Includes the Qualifying Round of the [[2020 Stanley Cup playoffs]].
+
+==References==
+
+===General===
+* {{cite web|url=https://www.hockey-reference.com/teams/FLA/coaches.html|title=Florida Panthers Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|access-date=2008-12-05|archive-date=2008-10-15|archive-url=https://web.archive.org/web/20081015154114/http://www.hockey-reference.com/teams/FLA/coaches.html|url-status=live}}
+
+===Specific===
+{{Reflist|30em}}
+
+{{Florida Panthers}}
+{{NHLHeadCoach}}
+
+{{featured list}}
+
+[[Category:Florida Panthers coaches| ]]
+[[Category:National Hockey League coaches by team|Florida Panthers head coaches]]
+[[Category:Lists of ice hockey coaches|Florida Panthers head coaches]]
+[[Category:Florida Panthers lists|Head coaches]]

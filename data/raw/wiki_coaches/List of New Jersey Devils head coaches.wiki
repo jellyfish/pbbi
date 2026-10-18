@@ -1,0 +1,308 @@
+{{Short description|None}}
+{{Use mdy dates|date=December 2019}}
+This is a '''list of [[New Jersey Devils]] head coaches'''. The Devils had 20 different head coaches since the team moved to New Jersey in the [[1982–83 NHL season|1982–83]], with [[Jacques Lemaire]] serving as coach three times and [[Tom McVie]], [[Larry Robinson]], and [[Lou Lamoriello]] each serving twice.
+
+Three coaches have led the team to a victory in the [[Stanley Cup Final]]: Lemaire in [[1994–95 NHL season|1995]], Robinson in [[1999–2000 NHL season|2000]], and [[Pat Burns]] in [[2003 Stanley Cup Playoffs|2003]]. Lemaire is the all-time leader in games coached and wins, while Burns leads in winning percentage (with at least one full season coached).
+
+Several former players have worked for the Devils as assistant coaches, including [[John MacLean (ice hockey)|John MacLean]] and [[Bobby Carpenter (ice hockey)|Bobby Carpenter]], the only men whose names are inscribed on the Stanley Cup as both a player and a coach with New Jersey. MacLean later served as head coach and is the only former Devils' player to serve in that capacity.
+
+On December 26, 2014, after the firing of DeBoer, head coaching responsibilities were split between [[Adam Oates]] and [[Scott Stevens]] for the remainder of the 2014–15 season, with Lamoriello supervising the team from the bench.<ref>{{cite web |title=Devils name Stevens, Oates to replace DeBoer |url=https://www.nhl.com/devils/news/devils-name-stevens-oates-to-replace-deboer/c-745751 |website=NHL.com |access-date=December 12, 2019 |date=December 27, 2014 |archive-date=December 12, 2019 |archive-url=https://web.archive.org/web/20191212200648/https://www.nhl.com/devils/news/devils-name-stevens-oates-to-replace-deboer/c-745751 |url-status=dead }}</ref><ref>{{cite web |last1=Vorkunov |first1=Mike |title=Devils will have 'unique' head-coaching situation: Co-coaches Adam Oates and Scott Stevens |url=https://www.nj.com/devils/2014/12/devils_name_new_coach.html |website=NJ.com |access-date=December 13, 2019 |date=December 27, 2014 |archive-date=December 13, 2019 |archive-url=https://web.archive.org/web/20191213125623/https://www.nj.com/devils/2014/12/devils_name_new_coach.html |url-status=live }}</ref>
+
+==Key==
+{|class="wikitable"
+|-
+|'''#'''
+|Number of coaches
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins
+|-
+|'''L'''
+|Losses
+|-
+|'''T'''
+|Ties (no longer applicable after the [[2005–06 NHL season|2005–06]] season)
+|-
+|'''OTL'''
+|[[Overtime (ice hockey)|Overtime]] losses (includes [[shootout (ice hockey)|shootout]] losses after [[2005–06 NHL season|2005–06]])
+|-
+|'''Pts'''
+|Points
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|style="background:#D0E7FF;"|§
+|Name is engraved on the [[Stanley Cup]]
+|}
+
+==Coaches==
+''Note: This list does not include data from the [[Kansas City Scouts]] and the [[Colorado Rockies (NHL)|Colorado Rockies]]. Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+{| class="wikitable"
+! rowspan="2"|#
+! rowspan="2"|Name
+! rowspan="2"|Dates
+! colspan="7"|Regular season
+! colspan="3"|Playoffs
+! rowspan="2"|Achievements
+! rowspan="2"|Ref
+|-
+! GC
+! W
+! L
+! T
+! OTL
+! Pts
+! Win%{{ref|Win–loss percentage}}
+! GC
+! W
+! L
+|-
+|style="text-align:center;"|1
+|[[Bill MacMillan]]{{ref|Devilsmovedate}}
+|June 30, 1982 – November 22, 1983
+|100||19||67||14|| style="text-align:center;"|—||52||.260
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="MacMillan">{{cite web |title=Billy MacMillan NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/macmibi01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=December 13, 2019 |archive-url=https://web.archive.org/web/20191213140811/https://www.hockey-reference.com/coaches/macmibi01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|2
+|[[Tom McVie]]
+|November 22, 1983 – May 31, 1984
+|60||15||38||7|| style="text-align:center;"|—||37||.308
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="McVie">{{cite web |title=Tom McVie NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/mcvieto99c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=August 27, 2008 |archive-url=https://web.archive.org/web/20080827230537/http://www.hockey-reference.com/coaches/mcvieto99c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|3
+|[[Doug Carpenter]]
+|May 31, 1984 – January 26, 1988
+|290||100||166||24|| style="text-align:center;"|—||224||.386
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Carpenter">{{cite web |title=Doug Carpenter NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/carpedo99c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=July 20, 2008 |archive-url=https://web.archive.org/web/20080720064708/http://www.hockey-reference.com/coaches/carpedo99c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|4
+|[[Jim Schoenfeld]]{{ref|Schoenfeldsuspended}}
+|January 26, 1988 – November 6, 1989
+|124||50||59||15|| style="text-align:center;"|—||115||.464
+|20||11||9
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Schoenfeld">{{cite web |title=Jim Schoenfeld NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/schoeji01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=May 19, 2011 |archive-url=https://web.archive.org/web/20110519104551/http://www.hockey-reference.com/coaches/schoeji01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|5
+|[[John Cunniff]]
+|November 6, 1989 – March 4, 1991
+|133||59||56||18|| style="text-align:center;"|—||136||.511
+|6||2||4
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Cunniff">{{cite web |title=John Cunniff NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/cunnijo99c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=May 14, 2024 |archive-url=https://web.archive.org/web/20240514143741/https://www.hockey-reference.com/coaches/cunnijo99c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|—
+|Tom McVie
+|March 4, 1991 – June 5, 1992
+|93||42||36||15|| style="text-align:center;"|—||99||.532
+|14||6||8
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="McVie" />
+|-
+|style="text-align:center;"|6
+|[[Herb Brooks]]
+|June 5, 1992 – May 31, 1993
+|84||40||37||7|| style="text-align:center;"|—||87||.518
+|5||1||4
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Brooks">{{cite web |title=Herb Brooks NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/brookhe99c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=May 19, 2011 |archive-url=https://web.archive.org/web/20110519112528/http://www.hockey-reference.com/coaches/brookhe99c.html |url-status=live }}</ref>
+|- style="background:#D0E7FF;"
+|style="text-align:center;"|7
+|[[Jacques Lemaire]]§
+|June 28, 1993 – May 8, 1998
+|378||199||122||57|| style="text-align:center;"|—||455||.602
+|56||34||22
+|style="text-align:center;"|[[List of Stanley Cup champions|Stanley Cup]] champions ([[1995 Stanley Cup Final|1995]])<br />[[Jack Adams Award]] ([[1993–94 NHL season|1994]])
+|style="text-align:center;"|<ref name="Lemaire">{{cite web |title=Jacques Lemaire NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/lemaija01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=August 30, 2008 |archive-url=https://web.archive.org/web/20080830062247/http://www.hockey-reference.com/coaches/lemaija01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|8
+|[[Robbie Ftorek]]{{ref|Ftorekcupafterwards}}
+|May 21, 1998 – March 23, 2000
+|156||88||44||19||5||200||.625
+|7||3||4
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Ftorek">{{cite web |title=Robbie Ftorek NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/ftorero01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=December 3, 2008 |archive-url=https://web.archive.org/web/20081203200739/http://www.hockey-reference.com/coaches/ftorero01c.html |url-status=live }}</ref>
+|- style="background:#D0E7FF;"
+|style="text-align:center;"|9
+|[[Larry Robinson]]§{{ref|Robinsoncupafterwards}}
+|March 23, 2000 – January 28, 2002
+|141||73||43||19||6||171||.606
+|48||31||17
+|style="text-align:center;"|Stanley Cup champions ([[2000 Stanley Cup Final|2000]])
+|style="text-align:center;"|<ref name="Robinson">{{cite web |title=Larry Robinson NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/robinla01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=October 11, 2008 |archive-url=https://web.archive.org/web/20081011092538/http://www.hockey-reference.com/coaches/robinla01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|10
+|[[Kevin Constantine]]
+|January 28, 2002 – June 13, 2002
+|31||20||8||2||1||43||.677
+|6||2||4
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Constantine">{{cite web |title=Kevin Constantine NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/constke99c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=February 10, 2018 |archive-url=https://web.archive.org/web/20180210062305/https://www.hockey-reference.com/coaches/constke99c.html |url-status=live }}</ref>
+|- style="background:#D0E7FF;"
+|style="text-align:center;"|11
+|[[Pat Burns]]§{{ref|PatBurnscancer}}
+|June 13, 2002 – July 14, 2005
+|164||89||45||22||8||208||.634
+|29||17||12
+|style="text-align:center;"|Stanley Cup champions ([[2003 Stanley Cup Final|2003]])
+|style="text-align:center;"|<ref name="Burns">{{cite web |title=Pat Burns NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/burnspa99c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=September 4, 2008 |archive-url=https://web.archive.org/web/20080904224029/http://www.hockey-reference.com/coaches/burnspa99c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|—
+|Larry Robinson{{ref|LarryRobinsonstress}}
+|July 14, 2005 – December 19, 2005
+|32||14||13|| style="text-align:center;"|—||5||33||.516
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Robinson" />
+|-
+|style="text-align:center;"|12
+|[[Lou Lamoriello]]
+|December 19, 2005 – May 14, 2006
+|50||32||14|| style="text-align:center;"|—||4||68||.680
+|9||5||4
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Lamoriello">{{cite web |title=Lou Lamoriello NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/lamorlo99c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=December 13, 2019 |archive-url=https://web.archive.org/web/20191213140807/https://www.hockey-reference.com/coaches/lamorlo99c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|13
+|[[Claude Julien (ice hockey)|Claude Julien]]{{ref|ClaudeJulien3gamesleft}}
+|June 13, 2006 – April 2, 2007
+|79||47||24|| style="text-align:center;"|—||8||102||.646
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Julien">{{cite web |title=Claude Julien NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/juliecl01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=November 13, 2016 |archive-url=https://web.archive.org/web/20161113061628/http://www.hockey-reference.com/coaches/juliecl01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|—
+|Lou Lamoriello
+|April 2, 2007 – July 12, 2007
+|3||2||0|| style="text-align:center;"|—||1||5||.833
+|11||5||6
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Lamoriello" />
+|-
+|style="text-align:center;"|14
+|[[Brent Sutter]]{{ref|BrentSutterFamily}}
+|July 12, 2007 – June 10, 2009
+|164||97||56|| style="text-align:center;"|—||11||205||.625
+|12||4||8
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Sutter">{{cite web |title=Brent Sutter NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/suttebr02c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=December 13, 2019 |archive-url=https://web.archive.org/web/20191213140821/https://www.hockey-reference.com/coaches/suttebr02c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|—
+|Jacques Lemaire
+|July 13, 2009 – April 26, 2010
+|82||48||27|| style="text-align:center;"|—||7||103||.628
+|5||1||4
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Lemaire" />
+|-
+|style="text-align:center;"|15
+|[[John MacLean (ice hockey)|John Maclean]]
+|June 17, 2010 – December 23, 2010
+|33||9||22|| style="text-align:center;"|—||2||20||.303
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="MacLean">{{cite web |title=John MacLean NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/maclejo01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=December 13, 2019 |archive-url=https://web.archive.org/web/20191213140754/https://www.hockey-reference.com/coaches/maclejo01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|—
+|Jacques Lemaire
+|December 23, 2010 – April 10, 2011
+|49||29||17|| style="text-align:center;"|—||3||61||.622
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Lemaire" />
+|-
+|style="text-align:center;"|16
+|[[Peter DeBoer]]
+|July 19, 2011 – December 26, 2014
+|212||102||76|| style="text-align:center;"|—||34||238||.561
+|24||14||10
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="DeBoer">{{cite web |title=Peter DeBoer NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/deboepe99c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=May 1, 2020 |archive-url=https://web.archive.org/web/20200501161325/https://www.hockey-reference.com/coaches/deboepe99c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|17
+|[[Adam Oates]]<br>[[Scott Stevens]]
+|December 27, 2014 – June 2, 2015
+|46||20||17|| style="text-align:center;"|—||7||47||.511
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Oates and Stevens">{{cite web |title=NJD Bench NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/benchnj01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=December 13, 2019 |archive-url=https://web.archive.org/web/20191213140816/https://www.hockey-reference.com/coaches/benchnj01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|18
+|[[John Hynes (ice hockey)|John Hynes]]
+|June 2, 2015 – December 3, 2019
+|354||150||159|| style="text-align:center;"|—||45||345||.487
+|5||1||4
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Hynes">{{cite web |title=John Hynes NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/hynesjo01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=December 13, 2019 |archive-url=https://web.archive.org/web/20191213140856/https://www.hockey-reference.com/coaches/hynesjo01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|19
+|[[Alain Nasreddine]]
+|December 3, 2019 – July 9, 2020
+|43||19||16|| style="text-align:center;"|—||8||46||.535
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Nasreddine">{{cite web |title=Alain Nasreddine NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/nasreal01c.html |website=Hockey-Reference.com |access-date=December 13, 2019 |archive-date=December 13, 2019 |archive-url=https://web.archive.org/web/20191213140839/https://www.hockey-reference.com/coaches/nasreal01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|20
+|[[Lindy Ruff]]
+|July 9, 2020 – March 4, 2024
+|281||128||125|| style="text-align:center;"|—||28||284||.505
+|12||5||7
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Ruff">{{cite web |title=Lindy Ruff NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/ruffli01c.html |website=Hockey-Reference.com |access-date=December 17, 2023 |archive-date=September 4, 2008 |archive-url=https://web.archive.org/web/20080904224515/http://www.hockey-reference.com/coaches/ruffli01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|21
+|[[Travis Green]]
+|March 4, 2024 – May 7, 2024
+|21||8||12|| style="text-align:center;"|—||1||17||.405
+|—||—||—
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Green">{{cite web |title=Travis Green NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/greentr01c.html |website=Hockey-Reference.com |access-date=March 5, 2024 |archive-date=March 4, 2024 |archive-url=https://web.archive.org/web/20240304235507/https://www.hockey-reference.com/coaches/greentr01c.html |url-status=live }}</ref>
+|-
+|style="text-align:center;"|22
+|[[Sheldon Keefe]]
+|May 23, 2024–present
+|164||84||70|| style="text-align:center;"|—||10||178||.543
+|5||1||4
+|style="text-align:center;"|
+|style="text-align:center;"|<ref name="Keefe">{{cite web |title=Sheldon Keefe NHL & WHA Hockey Coaching Record |url=https://www.hockey-reference.com/coaches/keefesh01c.html |website=Hockey-Reference.com |access-date=May 23, 2024 |archive-date=May 23, 2024 |archive-url=https://web.archive.org/web/20240523032248/https://www.hockey-reference.com/coaches/keefesh01c.html |url-status=live }}</ref>
+|}
+
+==Notes==
+<!-- This section is for footnotes and footnotes only, no references. Place the ref template behind the persons name. To use footnotes, use the templates here: http://en.wikipedia.org/wiki/Wikipedia:Footnote3#How to use-->
+#{{note|Win–loss percentage}} The win–loss percentage is calculated using the formula: <math>\frac{Wins+\frac{1}{2}Ties}{Games}</math>
+#{{note|Devilsmovedate}} Since the Devils officially finalized their move [[Colorado Rockies (NHL)|from Colorado]] to New Jersey on June 30, 1982, that is the date that their reign as coach and assistant coach began on the Devils.
+#{{note|Schoenfeldsuspended}} Schoenfeld was suspended for one game during the [[1988 Stanley Cup playoffs]] for verbally abusing referee [[Don Koharski]]; [[General Manager (ice hockey)|general manager]] [[Lou Lamoriello]] filled in as coach for the Devils' 7–1 loss to [[Boston Bruins|Boston]].<ref>{{cite web|url=http://www.nysun.com/article/51728?page_no=3|title=Lamoriello Fires Julien, Takes Over Behind Devils' Bench|publisher=[[New York Sun]]|author=Kevin Greenstein|date=April 3, 2007|access-date=June 16, 2007|archive-date=September 29, 2007|archive-url=https://web.archive.org/web/20070929130622/http://www.nysun.com/article/51728?page_no=3|url-status=live}}</ref>
+#{{note|Ftorekcupafterwards}} Although Ftorek was replaced during the [[1999–2000 NHL season|1999–2000 season]], he got his name on the Cup when the Devils won it later that same season.
+#{{note|Robinsoncupafterwards}} Robinson was demoted to assistant coach and replaced as head coach in the middle of the [[2001–02 NHL season|2001–02 season]], but the Devils placed his name on the Cup when they won the following season even though he had left before the [[2002–03 NHL season|2002–03 season]] even began.
+#{{note|PatBurnscancer}} Pat Burns resigned after being diagnosed with cancer.<ref>{{cite news|url=https://www.cbc.ca/sports/hockey/larry-robinson-named-devils-coach-1.559451|title=Larry Robinson named Devils' coach|publisher=[[CBC Sports]]|access-date=December 13, 2019|date=July 14, 2005|archive-date=August 20, 2021|archive-url=https://web.archive.org/web/20210820085431/https://www.cbc.ca/sports/hockey/larry-robinson-named-devils-coach-1.559451|url-status=live}}</ref>
+#{{note|LarryRobinsonstress}} Larry Robinson resigned due to stress-related health problems.<ref>{{cite news|url=https://www.cbc.ca/sports/hockey/larry-robinson-resigns-as-devils-coach-1.526733|title=Larry Robinson resigns as Devils coach|publisher=[[CBC Sports]]|access-date=December 13, 2019|date=December 21, 2005|archive-date=May 16, 2021|archive-url=https://web.archive.org/web/20210516211101/https://www.cbc.ca/sports/hockey/larry-robinson-resigns-as-devils-coach-1.526733|url-status=live}}</ref>
+#{{note|ClaudeJulien3gamesleft}} Claude Julien was fired with just 3 games left in the [[2006–07 NHL season|2006–07 regular season]].<ref>{{cite web|url=https://www.espn.com/nhl/news/story?id=2822234|title=Julien out, Lamoriello in as Devils prepare for playoffs|date=April 2, 2007 |publisher=[[ESPN]]|access-date=June 17, 2007|archive-date=May 16, 2007|archive-url=https://web.archive.org/web/20070516071444/http://sports.espn.go.com/nhl/news/story?id=2822234|url-status=live}}</ref>
+#{{note|BrentSutterFamily}} Brent Sutter quit after two years of a three-year contract, citing a desire to be closer to home in Alberta, with his family and minor league hockey team, the [[Red Deer Rebels]].<ref>{{cite web|url=http://www.upi.com/Sports_News/2009/06/09/Sutter-quits-as-NJ-Devils-coach/UPI-11021244566294/|title=Sutter quits as N.J. Devils' coach|publisher=UPI|date=June 9, 2009|access-date=July 10, 2009|archive-date=June 5, 2011|archive-url=https://web.archive.org/web/20110605065429/http://www.upi.com/Sports_News/2009/06/09/Sutter-quits-as-NJ-Devils-coach/UPI-11021244566294/|url-status=live}}</ref>  Several weeks later, Sutter was announced as the head coach of the [[Calgary Flames]].  Despite the fact that Calgary had to request permission to talk to Sutter, the Devils received no compensation.<ref>{{cite web|url=http://njmg.typepad.com/devilsblog/2009/06/brent-sutter-named-head-coach-of-the-calgary-flames.html|title=Brent Sutter named head coach of the Calgary Flames|publisher=[[Bergen Record]]|author=Tom Gulitti|date=June 23, 2009|access-date=July 10, 2009|url-status=dead|archive-url=https://web.archive.org/web/20090627042059/http://njmg.typepad.com/devilsblog/2009/06/brent-sutter-named-head-coach-of-the-calgary-flames.html|archive-date=June 27, 2009}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.hockey-reference.com/teams/NJD/coaches.html New Jersey Devils coaches] {{Webarchive|url=https://web.archive.org/web/20191213142004/https://www.hockey-reference.com/teams/NJD/coaches.html |date=December 13, 2019 }} at Hockey-Reference.com
+
+{{New Jersey Devils}}
+{{NHLHeadCoach}}
+
+{{Portal bar|Ice hockey|New Jersey}}
+{{Featured list}}
+
+[[Category:New Jersey Devils coaches| ]]
+[[Category:New Jersey Devils lists|head coaches]]
+[[Category:National Hockey League coaches by team|New Jersey Devils head coaches]]
+[[Category:Lists of ice hockey coaches|New Jersey Devils head coaches]]

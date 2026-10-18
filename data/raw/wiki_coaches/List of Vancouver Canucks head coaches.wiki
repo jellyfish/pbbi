@@ -1,0 +1,459 @@
+{{Short description|None}}
+{{Featured list}}
+[[File:Manny Malhotra - Montreal Canadiens.jpg|thumb|[[Manny Malhotra]] is the current head coach of the Canucks.]]
+The [[Vancouver Canucks]] are a professional [[ice hockey]] team based in [[Vancouver]]. They are a member of the [[Pacific Division (NHL)|Pacific Division]] in the [[Western Conference (NHL)|Western Conference]] of the [[National Hockey League]] (NHL).<ref>{{cite web|url=http://www.nhl.com/nhl/app?service=page&page=StandingsPage&type=DIV|title=Standings|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|access-date=2008-07-22}}{{dead link|date=July 2026|bot=medic}}{{cbignore|bot=medic}} </ref> The team plays its home games at [[Rogers Arena]]. The Canucks joined the NHL in 1970 as an [[expansion team]], along with the [[Buffalo Sabres]].<ref>{{cite web|url=http://www.andrewsstarspage.com/NHL-Business/Expansion.htm|title=NHL Expansion & Relocation Since 1967|publisher=AndrewsStarsPage.com|access-date=2008-07-22|url-status=dead|archive-url=https://web.archive.org/web/20080620072720/http://andrewsstarspage.com/NHL-Business/Expansion.htm|archive-date=2008-06-20}}</ref> They have advanced to the [[Stanley Cup Final]] three times but were defeated by the [[New York Islanders]] in [[1982 Stanley Cup Final|1982]], the [[New York Rangers]] in [[1994 Stanley Cup Final|1994]], and the [[Boston Bruins]] in [[2011 Stanley Cup Final|2011]].<ref>{{cite web|url=http://www.nhl.com/cup/champs.html |archive-url=https://web.archive.org/web/20090629213230/http://www.nhl.com/cup/champs.html |url-status=dead |archive-date=2009-06-29 |title=Stanley Cup Champions and Finalists |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |access-date=2008-07-24 }}</ref> The Canucks are owned by [[Francesco Aquilini]], and [[Ryan Johnson (ice hockey, born 1976)|Ryan Johnson]] is their [[general manager]], and [[Manny Malhotra]] is their [[Coach (ice hockey)|head coach]].<ref>{{cite web|url=http://canucks.nhl.com/team/app/?service=page&page=NHLPage&id=12865 |title=Front Office |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |access-date=2009-05-17 |url-status=dead |archive-url=https://web.archive.org/web/20090417051705/http://canucks.nhl.com/team/app/?service=page&page=NHLPage&id=12865 |archive-date=2009-04-17 }}</ref><ref>{{cite web|url=http://canucks.nhl.com/team/app?service=page&page=TeamPlayers&type=roster |title=Roster |publisher=Lincoln Hockey and the National Hockey League |work=NHL.com |access-date=2009-05-17 |url-status=dead |archive-url=https://web.archive.org/web/20090627023007/http://canucks.nhl.com/team/app?service=page&page=TeamPlayers&type=roster |archive-date=2009-06-27 }}</ref>
+
+There have been 23 [[head coach]]es for the Canucks. The franchise's first head coach was [[Hal Laycoe]], who coached the Canucks for two seasons. [[Alain Vigneault]] coached the most games of any Canucks head coach with 540 games and has the most points all-time with the Canucks with 683 points, he also has the most points in a season of any Canucks coach, with 117 in the [[2010–11 NHL season|2010–11 season]]. He is followed by [[Marc Crawford]], who has 586 points all-time with the Canucks, while [[Roger Neilson]] is the only [[Hockey Hall of Fame]] inductee to coach the Canucks. [[Pat Quinn (ice hockey)|Pat Quinn]], Vigneault and [[Rick Tocchet]] are the only Canucks head coaches to win a [[Jack Adams Award]] with the team. [[Bill LaForge]], who coached at the beginning of the [[1984–85 NHL season|1984–85 season]], has the fewest points with the Canucks (10). [[Harry Neale]] served the most terms as head coach of the Canucks with three, while Pat Quinn served twice.
+
+==Key==
+{|class="wikitable" style="font-size:90%;"
+|-
+|'''#'''
+|Number of coaches{{efn|A running total of the number of coaches of the Canucks. Thus any coach who has two or more separate terms as head coach is only counted once.}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''T'''
+|Ties = 1 point
+|-
+|'''OT'''
+|Overtime/shootout losses = 1 point{{efn|Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|archive-url=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|url-status=dead|archive-date=2008-05-11|title=Official Rules|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|access-date=2008-12-05}}</ref>}}
+|-
+|'''PTS'''
+|Points
+|-
+|style="background-color:#ddffdd"|{{asterisk}}
+|Spent entire NHL coaching career with the Canucks
+|}
+
+==Coaches==
+[[File:Pat Quinn.jpg|thumb|upright|Pat Quinn was the head coach of the Canucks for five seasons.]]
+[[File:Marccrawford 2006nhlawards.jpg|thumb|upright|Marc Crawford was the head coach of the Canucks from 1999 to 2006.]]
+''Note: Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+{| class="wikitable sortable sticky-header-multi" style="text-align: center;
+! rowspan="2"|#
+! rowspan="2"|Name
+! rowspan="2"|Term
+! colspan="6"|[[Regular season]]
+! colspan="3"|[[Playoffs]]
+! rowspan="2"|Awards
+! rowspan="2"|Reference
+|-
+! GC !! W !! L !! T !! OTL !! PTS !! GC !! W !! L
+|-
+|1
+| style="text-align:left;"|[[Hal Laycoe]]
+|{{NHL Year|1970|start}}–{{NHL Year|1971|end}}
+|156
+|44
+|96
+|16
+|—
+|104
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/laycoha01c.html|title=Hal Laycoe Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|2
+| style="text-align:left;"|[[Vic Stasiuk]]
+|{{NHL Year|1972|full=y}}
+|78
+|22
+|47
+|9
+|—
+|53
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/stasivi01c.html|title=Vic Stasiuk Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|3
+| style="text-align:left;"|[[Bill McCreary Sr.|Bill McCreary]]
+|{{NHL Year|1973|full=y}}
+|41
+|9
+|25
+|7
+|—
+|25
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/mccrebi01c.html|title=Bill McCreary Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-style="background-color:#ddffdd"
+|4
+| style="text-align:left;"|[[Phil Maloney]]{{asterisk}}
+|{{NHL Year|1973|end}}–{{NHL Year|1976|end}}
+|232
+|95
+|105
+|32
+|—
+|222
+|7
+|1
+|6
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/malonph01c.html|title=Phil Maloney Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-style="background-color:#ddffdd"
+|5
+| style="text-align:left;"|[[Orland Kurtenbach]]{{asterisk}}
+|{{NHL Year|1976|end}}–{{NHL Year|1977|end}}
+|125
+|36
+|62
+|27
+|—
+|99
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/kurteor01c.html|title=Orland Kurtenbach Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|6
+| style="text-align:left;"|[[Harry Neale]]
+|{{NHL Year|1978|start}}–{{NHL Year|1981|end}}
+|315
+|106
+|144
+|65
+|—
+|177
+|10
+|2
+|8
+|
+|<ref name="hockey-reference.com">{{cite web|url=https://www.hockey-reference.com/coaches/nealeha99c.html|title=Harry Neale Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|7
+| style="text-align:left;"|[[Roger Neilson]]
+|{{NHL Year|1981|end}}–{{NHL Year|1983|end}}
+|133
+|51
+|61
+|21
+|—
+|123
+|21
+|12
+|9
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/neilsro99c.html|title=Roger Neilson Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|—
+| style="text-align:left;"|Harry Neale
+|{{NHL Year|1983|end}}
+|32
+|15
+|13
+|4
+|—
+|34
+|4
+|1
+|3
+|
+|<ref name="hockey-reference.com"/>
+|-style="background-color:#ddffdd"
+|8
+| style="text-align:left;"|[[Bill LaForge]]{{asterisk}}
+|{{NHL Year|1984|start}}
+|20
+|4
+|14
+|2
+|—
+|10
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/laforbi99c.html|title=Bill LaForge Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|—
+| style="text-align:left;"|Harry Neale
+|{{NHL Year|1984|full=y}}
+|60
+|21
+|32
+|7
+|—
+|49
+|—
+|—
+|—
+|
+|<ref name="hockey-reference.com"/>
+|-
+|9
+| style="text-align:left;"|[[Tom Watt (ice hockey)|Tom Watt]]
+|{{NHL Year|1985|start}}–{{NHL Year|1986|end}}
+|160
+|52
+|87
+|21
+|—
+|125
+|3
+|0
+|3
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/wattto99c.html|title=Tom Watt Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|10
+| style="text-align:left;"|[[Bob McCammon]]
+|{{NHL Year|1987|start}}–{{NHL Year|1990|end}}
+|294
+|102
+|156
+|36
+|—
+|240
+|7
+|3
+|4
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/mccambo99c.html|title=Bob McCammon Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|11
+| style="text-align:left;"|[[Pat Quinn (ice hockey)|Pat Quinn]]
+|{{NHL Year|1990|end}}–{{NHL Year|1993|end}}
+|274
+|138
+|108
+|28
+|—
+|304
+|55
+|29
+|26
+|[[Jack Adams Award]] ([[1991–92 NHL season|1992]])
+|<ref name="pat">{{cite web|url=https://www.hockey-reference.com/coaches/quinnpa01c.html|title=Pat Quinn Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|12
+| style="text-align:left;"|[[Rick Ley]]
+|{{NHL Year|1994|start}}–{{NHL Year|1995|end}}
+|124
+|47
+|50
+|27
+|—
+|121
+|11
+|4
+|7
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/leyri01c.html|title=Rick Ley Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|—
+| style="text-align:left;"|Pat Quinn
+|{{NHL Year|1995|end}}
+|6
+|3
+|3
+|0
+|—
+|6
+|6
+|2
+|4
+|
+|<ref name="pat"/>
+|-
+|13
+| style="text-align:left;"|[[Tom Renney]]
+|{{NHL Year|1996|start}}–{{NHL Year|1997|start}}
+|101
+|39
+|53
+|9
+|—
+|87
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/renneto99c.html|title=Tom Renney Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|14
+| style="text-align:left;"|[[Mike Keenan]]
+|{{NHL Year|1997|start}}–{{NHL Year|1998|end}}
+|108
+|36
+|54
+|18
+|—
+|90
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/keenami99c.html|title=Mike Keenan Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|15
+| style="text-align:left;"|[[Marc Crawford]]
+|{{NHL Year|1998|end}}–{{NHL Year|2005|end}}
+|529
+|246
+|189
+|62
+|32
+|586
+|31
+|12
+|19
+|
+|<ref name="Crawford">{{cite web|url=https://www.hockey-reference.com/coaches/crawfma01c.html|title=Marc Crawford Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|16
+| style="text-align:left;"|[[Alain Vigneault]]
+|{{NHL Year|2006|start}}–{{NHL Year|2012|end}}
+|540
+|313
+|170
+|—
+|57
+|683
+|68
+|33
+|35
+|Jack Adams Award ([[2006–07 NHL season|2007]])
+|<ref name="alain">{{cite web|url=https://www.hockey-reference.com/coaches/vigneal01c.html|title=Alain Vigneault Coaching Record|access-date=2008-07-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|17
+| style="text-align:left;"|[[John Tortorella]]{{efn|[[Mike Sullivan (ice hockey)|Mike Sullivan]] acted as interim head coach of the Canucks for six games during their [[2013–14 Vancouver Canucks season|2013–14 season]], while Tortorella was serving a [[2013–14 NHL suspensions and fines|suspension]].}}
+|{{NHL Year|2013|full=y}}
+|82
+|36
+|35
+|—
+|11
+|83
+|—
+|—
+|—
+|
+|<ref name="tortorella">{{cite web|url=https://www.hockey-reference.com/coaches/tortojo99c.html|title=John Tortorella Coaching Record|access-date=2013-07-02|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|18
+| style="text-align:left;"|[[Willie Desjardins]]
+|{{NHL Year|2014|start}}–{{NHL Year|2016|end}}
+|246
+|109
+|110
+|—
+|27
+|245
+|6
+|2
+|4
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/desjawi99c.html|title=Willie Desjardins Coaching Record|access-date=2015-05-07|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|19
+| style="text-align:left;"|[[Travis Green]]
+|{{NHL Year|2017|start}}–{{NHL Year|2021|start}}
+|314
+|133
+|147
+|—
+|34
+|300
+|17
+|10
+|7
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/greentr01c.html|title=Travis Green Coaching Record|access-date=2022-01-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|20
+| style="text-align:left;"|[[Bruce Boudreau]]
+|{{NHL Year|2021|start}}–{{NHL Year|2022|end}}
+|103
+|50
+|40
+|—
+|13
+|113
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/boudrbr01c.html|title=Bruce Boudreau Coaching Record|access-date=2022-01-03|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-
+|21
+| style="text-align:left;"|[[Rick Tocchet]]
+|{{NHL Year|2022|end}}–{{NHL Year|2024|end}}
+|200
+|108
+|65
+|—
+|27
+|243
+|13
+|7
+|6
+|Jack Adams Award ([[2023–24 NHL season|2024]])
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/tocchri01c.html|title=Rick Tocchet Coaching Record|access-date=2024-05-23|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-style="background-color:#ddffdd"
+|22
+| style="text-align:left;"|[[Adam Foote]]{{asterisk}}
+|{{NHL Year|2025|full=y}}
+|82 
+|25 
+|49 
+|—
+|8 
+|58
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/footead01c.html|title=Adam Foote Coaching Record|access-date=April 16, 2026|publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref>
+|-style="background-color:#ddffdd"
+|23
+| style="text-align: left;" |[[Manny Malhotra]]{{asterisk}}
+|{{NHL Year|2026|start}}–present
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|—
+|
+|
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+;General
+* {{cite web|url=https://www.hockey-reference.com/teams/VAN/coaches.html|title=Vancouver Canucks Coach Register|publisher=Sports Reference, LLC|work=Hockey-Reference.com|access-date=2008-07-03}}
+* {{cite web|url=http://www.nhl.com/canucks/ext/alltime_07_08.pdf |archive-url=https://web.archive.org/web/20110604124652/http://www.nhl.com/canucks/ext/alltime_07_08.pdf |url-status=dead |archive-date=2011-06-04 |title=Vancouver Canucks: All-Time Records |publisher=The Vancouver Canucks Limited Partnership and the National Hockey League |access-date=2009-04-20 }}
+
+;Specific
+{{reflist}}
+
+{{Vancouver Canucks}}
+{{NHLHeadCoach}}
+
+[[Category:Vancouver Canucks coaches| ]]
+[[Category:National Hockey League coaches by team|Vancouver Canucks head coaches]]
+[[Category:Lists of ice hockey coaches|Vancouver Canucks head coaches]]
+[[Category:Vancouver Canucks lists|head coaches]]

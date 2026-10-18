@@ -1,0 +1,558 @@
+{{Short description|None}}
+{{Use mdy dates|date=May 2025}}
+
+The [[Detroit Red Wings]] are a professional [[ice hockey]] team based in [[Detroit]], [[Michigan]]. They are members of the [[Atlantic Division (NHL)|Atlantic Division]] in the [[Eastern Conference (NHL)|Eastern Conference]] of the [[National Hockey League]] (NHL) and are one of the [[Original Six]] teams of the league.<ref>{{cite web |url=http://www.nhl.com/ice/teams.htm?navid=nav-tms-main |title=Rosters, Arena Information, and Aerial Maps |access-date=August 27, 2013 |publisher=[[National Hockey League]] |archive-date=August 24, 2013 |archive-url=https://web.archive.org/web/20130824122252/http://www.nhl.com/ice/teams.htm?navid=nav-tms-main |url-status=dead }}</ref><ref>{{cite web |url=http://www.nhl.com/ice/news.htm?id=670654 |title=4 of the NHL's Original 6 – Chicago, Detroit, Boston, NY Rangers – among 8 still in playoffs |date=May 14, 2013 |access-date=August 26, 2013 |author=The Canadian Press |author-link=The Canadian Press |publisher=National Hockey League |archive-date=September 27, 2013 |archive-url=https://web.archive.org/web/20130927214823/http://www.nhl.com/ice/news.htm?id=670654 |url-status=dead }}</ref> There have been 28 head coaches in franchise history; three during the era of the Detroit Cougars (1926–1930) and Detroit Falcons (1930–1932) and the rest under the Detroit Red Wings (1932–present). Six Red Wings coaches have been inducted into the [[Hockey Hall of Fame]] as players: [[Jack Adams]], [[Sid Abel]], [[Bill Gadsby]], [[Marcel Pronovost]], [[Ted Lindsay]], and [[Brad Park]], while two others as [[List of members of the Hockey Hall of Fame#Builders|builders]]: [[Tommy Ivan]] and [[Scotty Bowman]]. Adams, Bowman, Ivan, and Lindsay have also won the [[Lester Patrick Trophy]], an award presented to those who have provided an outstanding service to hockey in the [[United States]].
+
+[[Barry Smith (ice hockey b. 1952)|Barry Smith]] has the highest [[winning percentage]] of any Red Wings coach, with an .800 record from the five games he coached on an interim basis with [[Dave Lewis (ice hockey)|Dave Lewis]] during the 1998 season.<ref name="Dave Lewis">{{cite web |url=https://www.hockey-reference.com/coaches/lewisda02c.htm|title=Dave Lewis|access-date=2008-05-11 |publisher=Sports Reference, LLC|work=Hockey-Reference.com}}</ref><ref name="Barry Smith">{{cite web|url=https://www.hockey-reference.com/coaches/smithba99c.html|title=Barry Smith|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706191558/http://www.hockey-reference.com/coaches/smithba99c.html|url-status=live}}</ref> He is followed by Lewis who has a .672 winning percentage.<ref name="Dave Lewis" /> [[Larry Wilson (ice hockey)|Larry Wilson]], who coached the 1977 season, has the lowest winning percentage (.139). Jack Adams coached the most games of any Red Wings head coach, 964 games during his tenure with the Cougars, Falcons and Red Wings. Adams also has the most regular season losses and ties.<ref name="Jack Adams">{{cite web|url=https://www.hockey-reference.com/coaches/adamsja01c.html|title=Jack Adams|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-06-12|archive-url=https://web.archive.org/web/20170612193416/http://www.hockey-reference.com/coaches/adamsja01c.html|url-status=live}}</ref><ref name="NHLRecordBook" /> The [[Jack Adams Award]], awarded annually to the National Hockey League head coach "adjudged to have contributed the most to his team's success", is named after him. [[Mike Babcock]] has the most regular season wins.<ref name="NHLRecordBook" /> [[Jacques Demers]] is the only NHL coach to have won the Jack Adams Award twice with the same team. Scotty Bowman also won twice, though with different teams: the first time, he was coach of the [[Montreal Canadiens]].<ref>{{cite web|url=http://www.nhl.com/ice/page.htm?id=24929|title=Jack Adams Award|access-date=2016-05-15|publisher=National Hockey League|work=NHL.com|archive-date=2016-12-23|archive-url=https://web.archive.org/web/20161223070040/http://www.nhl.com/ice/page.htm?id=24929|url-status=dead}}</ref> The current head coach of the Red Wings is [[Todd McLellan]], who was hired in December 2024.<ref name="Lalonde">{{cite web |last=Roth |first=Thomas |date=December 26, 2024 |title=Red Wings name Todd McLellan head coach |url=https://www.nhl.com/redwings/news/red-wings-name-todd-mclellan-head-coach |access-date=December 26, 2024 |website=NHL.com}}</ref>
+
+==Key==
+{|class="wikitable" style="font-size:90%;"
+|+Key of terms and definitions
+|-
+!scope="col" |Term
+!scope="col" |Definition
+|-
+!scope="row" |No.
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+!scope="row" |GC
+|Games coached
+|-
+!scope="row" |W
+|Wins
+|-
+!scope="row" |L
+|Losses
+|-
+!scope="row" |T
+|Ties
+|-
+!scope="row" |OT
+|[[Overtime (ice hockey)|Overtime/shootout]] losses{{ref label|Note2|b|b}}
+|-
+!scope="row" |Win%
+|[[Winning percentage]]
+|-
+!scope="row" style="background:#ddffdd"|{{Hash-tag}}
+|Spent entire NHL head coaching career with the Red Wings
+|-
+!scope="row" style="background:#FFE6BD"|{{dagger}}
+|Elected to the [[Hockey Hall of Fame]]
+|-
+!scope="row" style="background:#D0E7FF"|{{double dagger}}
+|Spent entire NHL head coaching career with the Red Wings<br />and also elected to the Hockey Hall of Fame
+|}
+
+==Coaches==
+
+[[Image:Jack Adams, Toronto Arenas.jpg|thumb|upright|[[Jack Adams]], shown here as a player in the [[Ontario Hockey Association|OHA]], coached the team from 1927 to 1947.|alt=Jack Adams]]
+[[Image:Scottybowman-2006awards.jpg|thumb|upright|[[Scotty Bowman]], the 23rd head coach of the Red Wings, coached the team from 1993 to 2002.|alt=Scotty Bowman]]
+''Note: Statistics are correct through the [[2025–26 NHL season]].''
+{|class="wikitable"
+|+Head coaches of the Detroit NHL franchise
+|-
+!scope="col" rowspan="2" |No.
+!scope="col" rowspan="2" |Name
+!scope="col" rowspan="2" |Term(s){{ref label|Note3|c|c}}
+!scope="col" |GC
+!scope="col" |W
+!scope="col" |L
+!scope="col" |T/OT
+!scope="col" |Win%
+!scope="col" |GC
+!scope="col" |W
+!scope="col" |L
+!scope="col" |T
+!scope="col" |Win%
+!scope="col" rowspan="2" class="unsortable" |Awards
+!scope="col" rowspan="2" class="unsortable" |Ref(s)
+|-
+!colspan="5" class="unsortable" |Regular season
+!colspan="5" class="unsortable" |Playoffs
+|-
+!scope="row" |1
+|{{sortname|Art|Duncan}}
+|1926–27
+|33
+|10
+|21
+|{{sort|002|2}}
+|.333
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook">{{cite book |title=[[NHL Official Guide & Record Book|NHL Official Guide & Record Book 2015]] |author=National Hockey League |author-link=National Hockey League |year=2014 |publisher=Triumph |isbn=978-1-62937-011-8  |chapter=All–Time Regular-Season NHL Coaching Register |pages=190–193 }}</ref><ref>{{cite web |url=https://www.hockey-reference.com/coaches/duncaar01c.html |title=Arthur Duncan |access-date=2008-05-11 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2017-07-06 |archive-url=https://web.archive.org/web/20170706195112/https://www.hockey-reference.com/coaches/duncaar01c.html |url-status=live }}</ref>
+|-
+!scope="row" |2
+|style="background:#D0E7FF" |{{sortname|Duke|Keats}}{{double dagger|alt=Spent entire NHL head coaching career with the Red Wings and also elected to the Hockey Hall of Fame}}
+|1926–27
+|11
+|2
+|7
+|{{sort|002|2}}
+|.273
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web |url=https://www.hockey-reference.com/coaches/keatsdu01c.html |title=Duke Keats |access-date=2008-05-11 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2017-06-12 |archive-url=https://web.archive.org/web/20170612191106/http://www.hockey-reference.com/coaches/keatsdu01c.html |url-status=live }}</ref>
+|-
+!scope="row" |3
+|style="background:#D0E7FF" |{{sortname|Jack|Adams}}{{double dagger|alt=Spent entire NHL head coaching career with the Red Wings and also elected to the Hockey Hall of Fame}}
+|1927–47
+|964
+|413
+|390
+|161
+|.512
+|105
+|{{sort|052|52}}
+|{{sort|052|52}}
+|{{sort|001|1}}
+|{{sort|0.500|.500}}
+|[[Stanley Cup]] ([[1936 Stanley Cup Final|1936]], [[1937 Stanley Cup Final|1937]], [[1943 Stanley Cup Final|1943]])<br />First [[NHL All-Star team|All-Star team]] Coach (1937, 1943)<br /> second All-Star team Coach (1945)
+|<ref name="Jack Adams"/><ref name="NHLRecordBook" /><ref name="NHLRecordPost">{{cite book |title=NHL Official Guide & Record Book 2015 |author=National Hockey League |year=2014 |publisher=Triumph |isbn=978-1-62937-011-8  |chapter=All–Time Playoff NHL Coaching Register |pages=274–275 }}</ref><ref name="Stanley">{{cite web |title=Detroit Red Wings Franchise Index |url=https://www.hockey-reference.com/teams/DET/ |access-date=June 6, 2016 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=June 4, 2016 |archive-url=https://web.archive.org/web/20160604133414/http://www.hockey-reference.com/teams/DET/ |url-status=live }}</ref>
+|-
+!scope="row" |4
+|style="background:#FFE6BD" |{{sortname|Tommy|Ivan}}{{dagger|alt=Elected to the Hockey Hall of Fame}}
+|1947–54
+|470
+|262
+|118
+|{{sort|090|90}}
+|.653
+|{{sort|067|67}}
+|{{sort|036|36}}
+|{{sort|031|31}}
+|{{sort|000|0}}
+|{{sort|0.537|.537}}
+|[[Stanley Cup]] ([[1950 Stanley Cup Final|1950]], [[1952 Stanley Cup Final|1952]], [[1954 Stanley Cup Final|1954]])
+|<ref name="NHLRecordBook" /><ref name="NHLRecordPost" /><ref name="Stanley" /><ref>{{cite web |url=https://www.hockey-reference.com/coaches/ivanto99c.html |title=Tommy Ivan |access-date=2008-05-11 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2017-06-26 |archive-url=https://web.archive.org/web/20170626213006/http://www.hockey-reference.com/coaches/ivanto99c.html |url-status=live }}</ref>
+|-
+!scope="row" |5
+|style="background:#ddffdd" |{{sortname|Jimmy|Skinner}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1954–58
+|247
+|123
+|78
+|{{sort|046|46}}
+|.591
+|{{sort|026|26}}
+|{{sort|014|14}}
+|{{sort|012|12}}
+|{{sort|000|0}}
+|{{sort|0.538|.538}}
+|[[Stanley Cup]] ([[1955 Stanley Cup Final|1955]])
+|<ref name="NHLRecordBook" /><ref name="NHLRecordPost" /><ref name="Stanley" /><ref>{{cite web |url=https://www.hockey-reference.com/coaches/skinnji99c.html |title=Jimmy Skinner |access-date=2008-05-11 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2017-07-06 |archive-url=https://web.archive.org/web/20170706193827/http://www.hockey-reference.com/coaches/skinnji99c.html |url-status=live }}</ref>
+|-
+!scope="row" |6
+|style="background:#FFE6BD" |{{sortname|Sid|Abel}}{{dagger|alt=Elected to the Hockey Hall of Fame}}
+|1958–68<br />1969–70
+|811
+|340
+|339
+|132
+|.501
+|{{sort|076|76}}
+|{{sort|032|32}}
+|{{sort|044|44}}
+|{{sort|000|0}}
+|{{sort|0.421|.421}}
+|
+|<ref name="NHLRecordBook" /><ref name="NHLRecordPost" /><ref name="Sid Abel">{{cite web |url=https://www.hockey-reference.com/coaches/abelsi01c.html |title=Sid Abel |access-date=2008-05-11 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2017-07-06 |archive-url=https://web.archive.org/web/20170706195146/http://www.hockey-reference.com/coaches/abelsi01c.html |url-status=live }}</ref>
+|-
+!scope="row" |7
+|style="background:#D0E7FF" |{{sortname|Bill|Gadsby}}{{double dagger|alt=Spent entire NHL head coaching career with the Red Wings and also elected to the Hockey Hall of Fame}}
+|1968–69
+|78
+|35
+|31
+|{{sort|012|12}}
+|.526
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web |url=https://www.hockey-reference.com/coaches/gadsbbi01c.html |title=Bill Gadsby |access-date=2008-05-11 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2017-07-06 |archive-url=https://web.archive.org/web/20170706191230/http://www.hockey-reference.com/coaches/gadsbbi01c.html |url-status=live }}</ref>
+|-
+!scope="row" |8
+|style="background:#ddffdd" |{{sortname|Ned|Harkness}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1970–71
+|38
+|12
+|22
+|{{sort|004|4}}
+|.368 
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web |url=https://www.hockey-reference.com/coaches/harknne99c.html |title=Ned Harkness |access-date=2008-05-11 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2017-07-06 |archive-url=https://web.archive.org/web/20170706201355/http://www.hockey-reference.com/coaches/harknne99c.html |url-status=live }}</ref>
+|-
+!scope="row" |9
+|style="background:#ddffdd" |{{sortname|Doug|Barkley}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1970–71<br />1975–76
+|77
+|20
+|46
+|{{sort|011|11}}
+|.331
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web |url=https://www.hockey-reference.com/coaches/barkldo01c.html |title=Doug Barkley |access-date=2008-05-11 |publisher=Sports Reference, LLC |work=Hockey-Reference.com |archive-date=2017-07-06 |archive-url=https://web.archive.org/web/20170706183045/http://www.hockey-reference.com/coaches/barkldo01c.html |url-status=live }}</ref>
+|-
+!scope="row" |10
+|{{sortname|Johnny|Wilson|Johnny Wilson (ice hockey)}}
+|1971–73
+|145
+|67
+|56
+|{{sort|022|22}}
+|.538
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/wilsojo01c.html|title=Johnny Wilson|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-04|archive-url=https://web.archive.org/web/20170704194735/http://www.hockey-reference.com/coaches/wilsojo01c.html|url-status=live}}</ref>
+|-
+!scope="row" |11
+|style="background:#ddffdd" |{{sortname|Ted|Garvin}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1973–74
+|11
+|2
+|8
+|{{sort|001|1}}
+|.227
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/garvite99c.html|title=Ted Garvin|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706180026/http://www.hockey-reference.com/coaches/garvite99c.html|url-status=live}}</ref>
+|-
+!scope="row" |12
+|style="background:#D0E7FF" |{{sortname|Alex|Delvecchio}}{{double dagger|alt=Spent entire NHL head coaching career with the Red Wings and also elected to the Hockey Hall of Fame}}
+|1973–75<br />1975–77
+|245
+|82
+|131
+|{{sort|032|32}}
+|.400
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref name="Alex Delvecchio">{{cite web|url=https://www.hockey-reference.com/coaches/delveal01c.html|title=Alex Delvecchio|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706194141/http://www.hockey-reference.com/coaches/delveal01c.html|url-status=live}}</ref>
+|-
+!scope="row" |13
+|style="background:#ddffdd" |{{sortname|Larry|Wilson|Larry Wilson (ice hockey)}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1976–77
+|36
+|3
+|29
+|{{sort|004|4}}
+|.139
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/wilsola01c.html|title=Larry Wilson|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706192254/http://www.hockey-reference.com/coaches/wilsola01c.html|url-status=live}}</ref>
+|-
+!scope="row" |14
+|style="background:#ddffdd" |{{sortname|Bobby|Kromm}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1977–80
+|231
+|79
+|111
+|{{sort|041|41}}
+|.431
+|{{sort|007|7}}
+|{{sort|003|3}}
+|{{sort|004|4}}
+|{{sort|000|0}}
+|{{sort|0.428|.428}}
+|[[Jack Adams Award]] (1978)
+|<ref name="NHLRecordBook" /><ref name="NHLRecordPost" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/krommbo99c.html|title=Bobby Kromm|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706174101/http://www.hockey-reference.com/coaches/krommbo99c.html|url-status=live}}</ref>
+|-
+!scope="row" |15
+|style="background:#D0E7FF" |{{sortname|Ted|Lindsay}}{{double dagger|alt=Spent entire NHL head coaching career with the Red Wings and also elected to the Hockey Hall of Fame}}
+|1979–81
+|29
+|5
+|21
+|{{sort|003|3}}
+|.224
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/lindste01c.html|title=Ted Lindsay|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706201308/http://www.hockey-reference.com/coaches/lindste01c.html|url-status=live}}</ref>
+|-
+!scope="row" |16
+|style="background:#ddffdd" |{{sortname|Wayne|Maxner}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1980–82
+|129
+|34
+|68
+|{{sort|027|27}}
+|.368
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/maxnewa01c.html|title=Wayne Maxner|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706192903/http://www.hockey-reference.com/coaches/maxnewa01c.html|url-status=live}}</ref>
+|-
+!scope="row" |17
+|style="background:#ddffdd" |{{sortname|Billy|Dea}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1981–82
+|11
+|3
+|8
+|{{sort|000|0}}
+|.273
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref name="Billy Dea">{{cite web|url=https://www.hockey-reference.com/coaches/deabi01c.html|title=Billy Dea|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706195539/http://www.hockey-reference.com/coaches/deabi01c.html|url-status=live}}</ref>
+|-
+!scope="row" |18
+|style="background:#ddffdd" |{{sortname|Nick|Polano}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1982–85
+|240
+|79
+|127
+|{{sort|034|34}}
+|.400
+|{{sort|007|7}}
+|{{sort|001|1}}
+|{{sort|006|6}}
+|{{sort|000|0}}
+|{{sort|0.143|.143}}
+|
+|<ref name="NHLRecordBook" /><ref name="NHLRecordPost" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/polanni99c.html|title=Nick Polano|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706182608/http://www.hockey-reference.com/coaches/polanni99c.html|url-status=live}}</ref>
+|-
+!scope="row" |19
+|{{sortname|Harry|Neale}} 
+|1985–86
+|35
+|8
+|23
+|{{sort|004|4}}
+|.286
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/nealeha99c.html|title=Harry Neale|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706201220/http://www.hockey-reference.com/coaches/nealeha99c.html|url-status=live}}</ref>
+|-
+!scope="row" |20
+|style="background:#D0E7FF" |{{sortname|Brad|Park}}{{double dagger|alt=Spent entire NHL head coaching career with the Red Wings and also elected to the Hockey Hall of Fame}}
+|1985–86
+|45
+|9
+|34
+|{{sort|002|2}}
+|.222
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="NHLRecordBook" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/parkbr01c.html|title=Brad Park|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706194737/http://www.hockey-reference.com/coaches/parkbr01c.html|url-status=live}}</ref>
+|-
+!scope="row" |21
+|{{sortname|Jacques|Demers}}
+|1986–90
+|320
+|137
+|136
+|{{sort|047|47}}
+|.502
+|{{sort|038|38}}
+|{{sort|020|20}}
+|{{sort|018|18}}
+|{{sort|000|0}}
+|{{sort|0.526|.526}}
+|[[Jack Adams Award]] (1987, 1988)
+|<ref name="NHLRecordBook" /><ref name="NHLRecordPost" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/demerja99c.html|title=Jacques Demers|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-07-06|archive-url=https://web.archive.org/web/20170706191255/http://www.hockey-reference.com/coaches/demerja99c.html|url-status=live}}</ref>
+|-
+!scope="row" |22
+|{{sortname|Bryan|Murray|Bryan Murray (ice hockey)}}
+|1990–93
+|244
+|124
+|91
+|{{sort|029|29}}
+|.568
+|{{sort|025|25}}
+|{{sort|010|10}}
+|{{sort|015|15}}
+|{{sort|000|0}}
+|{{sort|0.400|.400}}
+|
+|<ref name="NHLRecordBook" /><ref name="NHLRecordPost" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/murrabr99c.html|title=Bryan Murray|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-08-04|archive-url=https://web.archive.org/web/20170804014125/https://www.hockey-reference.com/coaches/murrabr99c.html|url-status=live}}</ref>
+|-
+!scope="row" |23
+|style="background:#FFE6BD" |{{sortname|Scotty|Bowman}}{{dagger|alt=Elected to the Hockey Hall of Fame}}
+|1993–2002
+|701
+|410
+|193
+|{{sort|098|98}}
+|.655
+|134
+|{{sort|086|86}}
+|{{sort|048|48}}
+|{{sort|000|0}}
+|{{sort|0.642|.642}}
+|[[Stanley Cup]] ([[1997 Stanley Cup Final|1997]], [[1998 Stanley Cup Final|1998]], [[2002 Stanley Cup Final|2002]])<br />[[Jack Adams Award]] (1996)
+|<ref name="NHLRecordBook" /><ref name="NHLRecordPost" /><ref name="Stanley" /><ref name="Scotty Bowman">{{cite web|url=https://www.hockey-reference.com/coaches/bowmasc99c.html|title=Scotty Bowman|access-date=2008-05-11|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-06-27|archive-url=https://web.archive.org/web/20170627054240/http://www.hockey-reference.com/coaches/bowmasc99c.html|url-status=live}}</ref>
+|-
+!scope="row" |24
+|style="background:#DDFFDD" |{{sortname|Barry|Smith|Barry Smith (ice hockey b. 1952)}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|1998–99
+|5
+|4
+|1
+|{{sort|000|0}}
+|.800
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|{{sort dash}}
+|
+|<ref name="Barry Smith" /><ref name="NHLRecordBook" /><ref name="NHLRecordPost" />
+|-
+!scope="row" |25
+|{{sortname|Dave|Lewis|Dave Lewis (ice hockey)}}
+|1998–99<br />2002–05
+|169
+|100
+|42
+|{{sort|027|27}}
+|.672
+|{{sort|016|16}}
+|{{sort|006|6}}
+|{{sort|010|10}}
+|{{sort|000|0}}
+|{{sort|0.375|.375}}
+|
+|<ref name="Dave Lewis"/><ref name="NHLRecordBook" /><ref name="NHLRecordPost" />
+|-
+!scope="row" |26
+|{{sortname|Mike|Babcock}}
+|2005–2015
+|786
+|458
+|223
+|{{sort|105|105}}
+|.649
+|123
+|{{sort|067|67}}
+|{{sort|056|56}}
+|{{sort|000|0}}
+|{{sort|0.545|.545}}
+|[[Stanley Cup]] ([[2008 Stanley Cup Final|2008]])
+|<ref name="NHLRecordBook" /><ref name="NHLRecordPost" /><ref name="Stanley" /><ref>{{cite web|url=https://www.hockey-reference.com/coaches/babcomi99c.html|title=Mike Babcock|access-date=2011-07-16|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=2017-06-06|archive-url=https://web.archive.org/web/20170606065245/http://www.hockey-reference.com/coaches/babcomi99c.html|url-status=live}}</ref>
+|-
+!scope="row" |27
+|{{sortname|Jeff|Blashill}}
+|2015–2022
+|537
+|204
+|261
+|72
+|.447
+|5
+|1
+|4
+|{{sort|000|0}}
+|{{sort|0.200|.200}}
+|
+|<ref name="blash">{{cite web |url=http://www.nhl.com/ice/news.htm?id=770324 |access-date=June 9, 2015 |date=June 9, 2015 |title=Red Wings hire Jeff Blashill as new coach |archive-date=June 10, 2015 |archive-url=https://web.archive.org/web/20150610130637/http://www.nhl.com/ice/news.htm?id=770324 |url-status=dead }}</ref><ref>{{cite web|url=https://www.hockey-reference.com/coaches/blashje99c.html|title=Jeff Blashill|access-date=June 9, 2015|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=December 7, 2017|archive-url=https://web.archive.org/web/20171207135541/https://www.hockey-reference.com/coaches/blashje99c.html|url-status=live}}</ref>
+|-
+!scope="row" |28
+|style="background:#ddffdd" |{{sortname|Derek|Lalonde}}{{Hash-tag|alt=Spent entire NHL head coaching career with the Red Wings}}
+|2022–2024
+|198
+|89
+|86
+|23
+|.508
+|— 
+|— 
+|— 
+|–
+|–
+|
+|<ref>{{Cite web |date=2022-06-30 |title=Red Wings name Derek Lalonde head coach {{!}} Detroit Red Wings |url=https://www.nhl.com/redwings/news/derek-lalonde-named-head-coach-334788670 |access-date=2024-12-26 |website=www.nhl.com |language=en}}</ref><ref>{{Cite web |title=Derek Lalonde |url=https://www.hockey-reference.com/coaches/lalonde99c.html |access-date=2024-12-26 |website=Hockey-Reference.com |language=en}}</ref>
+|-
+!29
+|[[Todd McLellan]]
+|2024–present
+| 130 
+| 67 
+| 49 
+| 14 
+| {{winpct|67|49|14}}
+|— 
+|— 
+|— 
+|–
+|–
+|
+|<ref>{{cite web |url=https://www.nhl.com/news/todd-mclellan-named-detroit-coach-replacing-fired-derek-lalonde |title=McLellan hired as Red Wings coach, replaces Lalonde |website=NHL.com |date=December 26, 2024 |access-date=December 26, 2024}}</ref><ref name="McLellan">{{Cite web|url=https://www.hockey-reference.com/coaches/mclelto01c.html|title=Todd McLellan |website=Hockey-Reference.com|access-date=December 26, 2024|archive-date=2017-11-21|archive-url=https://web.archive.org/web/20171121230929/https://www.hockey-reference.com/coaches/mclelto01c.html|url-status=live}}</ref>
+|}
+
+==See also==
+*[[List of NHL head coaches]]
+
+==Notes==
+* {{note label|Note1|a|a}} A running total of the number of coaches of the Red Wings; thus, any coach who has two or more separate terms as head coach is only counted once.
+* {{note label|Note2|b|b}} Prior to the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular-season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite news | title = Shootouts are fan-friendly | work = [[The Washington Times]] | date = October 19, 2005 | url = http://www.washingtontimes.com/news/2005/oct/18/20051018-114500-9318r/ | access-date = May 24, 2013 | archive-date = May 17, 2009 | archive-url = https://web.archive.org/web/20090517081305/http://www.washingtontimes.com/news/2005/oct/18/20051018-114500-9318r/ | url-status = live }}</ref>
+* {{note label|Note3|c|c}}The term(s) column lists the first year of the season of the coach's first game and the last year of the season of the coach's last game. For example, someone who coached one game in the 2000–2001 season would be listed as coaching the team from 2000–2001, regardless of what calendar year the game occurred within.
+
+==References==
+{{Reflist|30em}}
+
+{{Detroit Red Wings}}
+{{NHLHeadCoach}}
+{{Portal bar|Ice hockey|Sports|Michigan|United States}}
+{{featured list}}
+
+{{DEFAULTSORT:List Of Detroit Red Wings Head Coaches}}
+[[Category:Detroit Red Wings coaches| ]]
+[[Category:National Hockey League coaches by team|Detroit Red Wings head coaches]]
+[[Category:Lists of ice hockey coaches|Detroit Red Wings head coaches]]
+[[Category:Detroit Red Wings lists|head coaches]]

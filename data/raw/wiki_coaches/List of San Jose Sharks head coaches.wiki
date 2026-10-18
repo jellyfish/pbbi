@@ -1,0 +1,157 @@
+{{Short description|none}}
+{{Use mdy dates|date=May 2025}}
+[[File:2025-05-04 Deutschland gegen USA (Eishockey-Länderspiel) by Sandro Halank–165.jpg|thumb|right|Ryan Warsofsky, the current head coach of the San Jose Sharks.]]
+The [[San Jose Sharks]] are a professional [[ice hockey]] team based in [[San Jose, California]]. The team is a member of the [[Pacific Division (NHL)|Pacific Division]] in the [[Western Conference (NHL)|Western Conference]] of the [[National Hockey League]] (NHL). Established for the [[1991–92 NHL season]], the Sharks initially played games at the [[Cow Palace]] before moving to [[SAP Center]] in 1993. The Sharks are owned by [[San Jose Sports & Entertainment Enterprises]].
+
+There have been twelve head coaches in Sharks franchise history. [[George Kingston (ice hockey)|George Kingston]] was the first coach in Sharks history and lasted two seasons, which included a [[1992–93 San Jose Sharks season|1992–93]] campaign where the team set an NHL record for losses in a season with 71. [[Todd McLellan]] has the most games coached (540), wins (311), points (688) and playoff games coached (62) in franchise history as of the end of the [[2021-22 NHL season]]. [[Peter DeBoer]] is the leader in playoff wins, with 32 as of the end of the [[2019 Stanley Cup playoffs]], and the only coach to take the team to a [[Stanley Cup Final]]. [[Cap Raeder]] is the leader in winning percentage, winning his sole game as head coach on December 3, 2002 against the [[Phoenix Coyotes]]. [[Jim Wiley]] holds the franchise records for fewest wins (17) and fewest points (37), while Kingston holds the record for lowest winning percentage (.192). The current head coach of the Sharks is [[Ryan Warsofsky]], whose hiring was announced on June 13, 2024.
+
+== Key ==
+{| class="wikitable" style="font-size:90%;"
+|-
+| '''#'''
+| Number of coaches{{ref label|Note1|A|A}}
+|-
+| '''GC'''
+| Games coached
+|-
+| '''W'''
+| Wins
+|-
+| '''L'''
+| Loses
+|-
+| '''T'''
+| Ties
+|-
+| '''OTL'''
+| Overtime losses <small>includes shootout losses</small>
+|-
+| '''Win %'''
+| [[Winning percentage]]
+|-
+| style="background-color:#dfd"|'''{{dagger}}'''
+| Spent entire NHL coaching career with the Sharks
+|}
+
+==Coaches==
+[[File:Darryl Sutter, 2006 NHL Awards.jpg|right|thumb|160px|Darryl Sutter, the 5th head coach of the Sharks, coached the team from 1997 to 2002.]]
+[[File:Todd McLellan.jpg|thumb|right|Todd McLellan, the 8th head coach of the Sharks, coached the team from 2008 to 2015.]]
+{| class="wikitable" style="text-align:center;"
+! rowspan="2"|#
+! rowspan="2"|Name
+! rowspan="2"|Nat
+! rowspan="2"|Dates
+! colspan="7"|Regular season
+! colspan="3"|Playoffs
+|-
+! GC
+! W
+! L
+! T
+! OTL{{ref label|Note1|B|B}}
+! Pts
+! Points %
+! GC
+! W
+! L
+|- style="background-color:#dfd"
+| 1
+| style="text-align:left;"|[[George Kingston (ice hockey)|George Kingston]]{{dagger}} || {{flagicon|CAN}}
+| April 12, 1991 – April 18, 1993
+| 164 || 28 || 129 || 7 || — || 63 || .192
+| colspan="3"|—
+|-
+| 2
+| style="text-align:left;"|[[Kevin Constantine]] || {{flagicon|USA}}
+| June 16, 1993 – December 1, 1995
+| 157 || 55 || 78 || 24 || — || 134 || .427
+| 25 || 11 || 14
+|- style="background-color:#dfd"
+| 3
+| style="text-align:left;"|[[Jim Wiley]]{{ref label|Note1|C|C}} || {{flagicon|CAN}}
+| December 1, 1995 – June 5, 1996
+| 57 || 17 || 37 || 3 || — || 37 || .325
+| colspan="3"|—
+|- style="background-color:#dfd"
+| 4
+| style="text-align:left;"|[[Al Sims]]{{dagger}} || {{flagicon|CAN}}
+| June 5, 1996 – May 9, 1997
+| 82 || 27 || 47 || 8 || — || 62 || .378
+| colspan="3"|—
+|-
+| 5
+| style="text-align:left;"|[[Darryl Sutter]] || {{flagicon|CAN}}
+| June 8, 1997 – December 1, 2002
+| 434 || 192 || 167 || 60 || 15 || 459 || .529
+| 42 || 18|| 24
+|- style="background-color:#dfd"
+| 6
+| style="text-align:left;"|[[Cap Raeder]]{{ref label|Note1|D|D}} || {{flagicon|USA}}
+| December 1, 2002 – December 4, 2002
+| 1 || 1 || 0 || 0 || 0 || 2 || 1.000
+| colspan="3"|—
+|-
+| 7
+| style="text-align:left;"|[[Ron Wilson (ice hockey b. 1955)|Ron Wilson]] || {{flagicon|USA}}
+| December 4, 2002 – May 12, 2008
+| 385 || 206 || 122 || 19 || 38 || 469 || .609
+| 52 || 28 || 24
+|- 
+| 8
+| style="text-align:left;"|[[Todd McLellan]] || {{flagicon|CAN}}
+| June 11, 2008 – April 20, 2015
+| 540 || 311 || 163 || — || 66 || 688 || .637
+| 62 || 30 || 32
+|-
+| 9
+| style="text-align:left;"|[[Peter DeBoer]] || {{flagicon|CAN}}
+| May 28, 2015 – December 11, 2019
+| 361 || 198 || 129 || — || 34 || 430 || .596
+| 60 || 32 || 28
+|- 
+| 10
+| style="text-align:left;"|[[Bob Boughner]]{{ref label|Note1|E|E}} || {{flagicon|CAN}}
+| December 11, 2019 – July 1, 2022
+| 175 || 67 || 85 || — || 23 || 157 || .449
+| colspan="3"|—
+|- 
+| 11
+| style="text-align:left;"|[[David Quinn (ice hockey)|David Quinn]] || {{flagicon|USA}}
+| July 26, 2022 – April 24, 2024
+| 164 || 41 || 98 || — || 25 || 107 || .326
+| colspan="3"|—
+|- style="background-color:#dfd"
+| 12
+| style="text-align:left;"|[[Ryan Warsofsky]] || {{flagicon|USA}}
+| June 13, 2024 – ''current''
+| 164 || 59 || 85 || — || 20 || 138 || {{winpct|59|85|20}}
+| colspan="3"|—
+|- 
+|}
+<!-- DON'T UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE CURRENT SEASON -->
+
+==See also==
+* [[List of NHL head coaches]]
+* [[Captain (hockey)|List of current NHL captains]]
+* [[List of NHL players]]
+
+==Notes==
+* {{note label|Note1|A|A}} A running total of the number of coaches of the Sharks. Thus, any coach who had two separate terms as head coach is only counted once.
+* {{note label|Note1|B|B}} Before 1999, overtime losses were included in the loss column;<ref>{{citation |last=Caldwell |first=Dave |url=https://www.nytimes.com/2008/02/17/sports/hockey/17score.html |title=Playing It Safe for a Bonus Point in the N.H.L. |accessdate=September 14, 2008 |date=February 17, 2008 |work=New York Times}}</ref> Since 2005, ties are no longer possible.<ref>{{citation |last=Burnside |first=Scott |url=https://www.espn.com/nhl/news/story?id=2114523 |title=Rule changes geared toward entertainment |access-date=September 14, 2008 |date=July 25, 2005 |publisher=ESPN}}</ref>
+* {{note label|Note1|C|C}} Wiley served as interim coach for the remainder of the 1995–96 season following the firing of Constantine.
+* {{note label|Note1|D|D}} Raeder served as interim coach for a single game during the 2002–03 season following the firing of Sutter and prior to the hiring of Wilson.
+* {{note label|Note1|E|E}} Boughner served as interim coach for the remainder of the 2019–20 season following the firing of DeBoer before being named full-time coach.
+
+==Sources==
+* {{cite web|url=http://www.sjsharks.com/assets/team/2006-07_Sharks_Media_Guide.pdf|title=San Jose Sharks|archive-url=https://web.archive.org/web/20070319224129/http://www.sjsharks.com/assets/team/2006-07_Sharks_Media_Guide.pdf|archive-date=March 19, 2007|url-status=dead}}San Jose Sharks &nbsp;{{small|(15.7&nbsp;[[Mebibyte|MiB]])}}
+
+==References==
+{{reflist}}
+
+{{San Jose Sharks}}
+{{NHLHeadCoach}}
+
+[[Category:National Hockey League coaches by team|San Jose Sharks head coaches]]
+[[Category:Lists of ice hockey coaches|San Jose Sharks head coaches]]
+[[Category:San Jose Sharks coaches| ]]
+[[Category:San Jose Sharks lists|head coaches]]

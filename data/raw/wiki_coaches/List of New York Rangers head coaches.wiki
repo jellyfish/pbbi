@@ -1,0 +1,276 @@
+{{Short description|None}}
+{{Use mdy dates|date=May 2025}}
+[[File:Glen Sather, 2006 NHL Awards (cropped).jpg|thumb|upright|[[Glen Sather]] coached the Rangers for 90 games between 2003 and 2004.]]
+The [[New York Rangers]] are a professional [[ice hockey]] team based in [[New York City]]. They are members of the [[Metropolitan Division]] of the [[Eastern Conference (NHL)|Eastern Conference]] of the [[National Hockey League]] (NHL). Playing their home games at [[Madison Square Garden]], the Rangers are one of the oldest teams in the NHL, having joined in 1926 as an expansion franchise, and are part of the group of teams referred to as the [[Original Six]]. The Rangers were the first NHL franchise in the United States to win the [[Stanley Cup]],<ref name="Rangers Bruins">{{cite web |last1=Anderson |first1=Dave |title=Sports of The Times; At Boston Garden, There's Much More Gold Than Green |url=https://www.nytimes.com/1995/05/14/sports/sports-of-the-times-at-boston-garden-there-s-much-more-gold-than-green.html |website=The New York Times |access-date=May 12, 2021 |date=May 14, 1995 |archive-date=January 31, 2013 |archive-url=https://web.archive.org/web/20130131065831/http://www.nytimes.com/1995/05/14/sports/sports-of-the-times-at-boston-garden-there-s-much-more-gold-than-green.html |url-status=live }}</ref> which they have done four times (most recently in [[1994 Stanley Cup Final|1994]]).<ref name="Rangers Cup">{{cite web |last1=Vecsey |first1=George |title=Sports of The Times; Houston Finally Has an Edge |url=https://www.nytimes.com/1994/06/23/sports/sports-of-the-times-houston-finally-has-an-edge.html |website=The New York Times |access-date=May 12, 2021 |date=June 23, 1994 |archive-date=May 12, 2021 |archive-url=https://web.archive.org/web/20210512161554/https://www.nytimes.com/1994/06/23/sports/sports-of-the-times-houston-finally-has-an-edge.html |url-status=live }}</ref> The team is commonly referred to by its famous nickname, "The Broadway Blueshirts", or more commonly in New York media, as simply the "Blueshirts".
+
+There have been thirty-seven head coaches for the Rangers, the first one being [[Lester Patrick]], and the most recent being [[Peter Laviolette]]. [[Muzz Patrick]], [[Alfred Pike]], and [[Ron Smith (ice hockey, born 1944)|Ron Smith]] are the only coaches who spent their entire careers with the Rangers and were not elected to the [[Hockey Hall of Fame]].<ref name="Muzz Patrick"/><ref name="Pike"/><ref name="Smith"/><ref name="Campbell"/> [[Bernie Geoffrion]], [[Lynn Patrick]], [[Emile Francis]], [[Glen Sather]], [[Craig Patrick]], [[Roger Neilson]], [[Herb Brooks]], and [[Fred Shero]] have all been inducted to the Hockey Hall of Fame.<ref name="Geoffrion"/><ref name="Lynn"/><ref name="Francis"/><ref name="Sather"/><ref name="Craig Patrick"/><ref name="Neilson"/><ref name="Brooks"/><ref name="Shero"/> [[Lester Patrick]], [[Frank Boucher]], [[Colin Campbell (ice hockey executive)|Colin Campbell]], [[Neil Colville]], [[Bill Cook]], [[Phil Esposito]], [[Doug Harvey (ice hockey)|Doug Harvey]], and [[Bryan Trottier]] have all coached the Rangers for their entire coaching careers and have been elected to the Hockey Hall of Fame.<ref name="Patrick"/><ref name="Boucher"/><ref name="Colville"/><ref name="Cook"/><ref name="Esposito"/><ref name="Harvey"/><ref name="Trottier"/> [[Emile Francis]] has coached the most regular season games, 654, and the most playoff games, 75, in franchise history. [[Emile Francis]] also holds the franchise records in regular season wins, 342, and playoff wins, 34. [[Mike Keenan]], the twenty-fifth head coach of the Rangers, amassed the best points percentage, .667, and regular season winning percentage, .619, having done so in a single, 84-game season. Keenan is also the only head coach to have coached the Rangers to a [[Presidents' Trophy]] and [[Stanley Cup]] in the same season.<ref name="Keenan"/> [[Lester Patrick]] is the only head coach to have coached the Rangers to multiple Stanley Cups. Under head coach Peter Laviolette the Rangers set franchise records in wins (55) and points (114) in a single season, having set both records in the [[2023–24 NHL season|2023–24 season]].<ref name="Laviolette"/> The [[Jack Adams Award]] has never been awarded to the head coach of the [[New York Rangers]].
+
+==Key==
+{| class="wikitable"
+|+ Key of terms and definitions
+|-
+! scope="col" | Term
+! scope="col" | Definition
+|-
+! scope="row" | #
+| Number of coaches{{ref label|Note1|A|A}}
+|-
+! scope="row" | GC
+| Games coached
+|-
+! scope="row" | W
+| Wins
+|-
+! scope="row" | L
+| Losses
+|-
+! scope="row" | T
+| Ties (applicable until the 2003–04 NHL season)
+|-
+! scope="row" | OTL
+| Overtime/shootout losses (shootouts applicable since the 2005–06 NHL season)
+|-
+! scope="row" | P%
+| [[Points percentage]]
+|-
+! scope="row" | W%
+| [[Winning percentage]]
+|-
+! scope="row" style="background-color:#ffc;" | *
+| Elected to the [[Hockey Hall of Fame]]
+|-
+! scope="row" style="background-color:#cfc;" | {{dagger}}
+| Spent entire professional head coaching career with the Rangers
+|-
+! scope="row" style="background-color:#fcf;" | *{{dagger}}
+| Spent entire NHL head coaching career with the Rangers<br />and also elected to the [[Hockey Hall of Fame]]
+|}
+
+==Coaches==
+[[File:Lpatrick.jpg|thumb|upright|[[Lester Patrick]], the first coach of the Rangers, coached the team his entire career and was inducted to the Hockey Hall of Fame.]]
+''Note: Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+{| class="wikitable plainrowheaders"
+|+ Head coaches of the New York Rangers NHL franchise
+|-
+! scope="col" rowspan="2" | #
+! scope="col" rowspan="2" | Name
+! scope="col" rowspan="2" | Term
+! scope="colgroup" colspan="6" | Regular season
+! scope="colgroup" colspan="4" | Playoffs
+! scope="col" rowspan="2" | Achievements
+! scope="col" rowspan="2" | Note
+|-
+! scope="col" | GC
+! scope="col" | W
+! scope="col" | L
+! scope="col" | T
+! scope="col" | OTL
+! scope="col" | P%
+! scope="col" | GC
+! scope="col" | W
+! scope="col" | L
+! scope="col" | T
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | 1
+! scope="row" style="text-align: left; background-color:#fcf;" | [[Lester Patrick]]*{{dagger}}
+| [[1926–27 NHL season|1926]]–[[1938–39 NHL season|1939]] || 604 || 281 || 216 || 107 || — || .554 || 65 || 31 || 26 || 8 || style="text-align:center;"|[[Stanley Cup Finals|Stanley Cup champions]] ([[1928 Stanley Cup Final|1928]], [[1933 Stanley Cup Final|1933]]) || style="text-align:center;"|<ref name="Patrick">{{cite web|url=https://www.hockey-reference.com/coaches/patrile01c.html|title=Lester Patrick|access-date=July 5, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=May 24, 2018|archive-url=https://web.archive.org/web/20180524003640/https://www.hockey-reference.com/coaches/patrile01c.html|url-status=live}}</ref>
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | 2
+! scope="row" style="text-align: left; background-color:#fcf;" | [[Frank Boucher]]*{{dagger}}
+| [[1939–40 NHL season|1939]]–[[1948–49 NHL season|1948]] || 487 || 167 || 243 || 77 || — || .422 || 27 || 13 || 14 || 0 || style="text-align:center;"|Stanley Cup champions ([[1940 Stanley Cup Final|1940]]) || style="text-align:center;"|<ref name="Boucher">{{cite web|url=https://www.hockey-reference.com/coaches/bouchfr01c.html|title=Frank Boucher|access-date=July 6, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=May 23, 2018|archive-url=https://web.archive.org/web/20180523173527/https://www.hockey-reference.com/coaches/bouchfr01c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | 3
+! scope="row" style="text-align: left; background-color:#ffc;" | [[Lynn Patrick]]*
+| [[1948–49 NHL season|1948]]–[[1949–50 NHL season|1950]] ||107 || 40 || 51 || 16 || — || .449 || 12 || 7 || 5 || 0 || &nbsp; || style="text-align:center;"|<ref name="Lynn">{{cite web |url=https://www.hockey-reference.com/coaches/patrily01c.html |title=Lynn Patrick |access-date=July 18, 2008 |publisher=Sports Reference, LLC |work=Hockey-Reference |archive-date=December 3, 2008 |archive-url=https://web.archive.org/web/20081203205714/http://www.hockey-reference.com/coaches/patrily01c.html |url-status=live }}</ref>
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | 4
+! scope="row" style="text-align: left; background-color:#fcf;" | [[Neil Colville]]*{{dagger}}
+| [[1950–51 NHL season|1950]]–[[1951–52 NHL season|1951]] || 93 || 26 || 41 || 26 || — || .419 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Colville">{{cite web|url=https://www.hockey-reference.com/coaches/colvine01c.html|title=Neil Colville|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706195917/http://www.hockey-reference.com/coaches/colvine01c.html|url-status=live}}</ref>
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | 5
+! scope="row" style="text-align: left; background-color:#fcf;" | [[Bill Cook]]*{{dagger}}
+| [[1951–52 NHL season|1951]]–[[1952–53 NHL season|1953]] || 117 || 34 || 59 || 24 || — || .393 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Cook">{{cite web|url=https://www.hockey-reference.com/coaches/cookbi01c.html|title=Bill Cook|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706191050/http://www.hockey-reference.com/coaches/cookbi01c.html|url-status=live}}</ref>
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | —
+! scope="row" style="text-align: left; background-color:#fcf;" | Frank Boucher*{{dagger}}
+| [[1953–54 NHL season|1953–1954]] || 40 || 14 || 20 || 6 || — || .425 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Boucher"/>
+|- style="background-color:#cfc;"
+! scope="row" style="background-color:#cfc;" | 6
+! scope="row" style="text-align: left; background-color:#cfc;" | [[Muzz Patrick]]{{dagger}}
+| [[1953–54 NHL season|1954]]–[[1954–55 NHL season|1955]] || 100 || 32 || 46 || 22 || — || .430 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Muzz Patrick">{{cite web|url=https://www.hockey-reference.com/coaches/patrimu01c.html|title=Muzz Patrick|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706195513/http://www.hockey-reference.com/coaches/patrimu01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 7
+! scope="row" style="text-align: left;" | [[Phil Watson]]
+| [[1955–56 NHL season|1955]]–[[1959–60 NHL season|1959]] || 295 || 119 || 124 || 52 || — || .492 || 16 || 4 || 12 || — || &nbsp; || style="text-align:center;"|<ref name="Watson">{{cite web|url=https://www.hockey-reference.com/coaches/watsoph01c.html|title=Phil Watson|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=December 3, 2008|archive-url=https://web.archive.org/web/20081203195931/http://www.hockey-reference.com/coaches/watsoph01c.html|url-status=live}}</ref>
+|- style="background-color:#cfc;"
+! scope="row" style="background-color:#cfc;" | —
+! scope="row" style="text-align: left; background-color:#cfc;" | Muzz Patrick{{dagger}}
+| [[1959–60 NHL season|1959]] || 2 || 0 || 1 || 1 || — || .250 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Muzz Patrick"/>
+|- style="background-color:#cfc;"
+! scope="row" style="background-color:#cfc;" | 8
+! scope="row" style="text-align: left; background-color:#cfc;" | [[Alfred Pike]]{{dagger}}
+| [[1959–60 NHL season|1959]]–[[1960–61 NHL season|1961]] || 123 || 36 || 66 || 21 || — || .378 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Pike">{{cite web |url=https://www.hockey-reference.com/coaches/pikeal01c.html |title=Alf Pike|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference}}</ref>
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | 9
+! scope="row" style="text-align: left; background-color:#fcf;" | [[Doug Harvey (ice hockey)|Doug Harvey]]*{{dagger}}
+| [[1961–62 NHL season|1961–1962]] || 70 || 26 || 32 || 12 || — || .457 || 6 || 2 || 4 || — || &nbsp; || style="text-align:center;"|<ref name="Harvey">{{cite web|url=https://www.hockey-reference.com/coaches/harvedo01c.html|title=Doug Harvey|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=August 28, 2017|archive-url=https://web.archive.org/web/20170828013302/https://www.hockey-reference.com/coaches/harvedo01c.html|url-status=live}}</ref>
+|- style="background-color:#cfc;"
+! scope="row" style="background-color:#cfc;" | —
+! scope="row" style="text-align: left; background-color:#cfc;" | Muzz Patrick{{dagger}}
+| [[1962–63 NHL season|1962]] || 34 || 11 || 19 || 4 || — || .382 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Muzz Patrick"/>
+|-
+! scope="row" | 10
+! scope="row" style="text-align: left;" | [[Red Sullivan]]
+| [[1962–63 NHL season|1962]]–[[1965–66 NHL season|1965]] || 196 || 58 || 103 || 35 || — || .385 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="SullivanR">{{cite web|url=https://www.hockey-reference.com/coaches/sullire01c.html|title=Red Sullivan|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=December 3, 2008|archive-url=https://web.archive.org/web/20081203195633/http://www.hockey-reference.com/coaches/sullire01c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | 11
+! scope="row" style="text-align: left; background-color:#ffc;" | [[Emile Francis]]*
+| [[1965–66 NHL season|1965]]–[[1967–68 NHL season|1968]] || 194 || 82 || 82 || 30 || — || .500 || 10 || 2 || 8 || — || &nbsp; || style="text-align:center;"|<ref name="Francis">{{cite web|url=https://www.hockey-reference.com/coaches/francem01c.html|title=Emile Francis|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706193104/http://www.hockey-reference.com/coaches/francem01c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | 12
+! scope="row" style="text-align: left; background-color:#ffc;" | [[Bernie Geoffrion]]*
+| [[1968–69 NHL season|1968–1969]] || 43 || 22 || 18 || 3 || — || .547 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Geoffrion">{{cite web|url=https://www.hockey-reference.com/coaches/geoffbe01c.html|title=Bernie Geoffrion|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=May 19, 2011|archive-url=https://web.archive.org/web/20110519112722/http://www.hockey-reference.com/coaches/geoffbe01c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | —
+! scope="row" style="text-align: left; background-color:#ffc;" | Emile Francis*
+| [[1968–69 NHL season|1969]]–[[1972–73 NHL season|1973]] || 343 || 201 || 88 || 54 || — || .665 || 49 || 24 || 25 || — || &nbsp; || style="text-align:center;"|<ref name="Francis"/>
+|- style="background-color:#cfc;"
+! scope="row" style="background-color:#cfc;" | 13
+! scope="row" style="text-align: left; background-color:#cfc;" | [[Larry Popein]]{{dagger}}
+| [[1973–74 NHL season|1973–1974]] || 41 || 18 || 14 || 9 || — || .549 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/popeila01c.html|title=Larry Popein|access-date=September 8, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706190156/http://www.hockey-reference.com/coaches/popeila01c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | —
+! scope="row" style="text-align: left; background-color:#ffc;" | Emile Francis*
+| [[1973–74 NHL season|1974]]–[[1974–75 NHL season|1975]] || 117 || 59 || 39 || 19 || — || .585 || 16 || 8 || 8 || — || &nbsp; || style="text-align:center;"|<ref name="Francis"/>
+|-
+! scope="row" | 14
+! scope="row" style="text-align: left;" | [[Ron Stewart]]
+| [[1975–76 NHL season|1975–1976]] || 39 || 15 || 20 || 4 || — || .436 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Stewart">{{cite web|url=https://www.hockey-reference.com/coaches/stewaro01c.html|title=Ron Stewart|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=December 3, 2008|archive-url=https://web.archive.org/web/20081203192612/http://www.hockey-reference.com/coaches/stewaro01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 15
+! scope="row" style="text-align: left;" | [[John Ferguson Sr.]]
+| [[1975–76 NHL season|1976]]–[[1976–77 NHL season|1977]] || 121 || 43 || 59 || 19 || — || .434 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Ferguson">{{cite web|url=https://www.hockey-reference.com/coaches/fergujo01c.html|title=John Ferguson, Sr.|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706182505/http://www.hockey-reference.com/coaches/fergujo01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 16
+! scope="row" style="text-align: left;" | [[Jean-Guy Talbot]]
+| [[1977–78 NHL season|1977–1978]] || 80 || 30 || 37 || 13 || — || .456 || 3 || 1 || 2 || — || &nbsp; || style="text-align:center;"|<ref name="Talbot">{{cite web|url=https://www.hockey-reference.com/coaches/talboje01c.html|title=Jean-Guy Talbot|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706191840/http://www.hockey-reference.com/coaches/talboje01c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | 17
+! scope="row" style="text-align: left; background-color:#ffc;" | [[Fred Shero]]*
+| [[1978–79 NHL season|1978]]–[[1980–81 NHL season|1980]] || 180 || 82 || 74 || 24 || — || .522 || 27 || 15 || 12 || — || &nbsp; || style="text-align:center;"|<ref name="Shero">{{cite web|url=https://www.hockey-reference.com/coaches/sherofr01c.html|title=Fred Shero|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=June 27, 2017|archive-url=https://web.archive.org/web/20170627023941/http://www.hockey-reference.com/coaches/sherofr01c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | 18
+! scope="row" style="text-align: left; background-color:#ffc;" | [[Craig Patrick]]*
+| [[1980–81 NHL season|1980–1981]] || 60 || 26 || 23 || 11 || — || .525 || 14 || 7 || 7 || — || &nbsp; || style="text-align:center;"|<ref name="Craig Patrick">{{cite web|url=https://www.hockey-reference.com/coaches/patricr01c.html|title=Craig Patrick|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=February 10, 2018|archive-url=https://web.archive.org/web/20180210062250/https://www.hockey-reference.com/coaches/patricr01c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | 19
+! scope="row" style="text-align: left; background-color:#ffc;" | [[Herb Brooks]]*
+| [[1981–82 NHL season|1981]]–[[1984–85 NHL season|1985]] || 285 || 131 || 113 || 41 || — || .532 || 24 || 12 || 12 || — || &nbsp; || style="text-align:center;"|<ref name="Brooks">{{cite web|url=https://www.hockey-reference.com/coaches/brookhe99c.html|title=Herb Brooks|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=May 19, 2011|archive-url=https://web.archive.org/web/20110519112528/http://www.hockey-reference.com/coaches/brookhe99c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | —
+! scope="row" style="text-align: left; background-color:#ffc;" | Craig Patrick*
+| [[1984–85 NHL season|1985]] || 35 || 11 || 22 || 2 || — || .343 || 3 || 0 || 3 || — || &nbsp; || style="text-align:center;"|<ref name="Craig Patrick"/>
+|-
+! scope="row" | 20
+! scope="row" style="text-align: left;" | [[Ted Sator]]
+| [[1985–86 NHL season|1985]]–[[1986–87 NHL season|1986]] || 99 || 41 || 48 || 10 || — || .465 || 16 || 8 || 8 || — || &nbsp; || style="text-align:center;"|<ref name="Sator">{{cite web|url=https://www.hockey-reference.com/coaches/satorte99c.html|title=Ted Sator|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=August 29, 2008|archive-url=https://web.archive.org/web/20080829125207/http://www.hockey-reference.com/coaches/satorte99c.html|url-status=live}}</ref>
+|-
+! scope="row" | 21
+! scope="row" style="text-align: left;" | [[Tom Webster (ice hockey)|Tom Webster]]
+| [[1986–87 NHL season|1986–1987]] || 16 || 5 || 7 || 4 || — || .438 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Webster">{{cite web|url=https://www.hockey-reference.com/coaches/webstto01c.html|title=Tom Webster|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=August 28, 2008|archive-url=https://web.archive.org/web/20080828203620/http://www.hockey-reference.com/coaches/webstto01c.html|url-status=live}}</ref>
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | 22
+! scope="row" style="text-align: left; background-color:#fcf;" | [[Phil Esposito]]*{{dagger}}
+| [[1986–87 NHL season|1987]] || 43 || 24 || 19 || 0 || — || .558 || 6 || 2 || 4 || — || &nbsp; || style="text-align:center;"|<ref name="Esposito">{{cite web|url=https://www.hockey-reference.com/coaches/esposph01c.html|title=Phil Esposito|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=August 28, 2017|archive-url=https://web.archive.org/web/20170828013306/https://www.hockey-reference.com/coaches/esposph01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 23
+! scope="row" style="text-align: left;" | [[Michel Bergeron]]
+| [[1987–88 NHL season|1987]]–[[1988–89 NHL season|1989]] || 158 || 73 || 67 || 18 || — || .519 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Bergeron">{{cite web|url=https://www.hockey-reference.com/coaches/bergemi99c.html|title=Michel Bergeron|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=August 27, 2008|archive-url=https://web.archive.org/web/20080827205548/http://hockey-reference.com/coaches/bergemi99c.html|url-status=live}}</ref>
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | —
+! scope="row" style="text-align: left; background-color:#fcf;" | Phil Esposito*{{dagger}}
+| [[1988–89 NHL season|1989]] || 2 || 0 || 2 || 0 || — || .000 || 4 || 0 || 4 || — || &nbsp; || style="text-align:center;"|<ref name="Esposito"/>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | 24
+! scope="row" style="text-align: left; background-color:#ffc;" | [[Roger Neilson]]*
+| [[1989–90 NHL season|1989]]–[[1992–93 NHL season|1993]] || 280 || 141 || 104 || 35 || — || .566 || 29 || 13 || 16 || — || style="text-align:center;"|[[Presidents' Trophy]] ([[1991–92 NHL season|1992]]) || style="text-align:center;"|<ref name="Neilson">{{cite web|url=https://www.hockey-reference.com/coaches/neilsro99c.html|title=Roger Neilson|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=August 30, 2008|archive-url=https://web.archive.org/web/20080830072015/http://www.hockey-reference.com/coaches/neilsro99c.html|url-status=live}}</ref>
+|- style="background-color:#cfc;"
+! scope="row" style="background-color:#cfc;" | 25
+! scope="row" style="text-align: left; background-color:#cfc;" | [[Ron Smith (ice hockey, born 1944)|Ron Smith]]{{dagger}}
+| [[1992–93 NHL season|1993]] || 44 || 15 || 22 || 7 || — || .420 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Smith">{{cite web|url=https://www.hockey-reference.com/coaches/smithro02c.html|title=Ron Smith|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 13, 2016|archive-url=https://web.archive.org/web/20160713110658/http://www.hockey-reference.com/coaches/smithro02c.html|url-status=live}}</ref>
+|-
+! scope="row" | 26
+! scope="row" style="text-align: left;" | [[Mike Keenan]]
+| [[1993–94 NHL season|1993–1994]] || 84 || 52 || 24 || 8 || — || .667 || 23 || 16 || 7 || — || style="text-align:center;"|Presidents' Trophy ([[1993–94 NHL season|1994]])<br />Stanley Cup champions ([[1994 Stanley Cup Final|1994]]) || style="text-align:center;"|<ref name="Keenan">{{cite web|url=https://www.hockey-reference.com/coaches/keenami99c.html|title=Mike Keenan|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=August 29, 2008|archive-url=https://web.archive.org/web/20080829124617/http://www.hockey-reference.com/coaches/keenami99c.html|url-status=live}}</ref>
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | 27
+! scope="row" style="text-align: left; background-color:#fcf;" | [[Colin Campbell (ice hockey, born 1953)|Colin Campbell]]*{{dagger}}
+| [[1994–95 NHL season|1994]]–[[1997–98 NHL season|1998]] || 269 || 118 || 108 || 43 || — || .519 || 36 || 18 || 18 || — || &nbsp; || style="text-align:center;"|<ref name="Campbell">{{cite web|url=https://www.hockey-reference.com/coaches/campbco01c.html|title=Colin Campbell|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706201713/http://www.hockey-reference.com/coaches/campbco01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 28
+! scope="row" style="text-align: left;" | [[John Muckler]]
+| [[1997–98 NHL season|1998]]–[[1999–2000 NHL season|2000]] || 185 || 70 || 88 || 24 || 3 || .451 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Muckler">{{cite web|url=https://www.hockey-reference.com/coaches/muckljo99c.html|title=John Muckler|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=October 10, 2008|archive-url=https://web.archive.org/web/20081010225016/http://www.hockey-reference.com/coaches/muckljo99c.html|url-status=live}}</ref>
+|-
+! scope="row" | 29
+! scope="row" style="text-align: left;" | [[John Tortorella]]
+| [[1999–2000 NHL season|2000]] || 4 || 0 || 3 || 1 || — || .125 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Tortorella">{{cite web|url=https://www.hockey-reference.com/coaches/tortojo99c.html|title=John Tortorella|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=May 13, 2017|archive-url=https://web.archive.org/web/20170513031250/http://www.hockey-reference.com/coaches/tortojo99c.html|url-status=live}}</ref>
+|-
+! scope="row" | 30
+! scope="row" style="text-align: left;" | [[Ron Low]]
+| [[2000–01 NHL season|2000]]–[[2001–02 NHL season|2002]] || 164 || 69 || 81 || 9 || 5 || .463 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Low">{{cite web|url=https://www.hockey-reference.com/coaches/lowro01c.html|title=Ron Low|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=September 12, 2017|archive-url=https://web.archive.org/web/20170912102402/https://www.hockey-reference.com/coaches/lowro01c.html|url-status=live}}</ref>
+|- style="background-color:#fcf;"
+! scope="row" style="background-color:#fcf;" | 31
+! scope="row" style="text-align: left; background-color:#fcf;" | [[Bryan Trottier]]*{{dagger}}
+| [[2002–03 NHL season|2002–2003]] || 54 || 21 || 26 || 6 || 1 || .454 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Trottier">{{cite web|url=https://www.hockey-reference.com/coaches/trottbr01c.html|title=Bryan Trottier|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706192629/http://www.hockey-reference.com/coaches/trottbr01c.html|url-status=live}}</ref>
+|- style="background-color:#ffc;"
+! scope="row" style="background-color:#ffc;" | 32
+! scope="row" style="text-align: left; background-color:#ffc;" | [[Glen Sather]]*
+| [[2002–03 NHL season|2003]]–[[2003–04 NHL season|2004]] || 90 || 33 || 39 || 11 || 7 || .572 || — || — || — || — || &nbsp; || style="text-align:center;"|<ref name="Sather">{{cite web|url=https://www.hockey-reference.com/coaches/sathegl01c.html|title=Glen Sather|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706174824/http://www.hockey-reference.com/coaches/sathegl01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 33
+! scope="row" style="text-align: left;" | [[Tom Renney]]
+| [[2003–04 NHL season|2004]]–[[2008–09 NHL season|2009]] || 327 || 164 || 117 || — || 46 || .572 || 24 || 11 || 13 || — || &nbsp; || style="text-align:center;"|<ref name="Renney">{{cite web|url=https://www.hockey-reference.com/coaches/renneto99c.html|title=Tom Renney|access-date=September 1, 2008|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=July 6, 2017|archive-url=https://web.archive.org/web/20170706182724/http://www.hockey-reference.com/coaches/renneto99c.html|url-status=live}}</ref>
+|-
+! scope="row" | —
+! scope="row" style="text-align: left;" | John Tortorella
+| [[2008–09 NHL season|2009]]–[[2012–13 NHL season|2013]] || 315 || 171 || 115 || — || 29 || .589 || 44 || 19 || 25 || — || &nbsp; || style="text-align:center;"|<ref name="Tortorella"/>
+|-
+! scope="row" | 34
+! scope="row" style="text-align: left;" | [[Alain Vigneault]]
+| [[2013–14 NHL season|2013]]–[[2017–18 NHL season|2018]] || 410 || 226 || 147 || — || 37 || .596 || 61 || 31 || 30 || — || style="text-align:center;"|Presidents' Trophy ([[2014–15 NHL season|2015]]) || style="text-align:center;"|<ref name="Vigneault">{{cite web|url=https://www.hockey-reference.com/coaches/vigneal01c.html|title=Alain Vigneault|access-date=June 16, 2013|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=August 27, 2008|archive-url=https://web.archive.org/web/20080827230508/http://www.hockey-reference.com/coaches/vigneal01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 35
+! scope="row" style="text-align: left;" | [[David Quinn (ice hockey)|David Quinn]]
+| [[2018–19 NHL season|2018]]–[[2020–21 NHL season|2021]] || 208 || 96 || 87 || — || 25 || .522 || 3 || 0 || 3 || — || &nbsp; || style="text-align:center;"|<ref name="Quinn">{{cite web|url=https://www.hockey-reference.com/coaches/quinnda01c.html|title=David Quinn|access-date=May 12, 2021|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=May 12, 2021|archive-url=https://web.archive.org/web/20210512161340/https://www.hockey-reference.com/coaches/quinnda01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 36
+! scope="row" style="text-align: left;" | [[Gerard Gallant]]
+| [[2021–22 NHL season|2021]]–[[2022–23 NHL season|2023]] || 164 || 99 || 46 || — || 19 || .662 || 27 || 13 || 14 || — || &nbsp; || style="text-align:center;"|<ref name="Gallant">{{cite web|url=https://www.hockey-reference.com/coaches/gallage01c.html|title=Gerard Gallant|access-date=June 17, 2021|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=April 28, 2020|archive-url=https://web.archive.org/web/20200428104803/https://www.hockey-reference.com/coaches/gallage01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 37
+! scope="row" style="text-align: left;" | [[Peter Laviolette]]
+| [[2023–24 NHL season|2023]]–[[2024–25 NHL season|2025]] || 164 || 94 || 59 || — || 11 || .607 || 16 || 10 || 6 || — || style="text-align:center;"|Presidents' Trophy ([[2023–24 NHL season|2024]]) || style="text-align:center;"|<ref name="Laviolette">{{cite web|url=https://www.hockey-reference.com/coaches/laviope01c.html|title=Peter Laviolette|access-date=June 2, 2024|publisher=Sports Reference, LLC|work=Hockey-Reference|archive-date=October 13, 2008|archive-url=https://web.archive.org/web/20081013003420/http://www.hockey-reference.com/coaches/laviope01c.html|url-status=live}}</ref>
+|-
+! scope="row" | 38
+! scope="row" style="text-align: left;" | [[Mike Sullivan (ice hockey)|Mike Sullivan]]
+| [[2025–26 NHL season|2025]]–present || 82 || 34 || 39 || — || 9 || .470 || — || — || — || — || style="text-align:center;"| || style="text-align:center;"|<ref name="SullivanM">{{cite web|url=https://www.hockey-reference.com/coaches/sullimi01c.html|title=Mike Sullivan|access-date=May 2, 2025|publisher=Sports Reference, LLC|work=Hockey-Reference.com|archive-date=June 21, 2020|archive-url=https://web.archive.org/web/20200621091950/https://www.hockey-reference.com/coaches/sullimi01c.html|url-status=live}}</ref>
+|}
+
+==See also==
+* [[List of NHL head coaches]]
+
+==Notes==
+* {{note label|Note1|A|A}} A running total of the number of coaches of the New York Rangers. Thus any coach who has two or more separate terms as head coach is only counted once.
+
+==References==
+{{reflist}}
+
+{{New York Rangers}}
+{{NHLHeadCoach}}
+
+{{featured list}}
+
+[[Category:New York Rangers coaches| ]]
+[[Category:National Hockey League coaches by team|New York Rangers head coaches]]
+[[Category:Lists of ice hockey coaches|New York Rangers head coaches]]
+[[Category:New York Rangers lists|Head coaches]]

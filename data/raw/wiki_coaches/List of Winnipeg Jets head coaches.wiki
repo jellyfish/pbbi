@@ -1,0 +1,460 @@
+{{Short description|none}}
+{{for|the head coaches from 1999 to 2011|List of Atlanta Thrashers head coaches}}
+
+The [[Winnipeg Jets]] are a Canadian professional [[ice hockey]] team based in [[Winnipeg]], Manitoba. They play in the [[Central Division (NHL)|Central Division]] of the [[Western Conference (NHL)|Western Conference]] in the [[National Hockey League]] (NHL).<ref>{{cite web|url=http://www.nhl.com/ice/teams.htm|archive-url=https://web.archive.org/web/20090311030113/http://www.nhl.com/ice/teams.htm|url-status=dead|archive-date=March 11, 2009|title=Teams|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-24}}</ref> The team joined the [[World Hockey Association|WHA]] in 1972, then moved to the NHL in 1979 following the [[NHL–WHA merger]]. The Jets were deactivated in 1996 after its assets relocated to [[Phoenix, Arizona|Phoenix]] to become the [[Arizona Coyotes|Phoenix (later Arizona) Coyotes]]. In 1999, the NHL added the [[Atlanta Thrashers]] as an [[expansion team]], but moved to Winnipeg, Manitoba in 2011, readopting the Jets name and branding. In 2026, the original Jets' franchise records and statistics from 1972 to 1996 were consolidated with the current Jets franchise. The Jets play their home games at the [[Canada Life Centre]]. They are owned by [[True North Sports & Entertainment]], [[Kevin Cheveldayoff]] is their [[general manager]], and [[Adam Lowry]] is the team [[Captain (ice hockey)|captain]].
+
+[[Paul Maurice]] has the most wins of any head coach in Jets history with 315, and coached the most games in franchise history with 601.
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''T'''
+|Ties = 1 point
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point{{ref label|Note2|b|b}}
+|-
+|'''PTS'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|}
+
+==Coaches==
+''Note: Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+<!-- DON'T UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE SEASON -->
+{| class="wikitable" style="text-align:center"
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term{{ref label|Note3|c|c}}
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+! rowspan="2" | Achievements
+! rowspan="2" | Reference
+|-
+! GC
+! W
+! L
+! T/OT
+! PTS
+! Win%
+! GC
+! W
+! L
+! Win%
+|-
+|-
+|{{nts|1}}
+|style="background-color:#ddffdd"|{{sortname|Bobby|Hull}}*
+|[[1972–73 WHA season|1972]]–[[1973–74 WHA season|1974]]
+|{{nts|156}}
+|{{nts|77}}
+|{{nts|70}}
+|{{nts|9}}
+|{{nts|163}}
+|.522
+|{{nts|18}}
+|{{nts|9}}
+|{{nts|9}}
+|.500
+|
+|<ref name="hull">{{cite web|url=https://www.hockey-reference.com/coaches/hullbo01c.html|title=Bobby Hull Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|2}}
+|style="background-color:#FFE6BD"|{{sortname|Rudy|Pilous}}†
+|[[1974–75 WHA season|1974–1975]]
+|{{nts|37}}
+|{{nts|18}}
+|{{nts|17}}
+|{{nts|2}}
+|{{nts|38}}
+|.514
+|—
+|—
+|—
+|—
+|
+|<ref name="pilous">{{cite web|url=https://www.hockey-reference.com/coaches/pilouru01c.html|title=Rudy Pilous Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|—
+|style="background-color:#ddffdd"|{{sortname|Bobby|Hull}}*
+|[[1974–75 WHA season|1975]]
+|{{nts|13}}
+|{{nts|4}}
+|{{nts|9}}
+|{{nts|0}}
+|{{nts|8}}
+|.308
+|—
+|—
+|—
+|—
+|
+|<ref name="hull"/>
+|-
+|—
+|style="background-color:#FFE6BD"|{{sortname|Rudy|Pilous}}†
+|[[1974–75 WHA season|1975]]
+|{{nts|28}}
+|{{nts|16}}
+|{{nts|9}}
+|{{nts|3}}
+|{{nts|35}}
+|.625
+|—
+|—
+|—
+|—
+|
+|<ref name="pilous"/>
+|-
+|{{nts|3}}
+|{{sortname|Bobby|Kromm}}
+|[[1975–76 WHA season|1975]]–[[1976–77 WHA season|1977]]
+|{{nts|161}}
+|{{nts|98}}
+|{{nts|59}}
+|{{nts|4}}
+|{{nts|200}}
+|.621
+|{{nts|33}}
+|{{nts|23}}
+|{{nts|10}}
+|.697
+|[[Robert Schmertz Memorial Trophy]] winner ([[1975–76 WHA season|1976]])<br>[[Avco World Trophy]] championship (1976)
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/krommbo99c.html|title=Bobby Kromm Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|4}}
+|style="background-color:#ddffdd"|{{sortname|Larry|Hillman}}*
+|[[1977–78 WHA season|1977]]–[[1978–79 WHA season|1979]]
+|{{nts|141}}
+|{{nts|78}}
+|{{nts|55}}
+|{{nts|8}}
+|{{nts|164}}
+|.582
+|{{nts|9}}
+|{{nts|8}}
+|{{nts|1}}
+|.889
+|Avco World Trophy championship ([[1977–78 WHA season|1978]])
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/hillmla01c.html|title=Larry Hillman Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|5}}
+|{{sortname|Tom|McVie}}
+|[[1978–79 WHA season|1979]]–{{nhly|1979|end}}
+|{{nts|96}}
+|{{nts|30}}
+|{{nts|55}}
+|{{nts|11}}
+|{{nts|71}}
+|.370
+|{{nts|10}}
+|{{nts|8}}
+|{{nts|2}}
+|.800
+|Avco World Trophy championship ([[1978–79 WHA season|1979]])
+|<ref name="mcvie">{{cite web|url=https://www.hockey-reference.com/coaches/mcvieto99c.html|title=Tom McVie Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|6}}
+|style="background-color:#ddffdd"|{{sortname|Bill|Sutherland|dab=hockey}}*
+|{{nhly|1979|end}}
+|{{nts|3}}
+|{{nts|2}}
+|{{nts|1}}
+|{{nts|0}}
+|{{nts|4}}
+|.666
+|—
+|—
+|—
+|—
+|
+|<ref name="sutherland">{{cite web|url=https://www.hockey-reference.com/coaches/mcvieto99c.html|title=Bill Sutherland Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|—
+|{{sortname|Tom|McVie}}
+|{{nhly|1980|start}}
+|{{nts|28}}
+|{{nts|1}}
+|{{nts|20}}
+|{{nts|7}}
+|{{nts|9}}
+|.161
+|—
+|—
+|—
+|—
+|
+|<ref name="mcvie"/>
+|-
+|—
+|style="background-color:#ddffdd"|{{sortname|Bill|Sutherland|dab=hockey}}*
+|{{nhly|1980|full=y}}
+|{{nts|29}}
+|{{nts|6}}
+|{{nts|20}}
+|{{nts|3}}
+|{{nts|15}}
+|.259
+|—
+|—
+|—
+|—
+|
+|<ref name="sutherland"/>
+|-
+|{{nts|7}}
+|style="background-color:#ddffdd"|{{sortname|Mike|Smith|Mike Smith (ice hockey, born 1945)}}*
+|{{nhly|1980|end}}
+|{{nts|23}}
+|{{nts|2}}
+|{{nts|17}}
+|{{nts|4}}
+|{{nts|8}}
+|.174
+|—
+|—
+|—
+|—
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/smithmi99c.html|title=Mike Smith Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|8}}
+|{{sortname|Tom|Watt|dab=ice hockey}}
+|{{nhly|1981|start}}–{{nhly|1983|start}}
+|{{nts|181}}
+|{{nts|72}}
+|{{nts|85}}
+|{{nts|24}}
+|{{nts|168}}
+|.464
+|{{nts|7}}
+|{{nts|1}}
+|{{nts|6}}
+|.143
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/wattto99c.html|title=Tom Watt Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|9}}
+|style="background-color:#ddffdd"|{{sortname|Barry|Long|Barry Long (ice hockey)}}*
+|{{nhly|1983|start}}–{{nhly|1985|end}}
+|{{nts|205}}
+|{{nts|87}}
+|{{nts|93}}
+|{{nts|25}}
+|{{nts|199}}
+|.485
+|{{nts|11}}
+|{{nts|3}}
+|{{nts|8}}
+|.273
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/longba01c.html|title=Barry Long Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|10}}
+|style="background-color:#ddffdd"|{{sortname|John|Ferguson|John Ferguson, Sr.}}*
+|{{nhly|1985|end}}
+|{{nts|14}}
+|{{nts|7}}
+|{{nts|6}}
+|{{nts|1}}
+|{{nts|15}}
+|.536
+|{{nts|3}}
+|{{nts|0}}
+|{{nts|3}}
+|.000
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/fergujo01c.html|title=John Ferguson Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|11}}
+|{{sortname|Dan|Maloney}}
+|{{nhly|1986|start}}–{{nhly|1988|end}}
+|{{nts|212}}
+|{{nts|91}}
+|{{nts|93}}
+|{{nts|28}}
+|{{nts|210}}
+|.495
+|{{nts|15}}
+|{{nts|5}}
+|{{nts|10}}
+|.333
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/malonda01c.html|title=Dan Maloney Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|12}}
+|{{sortname|Rick|Bowness}}
+|{{nhly|1988|end}}
+|{{nts|28}}
+|{{nts|8}}
+|{{nts|17}}
+|{{nts|3}}
+|{{nts|19}}
+|.339
+|—
+|—
+|—
+|—
+|
+|<ref name=Bowness>{{cite web|url=https://www.hockey-reference.com/coaches/bowneri01c.html|title=Rick Bowness Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|13}}
+|{{sortname|Bob|Murdoch|Bob Murdoch (ice hockey, born 1946)}}
+|{{nhly|1989|start}}–{{nhly|1990|end}}
+|{{nts|160}}
+|{{nts|63}}
+|{{nts|75}}
+|{{nts|22}}
+|{{nts|148}}
+|.463
+|{{nts|7}}
+|{{nts|3}}
+|{{nts|4}}
+|.429
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/murdobo01c.html|title=Bob Murdoch Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|14}}
+|{{sortname|John|Paddock}}
+|{{nhly|1991|start}}–{{nhly|1994|end}}
+|{{nts|281}}
+|{{nts|106}}
+|{{nts|138}}
+|{{nts|37}}
+|{{nts|249}}
+|.443
+|{{nts|13}}
+|{{nts|5}}
+|{{nts|8}}
+|.385
+|
+|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/paddojo01c.html|title=John Paddock Coaching Record|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=October 15, 2009}}</ref>
+|-
+|{{nts|15}}
+|{{sortname|Terry|Simpson}}
+|{{nhly|1994|end}}–{{nhly|1995|end}}
+|{{nts|97}}
+|{{nts|43}}
+|{{nts|47}}
+|{{nts|7}}
+|{{nts|93}}
+|.479
+|{{nts|6}}
+|{{nts|2}}
+|{{nts|4}}
+|.333
+|-
+|align=center| {{nts|16}}
+|[[Claude Noël|Claude Noel]]
+|{{nhly|2011|start}}–{{nhly|2013|end}}
+|177
+|80
+|79
+|18
+|178
+|.503
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/noelcl01c.html|title=Claude Noel Coaching Record|accessdate=2011-06-25|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| {{nts|17}}
+|[[Paul Maurice]]
+|{{nhly|2013|end}}–{{nhly|2021|start}}
+|601
+|315
+|224
+|62
+|692
+|.576
+|39
+|16
+|23
+|.410
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/mauripa99c.html|title=Paul Maurice Coaching Record|accessdate=2018-07-16|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| {{nts|18}}
+|[[Dave Lowry]]
+|{{nhly|2021|full=y}}
+|54
+|26
+|22
+|6
+|58
+|.537
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/lowryda01c.html|title=Dave Lowry Coaching Record|accessdate=2023-04-28|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|—
+|[[Rick Bowness]]
+|{{nhly|2022|start}}–{{nhly|2023|end}}
+|164
+|98
+|57
+|9
+|205
+|.625
+|10
+|2
+|8
+|.200
+|
+|align=center|<ref name=Bowness/>
+|-
+|align=center| {{nts|19}}
+|[[Scott Arniel]]
+|{{nhly|2024|start}}–present
+| 164 
+| 91 
+| 57 
+| 16 
+| 198
+| {{winpct|94|57|16}}
+|13
+|6
+|7
+|.461
+|Won [[Presidents' Trophy|Presidents Trophy]].
+[[Jack Adams Award]] Finalist.
+|align=center|<ref>{{cite web|url=https://www.hockey-reference.com/coaches/arniesc01c.html|title=Scott Arniel Coaching Record|accessdate=May 24, 2024|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|}
+<!-- DO NOT UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE CURRENT SEASON -->
+
+==Notes==
+*{{note label|Note1|a|a}} A running total of the number of coaches of the Jets. Thus, any coach who has two or more separate terms as head coach is only counted once.
+*{{note label|Note2|b|b}} Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|title=Official Rules|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-23|format=PDF|url-status=dead|archiveurl=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|archivedate=2008-05-11}}</ref>
+*{{note label|Note3|c|c}}Each year is linked to an article about that particular NHL season.
+
+==References==
+{{reflist}}
+
+{{Winnipeg Jets}}
+{{NHLHeadCoach}}
+
+[[Category:Winnipeg Jets coaches|  ]]
+[[Category:Winnipeg Jets lists|head coaches]]
+[[Category:National Hockey League coaches by team|Winnipeg Jets]]
+[[Category:Lists of ice hockey coaches|Winnipeg Jets]]

@@ -1,0 +1,653 @@
+{{Short description|None}}
+{{Use mdy dates|date=November 2024}}
+The [[St. Louis Blues]] are an American professional [[ice hockey]] team based in [[St. Louis]]. They play in the [[Central Division (NHL)|Central Division]] of the [[Western Conference (NHL)|Western Conference]] in the [[National Hockey League]] (NHL).<ref>{{cite web|url=http://www.nhl.com/ice/teams.htm|archive-url=https://web.archive.org/web/20090311030113/http://www.nhl.com/ice/teams.htm|url-status=dead|archive-date=March 11, 2009|title=Teams|publisher=NHL Enterprises, L.P|access-date=2009-03-08}}</ref> The team joined the [[1967 NHL expansion|NHL in 1967]] as an [[expansion team]] with five other teams. The Blues first played their home games at the [[St. Louis Arena]] until 1994; they have played their home games at the [[Enterprise Center]], first named the Kiel Center, since then.<ref name="history">{{cite web|url=http://blues.nhl.com/team/app?service=page&page=NHLPage&bcid=new_his_history|title=Franchise History|work=St Louis Blues Hockey Club|publisher=NHL Enterprises, L.P|access-date=2009-03-08|url-status=dead|archive-url=https://web.archive.org/web/20090218075526/http://blues.nhl.com/team/app?service=page&page=NHLPage&bcid=new_his_history|archive-date=2009-02-18}}</ref> The majority of the Blues franchise are owned by SLB Acquisition LLC, headed by Tom Stillman; [[Doug Armstrong]] is their [[general manager]].<ref>{{cite web|url=http://blues.nhl.com/team/front_office.htm|title=Front Office|work=St Louis Blues Hockey Club|publisher=NHL Enterprises, L.P|access-date=2009-03-08|url-status=dead|archive-url=https://web.archive.org/web/20090204083112/http://blues.nhl.com/team/front_office.htm|archive-date=2009-02-04}}</ref><ref>{{cite web|url=http://blues.nhl.com/team/app?service=page&page=TeamPlayers&type=roster |title=Roster |work=St Louis Blues Hockey Club |publisher=NHL Enterprises, L.P |access-date=2009-03-08 |url-status=dead |archive-url=https://web.archive.org/web/20090227052645/http://blues.nhl.com/team/app?service=page&page=TeamPlayers&type=roster |archive-date=2009-02-27}}</ref>
+
+There have been 28&nbsp;[[head coach]]es for the Blues. The franchise's first head coach was [[Lynn Patrick]], who coached for 16 games in his first term. [[Joel Quenneville]] is the franchise's all-time leader for the most regular-season games coached (593), the most regular-season game wins (307), the most regular-season [[Point (ice hockey)|points]] (709), the most playoff games coached (68), and the most playoff-game wins (34). [[Barclay Plager]] and [[Bob Plager]] are the only pair of brothers<ref>{{cite web|url=http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/SearchPlayer.jsp?player=13992|title=Bob Bryant Plager|publisher=[[Hockey Hall of Fame]]|access-date=2009-03-08|url-status=dead|archive-url=https://web.archive.org/web/20040821072519/http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/SearchPlayer.jsp?player=13992|archive-date=2004-08-21}}</ref> to have coached the Blues; Barclay coached for four seasons, and Bob coached for eleven games. [[Red Berenson]], [[Brian Sutter]], Quenneville and Ken Hitchcock are the only head coaches to have been awarded the [[Jack Adams Award]] with the Blues.<ref name="adams"/> [[Scotty Bowman]], [[Al Arbour]], and [[Emile Francis]] are the only Blues head coaches to have been elected to the [[Hockey Hall of Fame]] as a [[List of members of the Hockey Hall of Fame#Builders|builder]].<ref>{{cite web|url=http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMembersByYear.jsp?type=Builder|title=Hockey Hall of Fame inductees - Builders by Induction Year|publisher=Hockey Hall of Fame|access-date=2009-03-08|url-status=dead|archive-url=https://web.archive.org/web/20090528120538/http://www.legendsofhockey.net:8080/LegendsOfHockey/jsp/LegendsMembersByYear.jsp?type=Builder|archive-date=2009-05-28}}</ref> Six coaches have spent their entire NHL head coaching careers with the Blues.
+
+[[Jim Montgomery (ice hockey)|Jim Montgomery]] serves as head coach of the Blues, after being named to the role on November 24, 2024, following the firing of [[Drew Bannister]].<ref>{{cite web |title=Blues relieve Drew Bannister of coaching duties; hire Jim Montgomery as Head Coach |url=https://www.nhl.com/blues/news/blues-relieve-drew-bannister-of-coaching-duties-hire-jim-montgomery-as-head-coach |website=NHL.com |access-date=November 24, 2024 |date=November 24, 2024}}</ref><ref>{{cite web |title=Montgomery hired as Blues coach, replaces Bannister |url=https://www.nhl.com/news/jim-montgomery-hired-as-st-louis-blues-coach-replaces-drew-bannister |website=NHL.com |access-date=November 24, 2024 |date=November 24, 2024}}</ref>
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''T'''
+|Ties = 1 point
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point{{ref label|Note2|b|b}}
+|-
+|'''PTS'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|style="background-color:#ddffdd"|*
+| Spent entire NHL coaching career with the Blues
+|-
+|style="background-color:#FFE6BD"|†
+| Elected to the [[Hockey Hall of Fame]] as a [[List of members of the Hockey Hall of Fame#Builders|builder]]
+|-
+|}
+
+==Coaches==
+[[File:Scottybowman-2006awards.jpg|thumb|upright|Scotty Bowman has coached the Blues for two stints that comprise four seasons.]]
+[[File:Mike Keenan practice.PNG|thumb|upright|Mike Keenan (shown with the [[Calgary Flames]]) coached the Blues for three seasons.]]
+[[Image:Davis Payne.JPG|thumb|upright|Davis Payne coached the Blues for 137 games from 2010 to 2011.]]
+[[File:Ken hitchock2014.jpg|thumb|upright|Ken Hitchcock was the head coach of the Blues from 2011 until 2017.]]
+[[File:Mike Yeo 2012-06-23.JPG|thumb|upright|Mike Yeo served as head coach of the Blues from 2017 to 2018.]]
+''Note: Statistics are correct through the hiring of Montgomery during the [[2025–26 NHL season|2025–26 season]].''
+{| class="wikitable"
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term{{ref label|Note3|c|c}}
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+! rowspan="2" | Achievements
+! rowspan="2" | Reference
+|-
+! GC
+! W
+! L
+! T/OT
+! PTS
+! Win%
+! GC
+! W
+! L
+! Win%
+|-
+|align=center|1
+|[[Lynn Patrick]]
+|[[1967–68 NHL season|1967]]
+|16
+|4
+|10
+|2
+|10
+|.313
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="Patrick">{{cite web |url=https://www.hockey-reference.com/coaches/patrily01c.html |title=Lynn Patrick Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|2
+|style="background-color:#FFE6BD"|[[Scotty Bowman]]†
+|[[1967–68 NHL season|1967]]–[[1969–70 NHL season|1970]]
+|210
+|97
+|79
+|40
+|234
+|.557
+|46
+|24
+|22
+|.522
+|
+|align=center|<ref name="Bowman">{{cite web |url=https://www.hockey-reference.com/coaches/bowmasc99c.html |title=Scotty Bowman Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|3
+|style="background-color:#FFE6BD"|[[Al Arbour]]†
+|[[1970–71 NHL season|1970–1971]]
+|50
+|21
+|15
+|14
+|56
+|.560
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="Arbour">{{cite web |url=https://www.hockey-reference.com/coaches/arboual01c.html |title=Al Arbour Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|—
+|style="background-color:#FFE6BD"|Scotty Bowman†
+|[[1970–71 NHL season|1971]]
+|28
+|13
+|10
+|5
+|31
+|.553
+|6
+|2
+|4
+|.333
+|
+|align=center|<ref name="Bowman"/>
+|-
+|align=center|4
+|[[Sid Abel]]
+|[[1971–72 NHL season|1971]]
+|10
+|3
+|6
+|1
+|7
+|.350
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/abelsi01c.html |title=Sid Abel Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|5
+|[[Bill McCreary, Sr.]]
+|[[1971–72 NHL season|1971]]
+|24
+|6
+|14
+|4
+|16
+|.333
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/mccrebi01c.html |title=Bill McCreary Sr. Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|—
+|style="background-color:#FFE6BD"|Al Arbour†
+|[[1971–72 NHL season|1971]]–[[1972–73 NHL season|1972]]
+|57
+|21
+|25
+|11
+|53
+|.447
+|11
+|4
+|7
+|.364
+|
+|align=center|<ref name="Arbour"/>
+|-
+|align=center|6
+|[[Jean-Guy Talbot]]
+|[[1972–73 NHL season|1972]]–[[1973–74 NHL season|1974]]
+|120
+|52
+|53
+|15
+|119
+|.496
+|5
+|1
+|4
+|.200
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/talboje01c.html |title=Jean-Guy Talbot Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|7
+|[[Lou Angotti]]
+|[[1973–74 NHL season|1974]]
+|32
+|6
+|20
+|6
+|18
+|.281
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/angotlo01c.html |title=Lou Angotti Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|—
+|Lynn Patrick
+|[[1974–75 NHL season|1974]]
+|2
+|1
+|0
+|1
+|3
+|.750
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="Patrick"/>
+|-
+|align=center|8
+|[[Garry Young (ice hockey)|Garry Young]]
+|[[1974–75 NHL season|1974]]–[[1975–76 NHL season|1975]]
+|98
+|41
+|41
+|16
+|98
+|.500
+|2
+|0
+|2
+|.000
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/youngga99c.html |title=Garry Young Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|—
+|Lynn Patrick
+|[[1975–76 NHL season|1975–1976]]
+|8
+|3
+|5
+|0
+|6
+|.375
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="Patrick"/>
+|-
+|align=center|9
+|style="background-color:#ddffdd"|[[Leo Boivin]]*
+|[[1975–76 NHL season|1976]]
+|43
+|17
+|17
+|9
+|43
+|.500
+|3
+|1
+|2
+|.333
+|
+|align=center|<ref name="Boivin">{{cite web |url=https://www.hockey-reference.com/coaches/boivile01c.html |title=Leo Boivin Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|10
+|style="background-color:#FFE6BD"|[[Emile Francis]]†
+|[[1976–77 NHL season|1976–1977]]
+|80
+|32
+|39
+|9
+|73
+|.456
+|4
+|0
+|4
+|.000
+|
+|align=center|<ref name="Francis">{{cite web |url=https://www.hockey-reference.com/coaches/francem01c.html |title=Emile Francis Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|—
+|style="background-color:#ddffdd"|Leo Boivin*
+|[[1977–78 NHL season|1977–1978]]
+|80
+|20
+|47
+|13
+|53
+|.331
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="Boivin"/>
+|-
+|align=center|11
+|style="background-color:#ddffdd"|[[Barclay Plager]]*
+|[[1977–78 NHL season|1978]]–[[1979–80 NHL season|1979]]
+|104
+|25
+|64
+|15
+|65
+|.310
+|—
+|—
+|—
+|—
+|
+|align=center|<ref name="Pager">{{cite web |url=https://www.hockey-reference.com/coaches/plageba01c.html |title=Barclay Plager Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|12
+|style="background-color:#ddffdd"|[[Red Berenson]]*
+|[[1979–80 NHL season|1979]]–[[1981–82 NHL season|1982]]
+|204
+|100
+|72
+|32
+|232
+|.569
+|14
+|5
+|9
+|.357
+|1980–81 [[Jack Adams Award]] winner<ref name="adams">{{cite web|url=http://www.nhl.com/trophies/adams.html|archive-url=https://web.archive.org/web/20080706102444/http://www.nhl.com/trophies/adams.html|url-status=dead|archive-date=2008-07-06|title=Jack Adams Award|work=NHL Enterprises, L.P|access-date=2009-03-08}}</ref>
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/berenre01c.html |title=Red Berenson Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|—
+|style="background-color:#FFE6BD"|Emile Francis†
+|[[1981–82 NHL season|1982]]–[[1982–83 NHL season|1982]]
+|44
+|14
+|25
+|5
+|33
+|.375
+|10
+|5
+|5
+|.500
+|
+|align=center|<ref name="Francis"/>
+|-
+|align=center|—
+|style="background-color:#ddffdd"|Barclay Plager*
+|[[1982–83 NHL season|1982–1983]]
+|48
+|15
+|21
+|12
+|42
+|.438
+|4
+|1
+|3
+|.250
+|
+|align=center|<ref name="Pager"/>
+|-
+|align=center|13
+|[[Jacques Demers]]
+|[[1983–84 NHL season|1983]]–[[1985–86 NHL season|1986]]
+|240
+|106
+|106
+|28
+|240
+|.500
+|33
+|16
+|17
+|.485
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/demerja99c.html |title=Jacques Demers Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|14
+|[[Jacques Martin (ice hockey)|Jacques Martin]]
+|[[1986–87 NHL season|1986]]–[[1987–88 NHL season|1988]]
+|160
+|66
+|71
+|23
+|155
+|.484
+|16
+|7
+|9
+|.438
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/martija99c.html |title=Jacques Martin Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|15
+|[[Brian Sutter]]
+|[[1988–89 NHL season|1988]]–[[1991–92 NHL season|1992]]
+|320
+|153
+|124
+|43
+|349
+|.545
+|41
+|20
+|21
+|.488
+|1990–91 [[Jack Adams Award]] winner<ref name="adams"/>
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/suttebr01c.html |title=Brian Sutter Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|16
+|style="background-color:#ddffdd"|[[Bob Plager]]*
+|[[1992–93 NHL season|1992]]
+|11
+|4
+|6
+|1
+|9
+|.409
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/plagebo01c.html |title=Bob Plager Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|17
+|[[Bob Berry (ice hockey)|Bob Berry]]
+|[[1992–93 NHL season|1992]]–[[1993–94 NHL season|1994]]
+|157
+|73
+|63
+|21
+|167
+|.532
+|15
+|7
+|8
+|.467
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/berrybo01c.html |title=Bob Berry Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|18
+|[[Mike Keenan]]
+|[[1994–95 NHL season|1994]]–[[1996–97 NHL season|1996]]
+|163
+|75
+|66
+|22
+|172
+|.528
+|20
+|10
+|10
+|.500
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/keenami99c.html |title=Mike Keenan Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|19
+|[[Jim Roberts (ice hockey, born 1940)|Jim Roberts]]
+|[[1996–97 NHL season|1996–1997]]
+|9
+|3
+|3
+|3
+|9
+|.500
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/roberji01c.html |title=Jim Roberts Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|20
+|[[Joel Quenneville]]
+|[[1996–97 NHL season|1997]]–[[2003–04 NHL season|2004]]
+|593
+|307
+|191
+|95
+|709
+|.598
+|68
+|34
+|34
+|.500
+|1999–2000 [[Jack Adams Award]] winner<ref name="adams"/>
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/quennjo01c.html |title=Joel Quenneville Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|21
+|style="background-color:#ddffdd"|[[Mike Kitchen]]*
+|[[2003–04 NHL season|2004]]–[[2006–07 NHL season|2006]]
+|131
+|38
+|70
+|23
+|99
+|.378
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/kitchmi01c.html |title=Mike Kitchen Coaching Record|access-date=2009-03-08 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|22
+|[[Andy Murray (ice hockey coach)|Andy Murray]]
+|[[2006–07 NHL season|2006]]–[[2009–10 NHL season|2010]]
+|258
+|118
+|102
+|38
+|274
+|.531
+|4
+|0
+|4
+|.000
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/murraan99c.html |title=Andy Murray Coaching Record|access-date=2010-01-02|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|23
+|style="background-color:#ddffdd"|[[Davis Payne]]*
+|[[2009–10 NHL season|2010]]–[[2011–12 NHL season|2011]]
+|137
+|67
+|55
+|15
+|149
+|.544
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/payneda01c.html |title=Davis Payne Coaching Record|access-date=2011-11-06 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|24
+|[[Ken Hitchcock]]
+|[[2011–12 NHL season|2011]]–[[2016–17 NHL season|2017]]
+|413
+|248
+|124
+|41
+|537
+|.650
+|45
+|20
+|25
+|.444
+|2011–12 [[Jack Adams Award]] winner<ref name="adams"/>
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/hitchke99c.html |title=Ken Hitchcock Coaching Record|access-date=2012-05-09 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|25
+|[[Mike Yeo]]
+|[[2016–17 NHL season|2017]]–[[2018–19 NHL season|2018]]
+|133
+|73
+|49
+|11
+|157
+|{{winpct|73|49|11}}
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/yeomi99c.html |title=Mike Yeo Coaching Record|access-date=2017-07-18 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center|26
+|[[Craig Berube]]
+|[[2018–19 NHL season|2018]]–[[2022–23 NHL season|2023]]
+|382
+|206
+|132
+|44
+|239
+|{{winpct|203|132|44}}
+|51
+|24
+|27
+|{{winpct|24|27}}
+|[[2019 Stanley Cup Finals|2019 Stanley Cup]] championship
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/berubcr01c.html |title=Craig Berube Coaching Record|access-date=2018-11-18 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|27
+|style="background-color:#ddffdd"|[[Drew Bannister]]*
+|[[2022–23 NHL season|2023]]–[[2024–25 NHL season|2024]]
+|76
+|39
+|31
+|6
+|84
+|{{winpct|39|31|6}}
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/bannidr01c.html |title=Drew Bannister Coaching Record|access-date=2024-11-24 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|28
+|[[Jim Montgomery (ice hockey)|Jim Montgomery]]
+|[[2024–25 NHL season|2024]]–present
+| 142 
+| 72 
+| 51 
+| 19 
+| 163
+|{{winpct|72|51|19}}
+|—
+|—
+|—
+|—
+|
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/montgji01c.html |title=Jim Montgomery Coaching Record|access-date=2024-11-24 |publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|}
+
+==Notes==
+* {{note label|Note1|a|a}} A running total of the number of coaches of the Blues. Thus, any coach who has two or more separate terms as head coach is only counted once.
+* {{note label|Note2|b|b}} Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|archive-url=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|url-status=dead|archive-date=2008-05-11|title=Official Rules|publisher=NHL Enterprises, L.P|access-date=2009-03-08|format=PDF}}</ref>
+* {{note label|Note3|c|c}} Each year is linked to an article about that particular NHL season.
+
+==References==
+
+===General===
+* {{cite web|url=https://www.hockey-reference.com/teams/STL/coaches.html|title=St. Louis Blues Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|access-date=2010-01-02}}
+
+===Specific===
+{{reflist}}
+
+{{St. Louis Blues}}
+{{NHLHeadCoach}}
+
+{{featured list}}
+
+[[Category:St. Louis Blues coaches| ]]
+[[Category:National Hockey League coaches by team|St. Louis Blues head coaches]]
+[[Category:Lists of ice hockey coaches|St. Louis Blues head coaches]]
+[[Category:St. Louis Blues lists|Head coaches]]

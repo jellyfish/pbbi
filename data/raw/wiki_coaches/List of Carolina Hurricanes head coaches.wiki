@@ -1,0 +1,189 @@
+{{Short description|none}}
+{{for|the head coaches before 1997|List of Hartford Whalers head coaches}}
+{{Use mdy dates|date=May 2025}}
+[[File:BrindAmour_2009-01-06_1562v1_wiki.jpg|thumb|right|Current Head Coach Rod Brind'Amour as captain of the Carolina Hurricanes in 2009]]
+
+The [[Carolina Hurricanes]] are an American professional [[ice hockey]] team based in [[Raleigh, North Carolina]]. They play in the [[Metropolitan Division]] of the [[Eastern Conference (NHL)|Eastern Conference]] in the [[National Hockey League]] (NHL).<ref>{{cite web|url=http://www.nhl.com/ice/teams.htm|archive-url=https://web.archive.org/web/20090311030113/http://www.nhl.com/ice/teams.htm|url-status=dead|archive-date=March 11, 2009|title=Teams|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-24}}</ref> The current head coach is [[Rod Brind'Amour]]. The team joined the NHL in 1979 as an [[expansion team]] as the [[Hartford Whalers]], but moved to Raleigh, North Carolina in 1997. The Hurricanes won their first [[Stanley Cup]] [[List of Stanley Cup champions|championship]] in 2006.<ref name="history">{{cite web|url=http://hurricanes.nhl.com/team/app/?service=page&page=NHLPage&id=2738|title=Franchise Timeline|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-24|url-status=dead|archiveurl=https://web.archive.org/web/20090308133751/http://hurricanes.nhl.com/team/app/?service=page&page=NHLPage&id=2738|archivedate=2009-03-08}}</ref> Having first played at the [[Greensboro Coliseum]], the Hurricanes have played their home games at the [[PNC Arena]], which was first named the Raleigh Entertainment & Sports Arena, since 1999.<ref>{{cite web|url=http://www.rbccenter.com/default.asp?RBCcenter=88&urlkeyword=Arena_Info|title=Arena Info|publisher=[[RBC Center]]|accessdate=2008-12-24|url-status=dead|archiveurl=https://web.archive.org/web/20081222091507/http://www.rbccenter.com/default.asp?RBCcenter=88&urlkeyword=Arena_Info|archivedate=2008-12-22}}</ref> The Hurricanes are owned by [[Thomas Dundon|Tom Dundon]] and [[Eric Tulsky]] is their [[general manager]].<ref>{{Cite web|url=https://www.nhl.com/hurricanes/team/staff|title=Staff Directory|website=Carolina Hurricanes|language=en-US|access-date=2019-04-07}}</ref>
+
+There have been five&nbsp;[[head coach]]es for the Hurricanes team. The team's first head coach was [[Paul Maurice]], who has coached for six seasons. Maurice is the team's all-time leader for the most games coached, game wins and [[Point (ice hockey)|points]] in the regular season, and is also all-time leader in playoff games coached and game wins. [[Peter Laviolette]] & Brind'Amour are the only coaches to have won the [[Stanley Cup]]<ref name="history"/> with the Hurricanes in the [[2006 Stanley Cup Finals|2006]] & [[2026 Stanley Cup Finals]].<ref name="history"/> None of the Hurricanes coaches have been elected into the [[Hockey Hall of Fame]] as a [[List of members of the Hockey Hall of Fame#Builders|builder]]. Maurice was the head coach of the Hurricanes since the firing of Laviolette, but was replaced by [[Kirk Muller]] on November 28, 2011.<ref>{{cite web|url=https://www.tsn.ca/nhl/story/?id=258260&lid=sublink02&lpos=headlines_main|title=Hurricanes fire Laviolette; make Maurice head coach|publisher=[[CTVglobemedia]]|work=[[The Sports Network]]|date=2008-12-03|accessdate=2008-12-24}}</ref><ref>{{cite web|url=https://www.hockey-reference.com/teams/CAR/coaches.html|title=Carolina Hurricanes Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=2008-12-21}}</ref> Muller was relieved of coaching duties on May 5, 2014.<ref>{{cite web | url=http://www.canescountry.com/2014/5/5/5683394/coach-kirk-muller-fired-by-carolina-hurricanes | title=Coach Kirk Muller Fired by Carolina Hurricanes | date=5 May 2014 }}</ref> On June 19, 2014, the Hurricanes named [[Bill Peters (ice hockey)|Bill Peters]] their head coach, who decided to opt out of his contract following the 2017–18 season.<ref>{{cite web|url=http://www.newsobserver.com/2014/06/19/3949561/canes-name-detroits-bill-peters.html|title=Canes name Detroit's Bill Peters as new coach|publisher=[[The McClatchy Company]]|work=newsobserver.com|accessdate=2014-11-25|url-status=dead|archiveurl=https://web.archive.org/web/20141225151738/http://www.newsobserver.com/2014/06/19/3949561/canes-name-detroits-bill-peters.html|archivedate=2014-12-25}}</ref> On May 8, 2018, the Hurricanes named assistant coach and former [[Captain (ice hockey)|team captain]] [[Rod Brind'Amour]] as the head coach for the 2018–19 season.<ref>{{Cite web|url=https://www.nhl.com/hurricanes/news/canes-name-rod-brindamour-as-head-coach-298520688|title=Hurricanes Name Rod Brind'Amour as Head Coach|website=NHL.com|language=en-US|access-date=2019-04-07}}</ref>
+
+==Key==
+{| class="wikitable"
+|-
+|'''#'''
+|Number of coaches{{ref label|Note1|a|a}}
+|-
+|'''GC'''
+|Games coached
+|-
+|'''W'''
+|Wins = 2 points
+|-
+|'''L'''
+|Losses = 0 points
+|-
+|'''T'''
+|Ties = 1 point
+|-
+|'''OT'''
+|[[Overtime (ice hockey)|Overtime/shootout]] losses = 1 point{{ref label|Note2|b|b}}
+|-
+|'''PTS'''
+|[[Point (ice hockey)|Points]]
+|-
+|'''Win%'''
+|[[Winning percentage]]
+|-
+|style="background:#D0E7FF;"|§
+|Name is engraved on the [[Stanley Cup]]
+|-
+! scope="row" style="background-color:#cfc;" | {{dagger}}
+| Spent entire professional head coaching career with the Hurricanes
+|-
+! scope="row" style="background-color:#fcf;" | §{{dagger}}
+| Spent entire NHL head coaching career with the Hurricanes<br />and also Name is engraved on the [[Stanley Cup]]
+|}
+
+==Coaches==
+''Note: Statistics are correct through the [[2025–26 NHL season|2025–26 season]].''
+{| class="wikitable"
+! rowspan="2" | #
+! rowspan="2" | Name
+! rowspan="2" | Term{{ref label|Note3|c|c}}
+! colspan="6" | Regular season
+! colspan="4" | Playoffs
+! rowspan="2" | Achievements
+! rowspan="2" | Reference
+|-
+! GC
+! W
+! L
+! T/OT
+! PTS
+! Win%
+! GC
+! W
+! L
+! Win%
+|-
+|-
+|align=center| 1
+| [[Paul Maurice]]
+| [[1997–98 NHL season|1997]]–[[2003–04 NHL season|2003]]
+|522
+|207
+|219
+|96
+|510
+|.489
+|35
+|17
+|18
+|.486
+|style="text-align:center;"|2001–02 [[Prince of Wales Trophy]] winner<ref name="powt">{{cite web|url=http://www.nhl.com/trophies/wales.html|title=Prince of Wales Trophy|publisher=Lincoln Hockey and the National Hockey League|work=[[National Hockey League|NHL]]|accessdate=2017-07-18|url-status=dead|archiveurl=https://web.archive.org/web/20060423155208/http://www.nhl.com/trophies/wales.html|archivedate=2006-04-23}}</ref>
+|align=center|<ref name="maurice">{{cite web |url=https://www.hockey-reference.com/coaches/mauripa99c.html|title=Paul Maurice Coaching Record|accessdate=2008-12-24|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|- style="background:#D0E7FF;"
+|style="text-align:center;"|2
+| [[Peter Laviolette]]§
+| [[2003–04 NHL season|2003]]–[[2008–09 NHL season|2008]]
+|323
+|167
+|122
+|34
+|368
+|.570
+|25
+|16
+|9
+|.640
+|style="text-align:center;"|[[List of Stanley Cup champions|Stanley Cup]] champions ([[2006 Stanley Cup Final|2006]])<ref name="cup">{{cite news|url=https://www.nytimes.com/2006/06/19/sports/hockey/20hurricanes_wire.html?mcubz=0|title=Hurricanes Win First Stanley Cup|work=[[The New York Times]]|date=19 June 2006 |accessdate=2017-07-18}}</ref>
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/laviope01c.html|title=Peter Laviolette Coaching Record|accessdate=2008-12-24|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| —
+| Paul Maurice
+| [[2008–09 NHL season|2008]]–[[2011–12 NHL season|2011]]
+|246
+|116
+|100
+|30
+|262
+|.533
+|18
+|8
+|10
+|.444
+| 
+|align=center|<ref name="maurice"/>
+|-
+|- style="background:#cfc;"
+|style="text-align:center;"|3
+| [[Kirk Muller]]{{dagger}}
+| [[2011–12 NHL season|2011]]–[[2013–14 NHL season|2014]]
+|187
+|80
+|80
+|27
+|187
+|.500
+|—
+|—
+|—
+|—
+| 
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/mulleki01c.html|title=Kirk Muller Coaching Record|accessdate=2012-12-17|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|align=center| 4
+| [[Bill Peters (ice hockey)|Bill Peters]]
+| [[2014–15 NHL season|2014]]–[[2017–18 NHL season|2018]]
+|328
+|137
+|138
+|53
+|327
+|.498
+|—
+|—
+|—
+|—
+| 
+|align=center|<ref>{{cite web |url=https://www.hockey-reference.com/coaches/peterbi99c.html|title=Bill Peters Coaching Record|accessdate=2018-05-08|publisher=Sports Reference LLC|work=Hockey-Reference.com}}</ref>
+|-
+|- style="background:#fcf;"
+|style="text-align:center;"|5
+| [[Rod Brind'Amour]]§{{dagger}}
+| [[2018–19 NHL season|2018]]–present
+|616
+|378
+|182
+|56
+|812
+|.659
+|108
+|63
+|45
+|.583
+|style="text-align:center;"|[[List of Stanley Cup champions|Stanley Cup]] champions ([[2026 Stanley Cup Final|2026]])<br />[[Jack Adams Award]] ([[2020–21 NHL season|2021]])
+|align=center|<ref>{{Cite web|url=https://www.hockey-reference.com/coaches/brindro01c.html|title=Rod Brind'Amour NHL & WHA Hockey Coaching Record|website=Hockey-Reference.com|language=en|access-date=2024-05-18}}</ref>
+|}
+<!-- DO NOT UPDATE THE CURRENT COACH'S RECORD UNTIL THE END OF THE CURRENT SEASON -->
+
+==Notes==
+*{{note label|Note1|a|a}} A running total of the number of coaches of the Hurricanes. Thus, any coach who has two or more separate terms as head coach is only counted once.
+*{{note label|Note2|b|b}} Before the 2005–06 season, the NHL instituted a [[Overtime (ice hockey)#Shootout|penalty shootout]] for regular season games that remained tied after a five-minute overtime period, which prevented ties.<ref>{{cite web|url=http://www.nhl.com/ext/0708rules.pdf|title=Official Rules|publisher=Lincoln Hockey and the National Hockey League|work=NHL.com|accessdate=2008-12-24|url-status=dead|archiveurl=https://web.archive.org/web/20080511234846/http://www.nhl.com/ext/0708rules.pdf|archivedate=2008-05-11}}</ref>
+*{{note label|Note3|c|c}}Each year is linked to an article about that particular NHL season.
+
+==References==
+;General
+*{{cite web|url=https://www.hockey-reference.com/teams/CAR/coaches.html|title=Carolina Hurricanes Coach Register|publisher=Sports Reference LLC|work=Hockey-Reference.com|accessdate=2008-12-24}}
+
+;Specific
+{{reflist}}
+
+{{Carolina Hurricanes}}
+{{NHLHeadCoach}}
+
+[[Category:Carolina Hurricanes coaches| ]]
+[[Category:Carolina Hurricanes lists|coaches]]
+[[Category:National Hockey League coaches by team|Carolina Hurricanes head coaches]]
+[[Category:Lists of ice hockey coaches|Carolina Hurricanes head coaches]]
